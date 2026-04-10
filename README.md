@@ -44,17 +44,17 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 
 ### Basic Goals (Grade 3 Level)
 
-- Assemble the *E. faecium* E745 genome using PacBio long reads
+- Assemble the *E. faecium* E745 genome using PacBio long reads (Canu assembler)
 - Evaluate assembly quality (QUAST, BUSCO)
 - Perform structural and functional annotation (Prokka, eggNOG-mapper)
 - Conduct synteny comparison with a closely related *E. faecium* genome
-- Preprocess Illumina RNA-seq reads (quality trimming + QC)
+- Preprocess Illumina RNA-seq reads (QC → trimming → QC)
 - Map RNA-seq reads to the assembled genome (BWA)
 - Perform differential expression analysis between BHI and heat-inactivated human serum (DESeq2)
 
 ### Extended Goals (Grade 4/5 Level)
 
-- Compare assembly results using different assemblers (Flye vs. Canu)
+- Compare assembly results using alternative assembler (Flye)
 - Identify plasmids from the assembly
 - Predict antibiotic resistance genes (ResFinder / ABRicate)
 - Re-analyze Tn-seq data to identify genes essential for growth in serum
@@ -72,25 +72,26 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 | Source | Clinical isolate, hospitalized patient (VRE outbreak, Dutch hospital, 2000) |
 | Clade | A-1 (hospital-adapted, multidrug-resistant lineage) |
 
-### Genome Sequencing Data
+### Genome Sequencing Data (DNA)
 
-| Technology | Read type | Purpose |
-|------------|-----------|---------|
-| PacBio RS II | Long reads (15-20 kb) | Primary assembly |
-| Illumina HiSeq 2500 | 100 bp paired-end | Polishing |
-| Oxford Nanopore MiniION | Long reads | Gap closure |
+| Technology | Read type | Purpose | Trimming needed |
+|------------|-----------|---------|-----------------|
+| PacBio RS II | Long reads (15-20 kb) | Primary assembly | No (QC only) |
+| Illumina HiSeq 2500 | 100 bp paired-end | Polishing | Yes |
+| Oxford Nanopore MiniION | Long reads | Gap closure | No (QC only) |
 
-### Transcriptomics Data (RNA-seq)
+### Transcriptomics Data (RNA)
 
-| Condition | Phase | Replicates | Platform |
-|-----------|-------|------------|----------|
-| Rich medium (BHI) | Exponential | 3 | Illumina HiSeq 2500, 100 bp PE |
-| Heat-inactivated human serum | Exponential | 3 | Illumina HiSeq 2500, 100 bp PE |
+| Condition | Phase | Replicates | Platform | Trimming needed |
+|-----------|-------|------------|----------|-----------------|
+| Rich medium (BHI) | Exponential | 3 | Illumina HiSeq 2500, 100 bp PE | Yes (QC → Trim → QC) |
+| Heat-inactivated human serum | Exponential | 3 | Illumina HiSeq 2500, 100 bp PE | Yes (QC → Trim → QC) |
 
 ### Tn-seq Data (Optional Extra)
 
 - Transposon mutant libraries grown in BHI vs. native/heat-inactivated human serum
 - 10 replicate libraries sequenced on Illumina
+- Trimming needed: Yes
 
 ---
 
@@ -98,21 +99,46 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 
 ### Pipeline Overview
 
-| Step | Analysis | Software | Estimated Time |
-|------|----------|----------|----------------|
-| 1 | Quality Control | FastQC | ~10 min |
-| 2 | Read Trimming | Trimmomatic | ~50 min/file |
-| 3 | Genome Assembly | Flye / Canu | 2.5-5 h |
-| 4 | Assembly Polishing | Pilon | ~2 h |
-| 5 | Assembly Evaluation | QUAST, BUSCO | <15 min |
-| 6 | Structural Annotation | Prokka | <5 min |
-| 7 | Functional Annotation | eggNOG-mapper | ~13 h |
-| 8 | Synteny Comparison | MUMmerplot | <5 min |
-| 9 | RNA-seq Alignment | BWA | ~30 min |
-| 10 | Read Counting | htseq-count | ~10 min |
-| 11 | Differential Expression | DESeq2 | ~5 min |
-| 12 | Tn-seq Analysis (extra) | Custom scripts | ~90 min |
-| 13 | Resistance Gene Prediction | ABRicate / ResFinder | <5 min |
+**Phase 1: DNA Quality Control**
+
+| Step | Analysis | Data Type | Data Source | Software | Estimated Time |
+|------|----------|-----------|-------------|----------|----------------|
+| 1 | Quality Control (DNA) | PacBio, Nanopore | Raw long reads | FastQC | ~10 min |
+
+**Phase 2: Genome Assembly and Annotation**
+
+| Step | Analysis | Data Type | Data Source | Software | Estimated Time |
+|------|----------|-----------|-------------|----------|----------------|
+| 2 | Genome Assembly (primary) | PacBio | DNA long reads | Canu | ~2.5 h |
+| 3 | Genome Assembly (optional) | PacBio | DNA long reads | Flye | ~5 h |
+| 4 | Assembly Polishing | Illumina PE | DNA short reads | Pilon | ~2 h |
+| 5 | Assembly Evaluation | Assembly | FASTA file | QUAST, BUSCO | <15 min |
+| 6 | Structural Annotation | Assembly | FASTA file | Prokka | <5 min |
+| 7 | Functional Annotation(Extra) | Proteins | FASTA file | eggNOG-mapper | ~13 h |
+| 8 | Synteny Comparison(Extra) | Assembly | FASTA file | MUMmerplot | <5 min |
+
+**Phase 3: RNA Data Preprocessing (QC → Trimming → QC)**
+
+| Step | Analysis | Data Type | Data Source | Software | Estimated Time |
+|------|----------|-----------|-------------|----------|----------------|
+| 9 | Quality Control (RNA - before) | Illumina PE | Raw RNA reads | FastQC | ~10 min/sample |
+| 10 | Read Trimming (RNA) | Illumina PE | RNA reads | Trimmomatic | ~50 min/sample |
+| 11 | Quality Control (RNA - after) | Illumina PE | Trimmed RNA reads | FastQC | ~10 min/sample |
+
+**Phase 4: RNA-seq Analysis**
+
+| Step | Analysis | Data Type | Data Source | Software | Estimated Time |
+|------|----------|-----------|-------------|----------|----------------|
+| 12 | RNA-seq Alignment | Illumina PE | Trimmed RNA reads | BWA | ~30 min |
+| 13 | Read Counting | BAM files | Alignment files | htseq-count | ~10 min |
+| 14 | Differential Expression | Count matrix | Count table | DESeq2 | ~5 min |
+
+**Phase 5: Extra Analyses (Optional)**
+
+| Step | Analysis | Data Type | Data Source | Software | Estimated Time |
+|------|----------|-----------|-------------|----------|----------------|
+| 15 | Tn-seq Analysis(Extra) | Illumina | Tn-seq reads | Custom scripts | ~90 min |
+| 16 | Resistance Gene Prediction(Extra) | Assembly | FASTA file | ABRicate / ResFinder | <5 min |
 
 ---
 
@@ -121,48 +147,62 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 ```
 /proj/uppmax2026-1-61/nobackup/work/<username>/Genome_Analysis_Project/
 │
-├── 00_raw_data/              # Symbolic links to raw data
-│   └── links_to_raw_data.sh
+├── 00_raw_data/                      # Symbolic links to raw data
+│   ├── dna_pacbio/                   # PacBio long reads (no trimming needed)
+│   ├── dna_nanopore/                 # Nanopore long reads (no trimming needed)
+│   ├── dna_illumina/                 # Illumina short reads (for polishing)
+│   ├── rna_illumina/                 # RNA-seq Illumina reads
+│   └── tn_seq/                       # Tn-seq Illumina reads (extra)
 │
-├── 01_quality_control/       # FastQC reports, trimming logs
-│   ├── fastqc_before/
-│   ├── fastqc_after/
-│   └── trimming_logs/
+├── 01_dna_quality_control/           # DNA read quality control (PacBio, Nanopore)
+│   ├── fastqc_pacbio/
+│   ├── fastqc_nanopore/
+│   └── fastqc_illumina_polishing/
 │
-├── 02_assembly/              # Genome assembly and evaluation
-│   ├── flye_assembly/
-│   ├── canu_assembly/        # (optional)
-│   ├── polishing/
-│   └── assembly_evaluation/
+├── 02_assembly/                      # Genome assembly
+│   ├── canu_assembly/                # Primary assembler (required)
+│   │   ├── assembly/
+│   │   └── evaluation/
+│   ├── flye_assembly/                # Optional assembler (for comparison)
+│   │   ├── assembly/
+│   │   └── evaluation/
+│   ├── polishing/                    # Pilon polishing with Illumina reads
+│   └── assembly_evaluation/          # QUAST, BUSCO results
 │
-├── 03_annotation/            # Genome annotation
-│   ├── prokka/
-│   ├── eggnog/
-│   └── resistance_genes/
+├── 03_annotation/                    # Genome annotation
+│   ├── prokka/                       # Structural annotation
+│   ├── eggnog/                       # Functional annotation
+│   └── resistance_genes/             # Antibiotic resistance gene prediction
 │
-├── 04_rna_seq/               # RNA-seq analysis
-│   ├── trimmed_reads/
-│   ├── alignment/
-│   ├── counts/
-│   └── deseq2_results/
+├── 04_synteny/                       # Comparative genomics
+│   └── mummerplot/                   # Synteny plots
 │
-├── 05_tn_seq/                # Tn-seq analysis (extra)
-│   ├── mapped_reads/
-│   └── essential_genes/
+├── 05_rna_quality_control/           # RNA read quality control
+│   ├── fastqc_before/                # Before trimming
+│   ├── trimming_logs/                # Trimmomatic logs
+│   └── fastqc_after/                 # After trimming
 │
-├── 06_synteny/               # Comparative genomics
-│   └── mummerplot/
+├── 06_rna_seq/                       # RNA-seq analysis
+│   ├── trimmed_reads/                # Trimmed RNA reads
+│   ├── alignment/                    # BWA alignment BAM files
+│   ├── counts/                       # htseq-count output
+│   └── deseq2_results/               # Differential expression results
 │
-├── 07_scripts/               # All scripts and batch jobs
-│   ├── batch_jobs/
-│   ├── bash_scripts/
-│   └── R_scripts/
+├── 07_tn_seq/                        # Tn-seq analysis (extra)
+│   ├── trimmed_reads/                # Trimmed Tn-seq reads
+│   ├── mapped_reads/                 # Mapped reads
+│   └── essential_genes/              # Conditionally essential genes
 │
-├── 08_results_figures/       # Final results
+├── 08_scripts/                       # All scripts and batch jobs
+│   ├── batch_jobs/                   # SLURM submission scripts
+│   ├── bash_scripts/                 # Bash pipelines
+│   └── R_scripts/                    # R scripts for DESeq2
+│
+├── 09_results_figures/               # Final results
 │   ├── figures/
 │   └── tables/
 │
-└── README.md                 # This file
+└── README.md                         # This file
 ```
 
 ---
@@ -172,28 +212,53 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 ### Naming Template
 
 ```
-<project>_<sample>_<analysis>_<tool>_<YYYYMMDD>.<extension>
+<project>_<sample>_<analysis>_<tool>_<condition>_<date>.<extension>
 ```
+
+### Field Definitions
+
+| Field | Description | Required | Example |
+|-------|-------------|----------|---------|
+| project | Project/species abbreviation | Yes | `efaecium` |
+| sample | Strain/sample ID | Yes | `E745` |
+| analysis | Type of analysis | Yes | `assembly`, `annotation`, `alignment`, `qc`, `trimming`, `counts`, `deseq2` |
+| tool | Software used | Yes | `canu`, `flye`, `prokka`, `bwa`, `fastqc`, `trimmomatic`, `htseq` |
+| condition | Experimental condition (if applicable) | No | `BHI`, `serum`, `pacbio`, `nanopore` |
+| date | Run date (YYYYMMDD) | Yes | `20260408` |
+| extension | File extension | Yes | `.fasta`, `.gff`, `.bam`, `.html`, `.log`, `.csv` |
 
 ### Examples
 
 | File Type | Example |
 |-----------|---------|
-| Assembly | `efaecium_E745_flye_20260408.fasta` |
-| Annotation | `efaecium_E745_prokka_20260408.gff` |
-| RNA-seq alignment (BHI) | `efaecium_E745_BHI_bwa_20260408.bam` |
-| RNA-seq alignment (serum) | `efaecium_E745_serum_bwa_20260408.bam` |
+| DNA QC (PacBio) | `efaecium_E745_qc_fastqc_pacbio_20260408.html` |
+| DNA QC (Nanopore) | `efaecium_E745_qc_fastqc_nanopore_20260408.html` |
+| RNA QC (before trimming) | `efaecium_E745_qc_fastqc_BHI_before_20260408.html` |
+| RNA QC (after trimming) | `efaecium_E745_qc_fastqc_BHI_after_20260408.html` |
+| Trimming log | `efaecium_E745_trimming_trimmomatic_BHI_20260408.log` |
+| Assembly (Canu - primary) | `efaecium_E745_assembly_canu_20260408.fasta` |
+| Assembly (Flye - optional) | `efaecium_E745_assembly_flye_20260408.fasta` |
+| Polished assembly | `efaecium_E745_assembly_pilon_20260408.fasta` |
+| Assembly evaluation (QUAST) | `efaecium_E745_evaluation_quast_20260408/` |
+| Assembly evaluation (BUSCO) | `efaecium_E745_evaluation_busco_20260408/` |
+| Structural annotation | `efaecium_E745_annotation_prokka_20260408.gff` |
+| Functional annotation | `efaecium_E745_annotation_eggnog_20260408.tsv` |
+| Synteny plot | `efaecium_E745_synteny_mummer_20260408.png` |
+| RNA-seq alignment (BHI) | `efaecium_E745_alignment_bwa_BHI_20260408.bam` |
+| RNA-seq alignment (serum) | `efaecium_E745_alignment_bwa_serum_20260408.bam` |
 | Count matrix | `efaecium_E745_counts_htseq_20260408.txt` |
 | DE results | `efaecium_E745_deseq2_serum_vs_BHI_20260408.csv` |
-| Batch script | `run_flye_assembly_20260408.sh` |
+| Resistance genes | `efaecium_E745_resistance_abricate_20260408.txt` |
+| Batch script | `run_canu_assembly_20260408.sh` |
 
 ### Rules
 
-- Use lowercase letters
-- Use underscores `_` to separate words
-- Use hyphens `-` to separate versions or parameters
-- Use date format `YYYYMMDD`
-- Avoid spaces, `/`, `\`, `()`, `*`, `?`
+- Use **lowercase letters** only
+- Use **underscores `_`** to separate fields
+- Use **hyphens `-`** to separate versions or parameters (if needed)
+- Use **date format `YYYYMMDD`** (e.g., `20260408` for April 8, 2026)
+- **Optional fields** (like `condition`) can be omitted if not applicable
+- **Avoid** spaces, `/`, `\`, `()`, `*`, `?`, and other special characters
 
 ---
 
@@ -203,12 +268,13 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 |-----------|----------|-------------|
 | Apr 8 | GitHub seminar | Repository created |
 | **Apr 10** | **Project plan deadline** | **This document in wiki** |
-| Apr 15 | Lab session | Genome assembly started |
-| Apr 16 | Compulsory assembly | Assembly + evaluation completed |
+| Apr 15 | Lab session | DNA QC + Canu assembly started |
+| Apr 16 | Compulsory assembly | Canu assembly + evaluation completed |
 | Apr 21 | Lab session | Polishing + annotation started |
+| Apr 24 | Lab session | Flye assembly (optional) + Synteny |
 | Apr 28 | Compulsory annotation | Annotation completed |
-| May 5 | Lab session | RNA-seq mapping + counting |
-| May 8 | Lab session | Differential expression analysis |
+| May 5 | Lab session | RNA QC + trimming |
+| May 8 | Lab session | RNA-seq alignment + counting |
 | May 11 | Compulsory DE | DE results ready |
 | May 19 | Compulsory wiki | Wiki fully documented |
 | **May 22** | **GitHub final upload** | **All code + results in repo** |
@@ -244,6 +310,8 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 ### Key Principles
 
 - **No copying of raw data:** Use symbolic links (`ln -s`)
+- **DNA long reads (PacBio/Nanopore):** QC only, no trimming required
+- **RNA reads:** QC → Trimming → QC (performed after genome annotation is complete)
 - **Compressed storage:** Convert SAM → BAM; keep FASTQ files compressed (.gz)
 - **Informative naming:** Follow naming convention above
 - **Documentation:** All commands recorded in GitHub wiki daily log
@@ -254,8 +322,21 @@ This project aims to reproduce and extend the bioinformatics analyses from Zhang
 ```bash
 # In 00_raw_data/ directory
 cd ~/Genome_Analysis_Project/00_raw_data/
-ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/PacBio/*.fastq.gz ./
-ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/RNA_seq/*.fastq.gz ./
+
+# Link DNA PacBio data
+ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/PacBio/*.fastq.gz dna_pacbio/
+
+# Link DNA Nanopore data
+ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/Nanopore/*.fastq.gz dna_nanopore/
+
+# Link DNA Illumina data (for polishing)
+ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/Illumina_DNA/*.fastq.gz dna_illumina/
+
+# Link RNA-seq data
+ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/RNA_seq/*.fastq.gz rna_illumina/
+
+# Link Tn-seq data (optional)
+ln -s /proj/uppmax2026-1-61/Genome_Analysis/Paper_I/Tn_seq/*.fastq.gz tn_seq/
 ```
 
 ### Space Monitoring
@@ -298,9 +379,11 @@ module load <module_name>
 
 | Analysis | Estimated Time | Strategy |
 |----------|---------------|----------|
+| Canu assembly | ~2.5 h | Submit as batch job or run during reservation |
+| Flye assembly (optional) | ~5 h | Submit as batch job |
 | eggNOG-mapper | ~13 h | Submit as batch job, run overnight |
-| Genome assembly | ~5 h | Submit as batch job or run during reservation |
-| RNA-seq alignment | ~30 min × 6 | Submit as array job |
+| RNA trimming (6 samples) | ~50 min each | Submit as array job |
+| RNA-seq alignment (6 samples) | ~30 min each | Submit as array job |
 | Tn-seq analysis | ~90 min | Run as batch job |
 
 ### Job Monitoring Commands
@@ -333,7 +416,7 @@ scancel <JOBID> -M snowy
 
 | Potential Issue | Mitigation |
 |----------------|------------|
-| Assembly fails or is highly fragmented | Try alternative assembler (Canu instead of Flye); adjust parameters |
+| Assembly fails or is highly fragmented | Use Canu as primary; try Flye as alternative |
 | Long running time for eggNOG-mapper | Start early, use batch job, monitor with squeue |
 | Misunderstanding of Tn-seq data | Focus on RNA-seq as primary; Tn-seq as extra |
 | Disk space full in home directory | Use project nobackup folder; delete intermediate files |
@@ -404,22 +487,47 @@ salloc -A uppmax2026-1-61 -c 2 -t 04:00:00 --reservation=<code>
 module load <module_name>
 ```
 
-### Quality Control Commands
+### DNA Quality Control Commands (PacBio/Nanopore)
 
 ```bash
-# FastQC on raw reads
-fastqc raw_reads.fastq.gz -o fastqc_before/
+# FastQC on PacBio long reads (QC only, no trimming)
+fastqc pacbio_reads.fastq.gz -o 01_dna_quality_control/fastqc_pacbio/
 
-# Trimmomatic (paired-end)
+# FastQC on Nanopore long reads (QC only, no trimming)
+fastqc nanopore_reads.fastq.gz -o 01_dna_quality_control/fastqc_nanopore/
+```
+
+### Canu Assembly Command
+
+```bash
+# Canu assembly for PacBio reads (primary assembler)
+canu -p efaecium_E745 -d 02_assembly/canu_assembly/ \
+    genomeSize=2.8m \
+    -pacbio-raw pacbio_reads.fastq.gz \
+    useGrid=false \
+    maxThreads=4
+```
+
+### RNA Quality Control and Trimming Commands
+
+```bash
+# Step 1: QC before trimming
+fastqc rna_sample_R1.fastq.gz -o 05_rna_quality_control/fastqc_before/
+fastqc rna_sample_R2.fastq.gz -o 05_rna_quality_control/fastqc_before/
+
+# Step 2: Trimmomatic (paired-end)
 trimmomatic PE \
-    sample_R1.fastq.gz sample_R2.fastq.gz \
-    sample_R1_trimmed.fastq.gz sample_R1_unpaired.fastq.gz \
-    sample_R2_trimmed.fastq.gz sample_R2_unpaired.fastq.gz \
+    rna_sample_R1.fastq.gz rna_sample_R2.fastq.gz \
+    06_rna_seq/trimmed_reads/sample_R1_trimmed.fastq.gz \
+    06_rna_seq/trimmed_reads/sample_R1_unpaired.fastq.gz \
+    06_rna_seq/trimmed_reads/sample_R2_trimmed.fastq.gz \
+    06_rna_seq/trimmed_reads/sample_R2_unpaired.fastq.gz \
     ILLUMINACLIP:adapters.fa:2:30:10 \
     LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 
-# FastQC after trimming
-fastqc *_trimmed.fastq.gz -o fastqc_after/
+# Step 3: QC after trimming
+fastqc sample_R1_trimmed.fastq.gz -o 05_rna_quality_control/fastqc_after/
+fastqc sample_R2_trimmed.fastq.gz -o 05_rna_quality_control/fastqc_after/
 ```
 
 ### DESeq2 Analysis Template (R)
