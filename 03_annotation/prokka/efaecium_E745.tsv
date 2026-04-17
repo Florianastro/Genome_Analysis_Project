@@ -1,0 +1,3111 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NHECHLLE_00001	CDS	606				IS256 family transposase ISEf1
+NHECHLLE_00002	tRNA	74				tRNA-Met(cat)
+NHECHLLE_00003	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_00004	CDS	303				hypothetical protein
+NHECHLLE_00005	tmRNA	364	ssrA			transfer-messenger RNA, SsrA
+NHECHLLE_00006	CDS	774		3.1.3.-		Putative phosphatase
+NHECHLLE_00007	CDS	351				hypothetical protein
+NHECHLLE_00008	CDS	717	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+NHECHLLE_00009	CDS	1449	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+NHECHLLE_00010	CDS	510				hypothetical protein
+NHECHLLE_00011	CDS	726				hypothetical protein
+NHECHLLE_00012	CDS	2121	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+NHECHLLE_00013	CDS	1179	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+NHECHLLE_00014	CDS	759	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+NHECHLLE_00015	CDS	486	ybaK_1	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+NHECHLLE_00016	CDS	1254	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+NHECHLLE_00017	CDS	1350	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+NHECHLLE_00018	CDS	1347	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+NHECHLLE_00019	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_00020	CDS	387				hypothetical protein
+NHECHLLE_00021	CDS	1446				IS1182 family transposase ISEfa7
+NHECHLLE_00022	CDS	783				IS982 family transposase ISEfm1
+NHECHLLE_00023	CDS	960			COG2826	IS30 family transposase IS1062
+NHECHLLE_00024	CDS	150				hypothetical protein
+NHECHLLE_00025	CDS	213				hypothetical protein
+NHECHLLE_00026	CDS	111				hypothetical protein
+NHECHLLE_00027	CDS	1800				hypothetical protein
+NHECHLLE_00028	CDS	597				hypothetical protein
+NHECHLLE_00029	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00030	CDS	345				hypothetical protein
+NHECHLLE_00031	CDS	420				hypothetical protein
+NHECHLLE_00032	CDS	351				hypothetical protein
+NHECHLLE_00033	CDS	1332				hypothetical protein
+NHECHLLE_00034	CDS	567				hypothetical protein
+NHECHLLE_00035	tRNA	88				tRNA-Ser(cga)
+NHECHLLE_00036	CDS	1206	xerC_1			Tyrosine recombinase XerC
+NHECHLLE_00037	CDS	441				hypothetical protein
+NHECHLLE_00038	CDS	654				hypothetical protein
+NHECHLLE_00039	CDS	423				hypothetical protein
+NHECHLLE_00040	CDS	375				hypothetical protein
+NHECHLLE_00041	CDS	183				hypothetical protein
+NHECHLLE_00042	CDS	321				hypothetical protein
+NHECHLLE_00043	CDS	171				hypothetical protein
+NHECHLLE_00044	CDS	153				hypothetical protein
+NHECHLLE_00045	CDS	483				hypothetical protein
+NHECHLLE_00046	CDS	699				hypothetical protein
+NHECHLLE_00047	CDS	342				hypothetical protein
+NHECHLLE_00048	CDS	672				hypothetical protein
+NHECHLLE_00049	CDS	687				hypothetical protein
+NHECHLLE_00050	CDS	750				hypothetical protein
+NHECHLLE_00051	CDS	270				hypothetical protein
+NHECHLLE_00052	CDS	165				hypothetical protein
+NHECHLLE_00053	CDS	306				hypothetical protein
+NHECHLLE_00054	CDS	291				hypothetical protein
+NHECHLLE_00055	CDS	357				hypothetical protein
+NHECHLLE_00056	CDS	246				hypothetical protein
+NHECHLLE_00057	CDS	420				hypothetical protein
+NHECHLLE_00058	CDS	567				hypothetical protein
+NHECHLLE_00059	CDS	135				hypothetical protein
+NHECHLLE_00060	CDS	690				hypothetical protein
+NHECHLLE_00061	CDS	477				hypothetical protein
+NHECHLLE_00062	CDS	297	yjcQ			putative protein YjcQ
+NHECHLLE_00063	CDS	387				hypothetical protein
+NHECHLLE_00064	CDS	387				hypothetical protein
+NHECHLLE_00065	CDS	381				hypothetical protein
+NHECHLLE_00066	CDS	453				hypothetical protein
+NHECHLLE_00067	CDS	1728				hypothetical protein
+NHECHLLE_00068	CDS	1230				hypothetical protein
+NHECHLLE_00069	CDS	570				hypothetical protein
+NHECHLLE_00070	CDS	1362				hypothetical protein
+NHECHLLE_00071	CDS	279				hypothetical protein
+NHECHLLE_00072	CDS	327				hypothetical protein
+NHECHLLE_00073	CDS	339				hypothetical protein
+NHECHLLE_00074	CDS	366				hypothetical protein
+NHECHLLE_00075	CDS	627				hypothetical protein
+NHECHLLE_00076	CDS	465				hypothetical protein
+NHECHLLE_00077	CDS	2310				hypothetical protein
+NHECHLLE_00078	CDS	720				hypothetical protein
+NHECHLLE_00079	CDS	2706				hypothetical protein
+NHECHLLE_00080	CDS	1719				hypothetical protein
+NHECHLLE_00081	CDS	783				hypothetical protein
+NHECHLLE_00082	CDS	2067				hypothetical protein
+NHECHLLE_00083	CDS	447				hypothetical protein
+NHECHLLE_00084	CDS	138				hypothetical protein
+NHECHLLE_00085	CDS	294				hypothetical protein
+NHECHLLE_00086	CDS	198				hypothetical protein
+NHECHLLE_00087	CDS	1020				hypothetical protein
+NHECHLLE_00088	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_00089	CDS	537				hypothetical protein
+NHECHLLE_00090	CDS	582	cbh_1	3.5.1.24		Choloylglycine hydrolase
+NHECHLLE_00091	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_00092	CDS	342	cbh_2	3.5.1.24		Choloylglycine hydrolase
+NHECHLLE_00093	CDS	1446				IS1182 family transposase ISEfa7
+NHECHLLE_00094	CDS	1896	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+NHECHLLE_00095	CDS	447				hypothetical protein
+NHECHLLE_00096	CDS	150	rpmGA_1			50S ribosomal protein L33 1
+NHECHLLE_00097	CDS	519	folA_1	1.5.1.3		Dihydrofolate reductase
+NHECHLLE_00098	CDS	957	yfiY		COG0614	putative siderophore-binding lipoprotein YfiY
+NHECHLLE_00099	CDS	807	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+NHECHLLE_00100	CDS	990	feuB		COG0609	Iron-uptake system permease protein FeuB
+NHECHLLE_00101	CDS	1005	feuC		COG0609	Iron-uptake system permease protein FeuC
+NHECHLLE_00102	CDS	543	yqgN		COG0212	putative protein YqgN
+NHECHLLE_00103	CDS	699	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+NHECHLLE_00104	CDS	213	yqgQ		COG4483	putative protein YqgQ
+NHECHLLE_00105	CDS	963	glcK	2.7.1.2	COG1940	Glucokinase
+NHECHLLE_00106	CDS	396	yibN		COG0607	putative protein YibN
+NHECHLLE_00107	CDS	366				hypothetical protein
+NHECHLLE_00108	CDS	1812				hypothetical protein
+NHECHLLE_00109	CDS	168				hypothetical protein
+NHECHLLE_00110	CDS	990	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+NHECHLLE_00111	CDS	1485	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+NHECHLLE_00112	CDS	981	melR_1		COG1609	HTH-type transcriptional repressor MelR
+NHECHLLE_00113	CDS	825	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NHECHLLE_00114	CDS	543				hypothetical protein
+NHECHLLE_00115	CDS	465	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+NHECHLLE_00116	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+NHECHLLE_00117	CDS	702				hypothetical protein
+NHECHLLE_00118	CDS	1230	arcA	3.5.3.6		Arginine deiminase
+NHECHLLE_00119	CDS	1020	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+NHECHLLE_00120	CDS	948	arcC1	2.7.2.2		Carbamate kinase 1
+NHECHLLE_00121	CDS	1692	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+NHECHLLE_00122	CDS	546	phnX_1	3.11.1.1		Phosphonoacetaldehyde hydrolase
+NHECHLLE_00123	CDS	129	phnX_2	3.11.1.1		Phosphonoacetaldehyde hydrolase
+NHECHLLE_00124	CDS	1092	phnW	2.6.1.37	COG0075	2-aminoethylphosphonate--pyruvate transaminase
+NHECHLLE_00125	CDS	480	argR_1			Arginine repressor
+NHECHLLE_00126	CDS	783	rpsB		COG0052	30S ribosomal protein S2
+NHECHLLE_00127	CDS	882	tsf		COG0264	Elongation factor Ts
+NHECHLLE_00128	CDS	723	pyrH	2.7.4.22	COG0528	Uridylate kinase
+NHECHLLE_00129	CDS	558	frr			Ribosome-recycling factor
+NHECHLLE_00130	CDS	813	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NHECHLLE_00131	CDS	801				hypothetical protein
+NHECHLLE_00132	CDS	1269	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+NHECHLLE_00133	CDS	1710	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+NHECHLLE_00134	CDS	4359	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+NHECHLLE_00135	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+NHECHLLE_00136	CDS	1176	nusA		COG0195	Transcription termination/antitermination protein NusA
+NHECHLLE_00137	CDS	294				hypothetical protein
+NHECHLLE_00138	CDS	312	rplGA		COG1358	putative ribosomal protein YlxQ
+NHECHLLE_00139	CDS	2307	infB			Translation initiation factor IF-2
+NHECHLLE_00140	CDS	348	rbfA			Ribosome-binding factor A
+NHECHLLE_00141	CDS	468		4.1.2.-		phosphoketolase
+NHECHLLE_00142	CDS	990	xpkA_1	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+NHECHLLE_00143	CDS	885	xpkA_2	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+NHECHLLE_00144	CDS	924	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+NHECHLLE_00145	CDS	942	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+NHECHLLE_00146	CDS	786	gdhIV	1.1.1.47	COG1028	Glucose 1-dehydrogenase 4
+NHECHLLE_00147	CDS	852	glcU_1		COG4975	Glucose uptake protein GlcU
+NHECHLLE_00148	CDS	453				hypothetical protein
+NHECHLLE_00149	CDS	369	fra		COG5646	Intracellular iron chaperone frataxin
+NHECHLLE_00150	CDS	483				hypothetical protein
+NHECHLLE_00151	CDS	1011	mccF			Microcin C7 self-immunity protein MccF
+NHECHLLE_00152	CDS	714				hypothetical protein
+NHECHLLE_00153	CDS	591	ydeA	3.2.-.-	COG0693	putative protease YdeA
+NHECHLLE_00154	CDS	228				hypothetical protein
+NHECHLLE_00155	CDS	1167	hemW		COG0635	Heme chaperone HemW
+NHECHLLE_00156	CDS	1044	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+NHECHLLE_00157	CDS	564	grpE			Protein GrpE
+NHECHLLE_00158	CDS	1830	dnaK		COG0443	Chaperone protein DnaK
+NHECHLLE_00159	CDS	1167	dnaJ		COG0484	Chaperone protein DnaJ
+NHECHLLE_00160	CDS	630				hypothetical protein
+NHECHLLE_00161	CDS	738	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+NHECHLLE_00162	CDS	1503	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+NHECHLLE_00163	CDS	1995	uvrB		COG0556	UvrABC system protein B
+NHECHLLE_00164	CDS	2817	uvrA			UvrABC system protein A
+NHECHLLE_00165	CDS	1266		6.3.1.12		D-aspartate ligase
+NHECHLLE_00166	CDS	732		5.1.1.13		Aspartate racemase
+NHECHLLE_00167	CDS	885	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+NHECHLLE_00168	CDS	999			COG0391	Putative gluconeogenesis factor
+NHECHLLE_00169	CDS	936	whiA		COG1481	putative cell division protein WhiA
+NHECHLLE_00170	CDS	201				hypothetical protein
+NHECHLLE_00171	CDS	627				hypothetical protein
+NHECHLLE_00172	CDS	582				hypothetical protein
+NHECHLLE_00173	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00174	CDS	252				hypothetical protein
+NHECHLLE_00175	CDS	258				hypothetical protein
+NHECHLLE_00176	CDS	588				hypothetical protein
+NHECHLLE_00177	CDS	558				hypothetical protein
+NHECHLLE_00178	CDS	522				hypothetical protein
+NHECHLLE_00179	CDS	3693		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+NHECHLLE_00180	CDS	888	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+NHECHLLE_00181	CDS	1170				hypothetical protein
+NHECHLLE_00182	CDS	1356	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+NHECHLLE_00183	CDS	1806	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NHECHLLE_00184	CDS	291				hypothetical protein
+NHECHLLE_00185	CDS	1026	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+NHECHLLE_00186	CDS	660				hypothetical protein
+NHECHLLE_00187	CDS	933				hypothetical protein
+NHECHLLE_00188	CDS	1290	tig	5.2.1.8	COG0544	Trigger factor
+NHECHLLE_00189	CDS	1251	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+NHECHLLE_00190	CDS	588	engB		COG0218	putative GTP-binding protein EngB
+NHECHLLE_00191	CDS	156				hypothetical protein
+NHECHLLE_00192	CDS	1329				hypothetical protein
+NHECHLLE_00193	CDS	210				hypothetical protein
+NHECHLLE_00194	CDS	753	glcR		COG1349	HTH-type transcriptional repressor GlcR
+NHECHLLE_00195	CDS	915	lacC_1	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+NHECHLLE_00196	CDS	1932	fruA_1		COG1299	PTS system fructose-specific EIIABC component
+NHECHLLE_00197	CDS	1560	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+NHECHLLE_00198	CDS	2235	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+NHECHLLE_00199	CDS	2037	ligA_1	6.5.1.2	COG0272	DNA ligase
+NHECHLLE_00200	CDS	306	gatC_1	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C
+NHECHLLE_00201	CDS	1473	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NHECHLLE_00202	CDS	1431	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NHECHLLE_00203	CDS	1056	dagK_1	2.7.1.107	COG1597	Diacylglycerol kinase
+NHECHLLE_00204	CDS	1374		2.1.1.-	COG2265	putative RNA methyltransferase
+NHECHLLE_00205	CDS	129				hypothetical protein
+NHECHLLE_00206	CDS	1014	aes_1	3.1.1.-		Acetyl esterase
+NHECHLLE_00207	CDS	1035	melR_2		COG1609	HTH-type transcriptional repressor MelR
+NHECHLLE_00208	CDS	2226	melA	3.2.1.22	COG3345	Alpha-galactosidase Mel36A
+NHECHLLE_00209	CDS	1884	lacL	3.2.1.23	COG3250	Beta-galactosidase large subunit
+NHECHLLE_00210	CDS	975	lacM	3.2.1.23	COG3250	Beta-galactosidase small subunit
+NHECHLLE_00211	CDS	1023	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+NHECHLLE_00212	CDS	1065	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+NHECHLLE_00213	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+NHECHLLE_00214	CDS	1092				hypothetical protein
+NHECHLLE_00215	CDS	1296	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+NHECHLLE_00216	CDS	510	aroK	2.7.1.71	COG0703	Shikimate kinase
+NHECHLLE_00217	CDS	837	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+NHECHLLE_00218	CDS	1737				hypothetical protein
+NHECHLLE_00219	CDS	876	rhaR_1			HTH-type transcriptional activator RhaR
+NHECHLLE_00220	CDS	579	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+NHECHLLE_00221	CDS	1287	lacE_1			Lactose-binding protein
+NHECHLLE_00222	CDS	870	lacF_1			Lactose transport system permease protein LacF
+NHECHLLE_00223	CDS	870	lacG_1			Lactose transport system permease protein LacG
+NHECHLLE_00224	CDS	684	umpB_1			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+NHECHLLE_00225	CDS	774	umpB_2			Na(+), Li(+), K(+)/H(+) antiporter subunit B
+NHECHLLE_00226	CDS	399				hypothetical protein
+NHECHLLE_00227	CDS	672				hypothetical protein
+NHECHLLE_00228	CDS	441				hypothetical protein
+NHECHLLE_00229	CDS	669	gpmA_1	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NHECHLLE_00230	CDS	624	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+NHECHLLE_00231	CDS	387				hypothetical protein
+NHECHLLE_00232	CDS	1392	tcyP		COG1823	L-cystine uptake protein TcyP
+NHECHLLE_00233	CDS	369				hypothetical protein
+NHECHLLE_00234	CDS	132				hypothetical protein
+NHECHLLE_00235	CDS	942				hypothetical protein
+NHECHLLE_00236	CDS	732	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1
+NHECHLLE_00237	CDS	2181	yhgF		COG2183	Protein YhgF
+NHECHLLE_00238	CDS	483				Protein SprT-like protein
+NHECHLLE_00239	CDS	762	ydcF		COG1434	Protein YdcF
+NHECHLLE_00240	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+NHECHLLE_00241	CDS	486				hypothetical protein
+NHECHLLE_00242	CDS	684	ybhL		COG0670	Inner membrane protein YbhL
+NHECHLLE_00243	CDS	2646	polA	2.7.7.7		DNA polymerase I
+NHECHLLE_00244	CDS	837	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+NHECHLLE_00245	CDS	630	coaE	2.7.1.24		Dephospho-CoA kinase
+NHECHLLE_00246	CDS	333				hypothetical protein
+NHECHLLE_00247	CDS	492	nrdR		COG1327	Transcriptional repressor NrdR
+NHECHLLE_00248	CDS	1374	dnaB		COG3611	Replication initiation and membrane attachment protein
+NHECHLLE_00249	CDS	927	dnaI		COG1484	Primosomal protein DnaI
+NHECHLLE_00250	CDS	441				hypothetical protein
+NHECHLLE_00251	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_00252	CDS	702	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+NHECHLLE_00253	CDS	1122			COG0327	GTP cyclohydrolase 1 type 2 
+NHECHLLE_00254	CDS	1233	pepT	3.4.11.4		Peptidase T
+NHECHLLE_00255	CDS	909	dagK_2	2.7.1.107	COG1597	Diacylglycerol kinase
+NHECHLLE_00256	CDS	273				hypothetical protein
+NHECHLLE_00257	CDS	1047				hypothetical protein
+NHECHLLE_00258	CDS	2610	clpB		COG0542	Chaperone protein ClpB
+NHECHLLE_00259	CDS	672				hypothetical protein
+NHECHLLE_00260	CDS	495				hypothetical protein
+NHECHLLE_00261	CDS	1221	eis_1	2.3.1.-		N-acetyltransferase Eis
+NHECHLLE_00262	CDS	1836	lepA	3.6.5.-		Elongation factor 4
+NHECHLLE_00263	CDS	1128	xerC_2			Tyrosine recombinase XerC
+NHECHLLE_00264	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00265	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_00266	CDS	414				hypothetical protein
+NHECHLLE_00267	CDS	486				hypothetical protein
+NHECHLLE_00268	CDS	216				hypothetical protein
+NHECHLLE_00269	CDS	801	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NHECHLLE_00270	CDS	1869	licR_1		COG1762	putative licABCH operon regulator
+NHECHLLE_00271	CDS	492				hypothetical protein
+NHECHLLE_00272	CDS	555	srlA		COG3730	PTS system glucitol/sorbitol-specific EIIC component
+NHECHLLE_00273	CDS	996	srlE	2.7.1.198	COG3732	PTS system glucitol/sorbitol-specific EIIB component
+NHECHLLE_00274	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_00275	CDS	399	srlB		COG3731	PTS system glucitol/sorbitol-specific EIIA component
+NHECHLLE_00276	CDS	711	fsaA	4.1.2.-	COG0176	Fructose-6-phosphate aldolase 1
+NHECHLLE_00277	CDS	888	prsA_1	5.2.1.8		Foldase protein PrsA
+NHECHLLE_00278	CDS	840				hypothetical protein
+NHECHLLE_00279	CDS	975				hypothetical protein
+NHECHLLE_00280	CDS	357				hypothetical protein
+NHECHLLE_00281	CDS	1158				hypothetical protein
+NHECHLLE_00282	CDS	441	spxA_1		COG1393	Regulatory protein Spx
+NHECHLLE_00283	CDS	507	sttH	3.5.2.19		Streptothricin hydrolase
+NHECHLLE_00284	CDS	1905				hypothetical protein
+NHECHLLE_00285	CDS	1002	aes_2	3.1.1.-		Acetyl esterase
+NHECHLLE_00286	CDS	207				hypothetical protein
+NHECHLLE_00287	CDS	849	murR_1		COG1737	HTH-type transcriptional regulator MurR
+NHECHLLE_00288	CDS	903		1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+NHECHLLE_00289	CDS	1002	fldH	1.1.1.-		Phenyllactate dehydrogenase
+NHECHLLE_00290	CDS	273				hypothetical protein
+NHECHLLE_00291	CDS	798	hcxA	1.1.1.-	COG0371	Hydroxycarboxylate dehydrogenase A
+NHECHLLE_00292	CDS	834				hypothetical protein
+NHECHLLE_00293	CDS	858	manZ_1		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_00294	CDS	510	sorB_1	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+NHECHLLE_00295	CDS	402				hypothetical protein
+NHECHLLE_00296	CDS	423				hypothetical protein
+NHECHLLE_00297	CDS	444	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+NHECHLLE_00298	CDS	1086	uxuA_1	4.2.1.8	COG1312	Mannonate dehydratase
+NHECHLLE_00299	CDS	714	ppaX	3.6.1.1		Pyrophosphatase PpaX
+NHECHLLE_00300	CDS	150				hypothetical protein
+NHECHLLE_00301	CDS	201	cspL		COG1278	Cold shock protein 2
+NHECHLLE_00302	CDS	99				hypothetical protein
+NHECHLLE_00303	CDS	366				hypothetical protein
+NHECHLLE_00304	CDS	246				hypothetical protein
+NHECHLLE_00305	CDS	255				hypothetical protein
+NHECHLLE_00306	CDS	306				hypothetical protein
+NHECHLLE_00307	tRNA	76				tRNA-Met(cat)
+NHECHLLE_00308	CDS	498				hypothetical protein
+NHECHLLE_00309	CDS	810	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+NHECHLLE_00310	CDS	858	gspA_1		COG1442	General stress protein A
+NHECHLLE_00311	CDS	903	gspA_2		COG1442	General stress protein A
+NHECHLLE_00312	CDS	351				hypothetical protein
+NHECHLLE_00313	CDS	939				hypothetical protein
+NHECHLLE_00314	CDS	894	yghA	1.-.-.-		putative oxidoreductase YghA
+NHECHLLE_00315	CDS	564				hypothetical protein
+NHECHLLE_00316	CDS	189				hypothetical protein
+NHECHLLE_00317	CDS	903				hypothetical protein
+NHECHLLE_00318	CDS	243				hypothetical protein
+NHECHLLE_00319	CDS	372				hypothetical protein
+NHECHLLE_00320	CDS	228				hypothetical protein
+NHECHLLE_00321	CDS	474				hypothetical protein
+NHECHLLE_00322	CDS	174				hypothetical protein
+NHECHLLE_00323	CDS	567				hypothetical protein
+NHECHLLE_00324	CDS	189				hypothetical protein
+NHECHLLE_00325	CDS	558				Stress response regulator gls24 
+NHECHLLE_00326	CDS	243				hypothetical protein
+NHECHLLE_00327	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_00328	CDS	1215	amt			Ammonia channel
+NHECHLLE_00329	CDS	1428	gadC_1		COG0531	Glutamate/gamma-aminobutyrate antiporter
+NHECHLLE_00330	CDS	927	glsA	3.5.1.2	COG2066	Glutaminase
+NHECHLLE_00331	CDS	1461				hypothetical protein
+NHECHLLE_00332	CDS	1764	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+NHECHLLE_00333	CDS	357				hypothetical protein
+NHECHLLE_00334	CDS	684	nanE_1	5.1.3.9		Putative N-acetylmannosamine-6-phosphate 2-epimerase
+NHECHLLE_00335	CDS	615				hypothetical protein
+NHECHLLE_00336	CDS	207				hypothetical protein
+NHECHLLE_00337	CDS	1164	ftsW_1	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+NHECHLLE_00338	CDS	756	msrR			Regulatory protein MsrR
+NHECHLLE_00339	CDS	2040	pbp		COG0768	Beta-lactam-inducible penicillin-binding protein
+NHECHLLE_00340	CDS	1152	napA			Na(+)/H(+) antiporter
+NHECHLLE_00341	CDS	531				hypothetical protein
+NHECHLLE_00342	CDS	351				hypothetical protein
+NHECHLLE_00343	CDS	1530	ahpF	1.6.99.3		NADH dehydrogenase
+NHECHLLE_00344	CDS	564	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+NHECHLLE_00345	CDS	663	rspR_1		COG1802	HTH-type transcriptional repressor RspR
+NHECHLLE_00346	CDS	1647	por	1.1.1.-	COG0246	Polyol:NADP oxidoreductase
+NHECHLLE_00347	CDS	1083	uxuA_2	4.2.1.8	COG1312	Mannonate dehydratase
+NHECHLLE_00348	CDS	1554				hypothetical protein
+NHECHLLE_00349	CDS	1290				hypothetical protein
+NHECHLLE_00350	CDS	1038				hypothetical protein
+NHECHLLE_00351	CDS	441	ohrR			Organic hydroperoxide resistance transcriptional regulator
+NHECHLLE_00352	CDS	411	ohrA		COG1764	Organic hydroperoxide resistance protein OhrA
+NHECHLLE_00353	CDS	435				hypothetical protein
+NHECHLLE_00354	CDS	771				hypothetical protein
+NHECHLLE_00355	CDS	1767	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+NHECHLLE_00356	CDS	1260	mdxE		COG2182	Maltodextrin-binding protein MdxE
+NHECHLLE_00357	CDS	1302				hypothetical protein
+NHECHLLE_00358	CDS	852	malG		COG3833	Maltose/maltodextrin transport system permease protein MalG
+NHECHLLE_00359	CDS	816				hypothetical protein
+NHECHLLE_00360	CDS	1167	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+NHECHLLE_00361	CDS	648				hypothetical protein
+NHECHLLE_00362	CDS	945	pyrDA	1.3.98.1	COG0167	Dihydroorotate dehydrogenase A (fumarate)
+NHECHLLE_00363	CDS	1452	nylA	3.5.2.12		6-aminohexanoate-cyclic-dimer hydrolase
+NHECHLLE_00364	CDS	837	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+NHECHLLE_00365	CDS	660	yecS_1		COG0765	L-cystine transport system permease protein YecS
+NHECHLLE_00366	CDS	690				hypothetical protein
+NHECHLLE_00367	CDS	957				hypothetical protein
+NHECHLLE_00368	CDS	513				hypothetical protein
+NHECHLLE_00369	CDS	549	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+NHECHLLE_00370	CDS	1182	nupC		COG1972	Nucleoside permease NupC
+NHECHLLE_00371	CDS	1509				hypothetical protein
+NHECHLLE_00372	CDS	192				hypothetical protein
+NHECHLLE_00373	CDS	918				hypothetical protein
+NHECHLLE_00374	CDS	1074				hypothetical protein
+NHECHLLE_00375	CDS	519				hypothetical protein
+NHECHLLE_00376	CDS	393				hypothetical protein
+NHECHLLE_00377	CDS	936				hypothetical protein
+NHECHLLE_00378	CDS	780	ygaZ_1		COG1296	Inner membrane protein YgaZ
+NHECHLLE_00379	CDS	318				hypothetical protein
+NHECHLLE_00380	CDS	1611	murJ_1		COG2244	Lipid II flippase MurJ
+NHECHLLE_00381	CDS	849	degV		COG1307	Protein DegV
+NHECHLLE_00382	CDS	480				hypothetical protein
+NHECHLLE_00383	CDS	2229				hypothetical protein
+NHECHLLE_00384	CDS	1644	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+NHECHLLE_00385	CDS	546				hypothetical protein
+NHECHLLE_00386	CDS	486	hmpT		COG4720	Thiamine precursor transporter HmpT
+NHECHLLE_00387	CDS	813	pdxK	2.7.1.35	COG0351	Pyridoxine kinase
+NHECHLLE_00388	CDS	1542	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+NHECHLLE_00389	CDS	1032	xerC_3			Tyrosine recombinase XerC
+NHECHLLE_00390	CDS	987	ysnF			Stress response protein YsnF
+NHECHLLE_00391	CDS	1341	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+NHECHLLE_00392	CDS	675	mprA			Response regulator MprA
+NHECHLLE_00393	CDS	1074			COG0577	putative ABC transporter permease
+NHECHLLE_00394	CDS	687	hrtA_1	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+NHECHLLE_00395	CDS	648				hypothetical protein
+NHECHLLE_00396	CDS	1392				hypothetical protein
+NHECHLLE_00397	CDS	792				hypothetical protein
+NHECHLLE_00398	CDS	2559				hypothetical protein
+NHECHLLE_00399	CDS	1422				hypothetical protein
+NHECHLLE_00400	CDS	1878				hypothetical protein
+NHECHLLE_00401	CDS	843				hypothetical protein
+NHECHLLE_00402	CDS	876	ybbH_1		COG1737	putative HTH-type transcriptional regulator YbbH
+NHECHLLE_00403	CDS	1032	yhhX	1.-.-.-	COG0673	putative oxidoreductase YhhX
+NHECHLLE_00404	CDS	306				hypothetical protein
+NHECHLLE_00405	CDS	2016				hypothetical protein
+NHECHLLE_00406	CDS	285				hypothetical protein
+NHECHLLE_00407	CDS	1374	ulaA_1		COG3037	Ascorbate-specific PTS system EIIC component
+NHECHLLE_00408	CDS	2016				hypothetical protein
+NHECHLLE_00409	CDS	1209				hypothetical protein
+NHECHLLE_00410	CDS	945	rhaS_1			HTH-type transcriptional activator RhaS
+NHECHLLE_00411	CDS	174				hypothetical protein
+NHECHLLE_00412	CDS	945	ldh_1	1.1.1.27		L-lactate dehydrogenase
+NHECHLLE_00413	CDS	399				hypothetical protein
+NHECHLLE_00414	CDS	237				hypothetical protein
+NHECHLLE_00415	CDS	318				hypothetical protein
+NHECHLLE_00416	CDS	2229	topB_1	5.6.2.1	COG0550	DNA topoisomerase 3
+NHECHLLE_00417	CDS	411				hypothetical protein
+NHECHLLE_00418	CDS	1164	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+NHECHLLE_00419	CDS	855	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+NHECHLLE_00420	CDS	771	cmpD	3.6.3.-		Bicarbonate transport ATP-binding protein CmpD
+NHECHLLE_00421	CDS	882				hypothetical protein
+NHECHLLE_00422	CDS	1050				hypothetical protein
+NHECHLLE_00423	CDS	624				hypothetical protein
+NHECHLLE_00424	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00425	CDS	1707	rqcH		COG1293	Rqc2 RqcH
+NHECHLLE_00426	CDS	903	hdfR_1			HTH-type transcriptional regulator HdfR
+NHECHLLE_00427	CDS	705	cah	4.2.1.1	COG3338	Carbonic anhydrase
+NHECHLLE_00428	CDS	642	yfbR	3.1.3.89		5'-deoxynucleotidase YfbR
+NHECHLLE_00429	CDS	630	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+NHECHLLE_00430	CDS	717	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+NHECHLLE_00431	CDS	933	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NHECHLLE_00432	CDS	354	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NHECHLLE_00433	CDS	447	pyrK_2		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NHECHLLE_00434	CDS	3186	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+NHECHLLE_00435	CDS	1077	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+NHECHLLE_00436	CDS	1281	pyrC	3.5.2.3		Dihydroorotase
+NHECHLLE_00437	CDS	927	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+NHECHLLE_00438	CDS	1284	pyrP			Uracil permease
+NHECHLLE_00439	CDS	540	pyrR			Bifunctional protein pyrR
+NHECHLLE_00440	CDS	912	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NHECHLLE_00441	CDS	465	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+NHECHLLE_00442	CDS	699				hypothetical protein
+NHECHLLE_00443	CDS	387				hypothetical protein
+NHECHLLE_00444	CDS	1671	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+NHECHLLE_00445	CDS	234				hypothetical protein
+NHECHLLE_00446	CDS	432				hypothetical protein
+NHECHLLE_00447	CDS	414	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+NHECHLLE_00448	CDS	1149	fieF			Ferrous-iron efflux pump FieF
+NHECHLLE_00449	CDS	597	panT_1			Pantothenate transporter PanT
+NHECHLLE_00450	CDS	2643	alaS	6.1.1.7		Alanine--tRNA ligase
+NHECHLLE_00451	CDS	432		2.3.1.-		Acetyltransferase
+NHECHLLE_00452	CDS	1350	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+NHECHLLE_00453	CDS	1164				hypothetical protein
+NHECHLLE_00454	CDS	324				hypothetical protein
+NHECHLLE_00455	CDS	1350	steT_1		COG0531	Serine/threonine exchanger SteT
+NHECHLLE_00456	CDS	954				putative epimerase/dehydratase
+NHECHLLE_00457	CDS	1191		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+NHECHLLE_00458	CDS	225				hypothetical protein
+NHECHLLE_00459	CDS	684	yedJ		COG1418	putative protein YedJ
+NHECHLLE_00460	CDS	1497	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+NHECHLLE_00461	CDS	1167	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+NHECHLLE_00462	CDS	420	gpsB			Cell cycle protein GpsB
+NHECHLLE_00463	CDS	540				hypothetical protein
+NHECHLLE_00464	CDS	648	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+NHECHLLE_00465	CDS	2382	ponA_1		COG0744	Penicillin-binding protein 1A
+NHECHLLE_00466	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_00467	CDS	498				hypothetical protein
+NHECHLLE_00468	CDS	678	nth	4.2.99.18	COG0177	Endonuclease III
+NHECHLLE_00469	CDS	699	dnaD		COG3935	DNA replication protein DnaD
+NHECHLLE_00470	CDS	1185	tetA			Tetracycline resistance protein, class C
+NHECHLLE_00471	CDS	444				hypothetical protein
+NHECHLLE_00472	CDS	288				hypothetical protein
+NHECHLLE_00473	CDS	1353	nox_1	1.6.99.3	COG0446	NADH oxidase
+NHECHLLE_00474	CDS	447	perR		COG0735	Peroxide operon regulator
+NHECHLLE_00475	CDS	927	cysK	2.5.1.47		Cysteine synthase
+NHECHLLE_00476	CDS	888		3.2.1.-	COG1388	Autolysin
+NHECHLLE_00477	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00478	CDS	1998	tkt	2.2.1.1		Transketolase
+NHECHLLE_00479	CDS	252				hypothetical protein
+NHECHLLE_00480	CDS	624	lexA	3.4.21.88	COG1974	LexA repressor
+NHECHLLE_00481	CDS	219				hypothetical protein
+NHECHLLE_00482	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+NHECHLLE_00483	CDS	2298				hypothetical protein
+NHECHLLE_00484	CDS	435				hypothetical protein
+NHECHLLE_00485	CDS	789	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+NHECHLLE_00486	CDS	942	rnz	3.1.26.11	COG1234	Ribonuclease Z
+NHECHLLE_00487	CDS	588				hypothetical protein
+NHECHLLE_00488	CDS	1314	obg	3.6.5.-	COG0536	GTPase Obg
+NHECHLLE_00489	CDS	1011	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+NHECHLLE_00490	CDS	936	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NHECHLLE_00491	CDS	960			COG2826	IS30 family transposase IS6770
+NHECHLLE_00492	CDS	1095				hypothetical protein
+NHECHLLE_00493	CDS	762				hypothetical protein
+NHECHLLE_00494	CDS	441	fabZ_1	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NHECHLLE_00495	CDS	756	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+NHECHLLE_00496	CDS	1014	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NHECHLLE_00497	CDS	921	ykuT		COG0668	putative MscS family protein YkuT
+NHECHLLE_00498	CDS	501				hypothetical protein
+NHECHLLE_00499	CDS	519				hypothetical protein
+NHECHLLE_00500	CDS	1356	rph	2.7.7.56		Ribonuclease PH
+NHECHLLE_00501	CDS	834	murI	5.1.1.3	COG0796	Glutamate racemase
+NHECHLLE_00502	CDS	657	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+NHECHLLE_00503	CDS	648	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+NHECHLLE_00504	CDS	816	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+NHECHLLE_00505	CDS	738	glnQ_1	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+NHECHLLE_00506	CDS	1011	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+NHECHLLE_00507	CDS	2421	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+NHECHLLE_00508	CDS	1044	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+NHECHLLE_00509	CDS	342	yodB		COG1733	HTH-type transcriptional regulator YodB
+NHECHLLE_00510	CDS	3723	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+NHECHLLE_00511	CDS	3528	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+NHECHLLE_00512	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_00513	CDS	831	dtpT_1		COG3104	Di-/tripeptide transporter
+NHECHLLE_00514	CDS	639	dtpT_2		COG3104	Di-/tripeptide transporter
+NHECHLLE_00515	CDS	597				hypothetical protein
+NHECHLLE_00516	CDS	483				hypothetical protein
+NHECHLLE_00517	CDS	198				hypothetical protein
+NHECHLLE_00518	CDS	759				hypothetical protein
+NHECHLLE_00519	CDS	429				hypothetical protein
+NHECHLLE_00520	tRNA	73				tRNA-Gln(ctg)
+NHECHLLE_00521	CDS	372				hypothetical protein
+NHECHLLE_00522	CDS	186				hypothetical protein
+NHECHLLE_00523	CDS	189				hypothetical protein
+NHECHLLE_00524	CDS	264				hypothetical protein
+NHECHLLE_00525	CDS	258				hypothetical protein
+NHECHLLE_00526	CDS	192				hypothetical protein
+NHECHLLE_00527	CDS	321				hypothetical protein
+NHECHLLE_00528	CDS	435				Putative universal stress protein
+NHECHLLE_00529	CDS	639				hypothetical protein
+NHECHLLE_00530	tRNA	86				tRNA-Leu(cag)
+NHECHLLE_00531	CDS	501				hypothetical protein
+NHECHLLE_00532	CDS	345				hypothetical protein
+NHECHLLE_00533	CDS	939				hypothetical protein
+NHECHLLE_00534	CDS	492				hypothetical protein
+NHECHLLE_00535	CDS	2376	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+NHECHLLE_00536	CDS	627		3.-.-.-		putative metallo-hydrolase
+NHECHLLE_00537	CDS	705	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NHECHLLE_00538	CDS	834	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+NHECHLLE_00539	CDS	1929	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+NHECHLLE_00540	CDS	456				hypothetical protein
+NHECHLLE_00541	CDS	270				hypothetical protein
+NHECHLLE_00542	CDS	255	rpsT			30S ribosomal protein S20
+NHECHLLE_00543	CDS	1047	yqeN		COG1466	putative protein YqeN
+NHECHLLE_00544	CDS	2274	comEC		COG0658	ComE operon protein 3
+NHECHLLE_00545	CDS	540	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+NHECHLLE_00546	CDS	219				hypothetical protein
+NHECHLLE_00547	CDS	246				hypothetical protein
+NHECHLLE_00548	CDS	618				hypothetical protein
+NHECHLLE_00549	CDS	1044	ylbL		COG3480	putative protein YlbL
+NHECHLLE_00550	CDS	492	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+NHECHLLE_00551	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+NHECHLLE_00552	CDS	339				hypothetical protein
+NHECHLLE_00553	CDS	447				hypothetical protein
+NHECHLLE_00554	CDS	1125				hypothetical protein
+NHECHLLE_00555	CDS	3429	pycA	6.4.1.1		Pyruvate carboxylase
+NHECHLLE_00556	CDS	1164	ftsW_2	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+NHECHLLE_00557	CDS	303				hypothetical protein
+NHECHLLE_00558	CDS	1773	recQ_1	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+NHECHLLE_00559	CDS	1830	typA		COG1217	GTP-binding protein TypA/BipA
+NHECHLLE_00560	CDS	759	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+NHECHLLE_00561	CDS	276				hypothetical protein
+NHECHLLE_00562	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+NHECHLLE_00563	CDS	1644				hypothetical protein
+NHECHLLE_00564	CDS	978	pdhB	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+NHECHLLE_00565	CDS	1110	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+NHECHLLE_00566	CDS	1425	norG		COG1167	HTH-type transcriptional regulator NorG
+NHECHLLE_00567	CDS	978	guaC	1.7.1.7	COG0516	GMP reductase
+NHECHLLE_00568	CDS	1206	xylH		COG4214	Xylose transport system permease protein XylH
+NHECHLLE_00569	CDS	1527	xylG	7.5.2.10	COG1129	Xylose import ATP-binding protein XylG
+NHECHLLE_00570	CDS	1089	chvE		COG4213	Multiple sugar-binding periplasmic receptor ChvE
+NHECHLLE_00571	CDS	1017	ytfQ			ABC transporter periplasmic-binding protein YtfQ
+NHECHLLE_00572	CDS	1452				hypothetical protein
+NHECHLLE_00573	CDS	1566	rhaR_2			HTH-type transcriptional activator RhaR
+NHECHLLE_00574	CDS	915	ydhF	1.-.-.-	COG4989	Oxidoreductase YdhF
+NHECHLLE_00575	CDS	1275	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+NHECHLLE_00576	CDS	1536	purH			Bifunctional purine biosynthesis protein PurH
+NHECHLLE_00577	CDS	579	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+NHECHLLE_00578	CDS	1053	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+NHECHLLE_00579	CDS	1440	purF	2.4.2.14		Amidophosphoribosyltransferase
+NHECHLLE_00580	CDS	2223	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+NHECHLLE_00581	CDS	672	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+NHECHLLE_00582	CDS	255	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+NHECHLLE_00583	CDS	729	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NHECHLLE_00584	CDS	378				hypothetical protein
+NHECHLLE_00585	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+NHECHLLE_00586	CDS	1125	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+NHECHLLE_00587	CDS	489	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+NHECHLLE_00588	CDS	1308				Nucleobase transporter PlUacP
+NHECHLLE_00589	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+NHECHLLE_00590	CDS	1293	yteT	1.-.-.-	COG0673	Putative oxidoreductase YteT
+NHECHLLE_00591	CDS	624				hypothetical protein
+NHECHLLE_00592	CDS	837	araQ_1		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_00593	CDS	888	lacF_2			Lactose transport system permease protein LacF
+NHECHLLE_00594	CDS	1284	yesO		COG1653	Putative ABC transporter substrate-binding protein YesO
+NHECHLLE_00595	CDS	684				hypothetical protein
+NHECHLLE_00596	CDS	618	lytG	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+NHECHLLE_00597	CDS	825				hypothetical protein
+NHECHLLE_00598	CDS	561				hypothetical protein
+NHECHLLE_00599	CDS	948	iolU_1	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+NHECHLLE_00600	CDS	957				hypothetical protein
+NHECHLLE_00601	CDS	603				hypothetical protein
+NHECHLLE_00602	CDS	1500	yqiK		COG2268	Inner membrane protein YqiK
+NHECHLLE_00603	CDS	525	yuaF			putative membrane protein YuaF
+NHECHLLE_00604	CDS	873	dcuS_1	2.7.13.3	COG3290	Sensor histidine kinase DcuS
+NHECHLLE_00605	CDS	786	dcuS_2	2.7.13.3	COG3290	Sensor histidine kinase DcuS
+NHECHLLE_00606	CDS	717	dcuR		COG4565	Transcriptional regulatory protein DcuR
+NHECHLLE_00607	CDS	1020	hgdH	1.1.1.399	COG1052	(R)-2-hydroxyglutarate dehydrogenase
+NHECHLLE_00608	CDS	1059				hypothetical protein
+NHECHLLE_00609	CDS	1149	agaA_1	3.5.1.-	COG1820	N-acetylgalactosamine-6-phosphate deacetylase
+NHECHLLE_00610	CDS	837				hypothetical protein
+NHECHLLE_00611	CDS	1221	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+NHECHLLE_00612	CDS	162				hypothetical protein
+NHECHLLE_00613	tRNA	85				tRNA-Leu(gag)
+NHECHLLE_00614	CDS	579				hypothetical protein
+NHECHLLE_00615	CDS	387				hypothetical protein
+NHECHLLE_00616	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_00617	CDS	327				hypothetical protein
+NHECHLLE_00618	CDS	243	fosX		COG0346	Fosfomycin resistance protein FosX
+NHECHLLE_00619	CDS	291				hypothetical protein
+NHECHLLE_00620	CDS	693	smc_1			Chromosome partition protein Smc
+NHECHLLE_00621	CDS	624				hypothetical protein
+NHECHLLE_00622	CDS	723	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+NHECHLLE_00623	CDS	738	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+NHECHLLE_00624	CDS	993	thiY		COG0715	Formylaminopyrimidine-binding protein
+NHECHLLE_00625	CDS	744	ribX			Riboflavin transport system permease protein RibX
+NHECHLLE_00626	CDS	1323	garB	1.8.1.16		Glutathione amide reductase
+NHECHLLE_00627	CDS	309				hypothetical protein
+NHECHLLE_00628	CDS	693	opuCA_1	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+NHECHLLE_00629	CDS	1539				hypothetical protein
+NHECHLLE_00630	CDS	288				hypothetical protein
+NHECHLLE_00631	CDS	669				hypothetical protein
+NHECHLLE_00632	CDS	741				hypothetical protein
+NHECHLLE_00633	CDS	948	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+NHECHLLE_00634	CDS	765				hypothetical protein
+NHECHLLE_00635	CDS	390				hypothetical protein
+NHECHLLE_00636	CDS	543				hypothetical protein
+NHECHLLE_00637	CDS	615				hypothetical protein
+NHECHLLE_00638	CDS	894				hypothetical protein
+NHECHLLE_00639	CDS	927	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+NHECHLLE_00640	CDS	762	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+NHECHLLE_00641	CDS	2232	pflB	2.3.1.54		Formate acetyltransferase
+NHECHLLE_00642	CDS	2451	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+NHECHLLE_00643	CDS	2046	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+NHECHLLE_00644	CDS	435	yccU		COG1832	putative protein YccU
+NHECHLLE_00645	CDS	639	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+NHECHLLE_00646	CDS	876	lacX			Protein LacX, plasmid
+NHECHLLE_00647	CDS	792	codY		COG4465	GTP-sensing transcriptional pleiotropic repressor CodY
+NHECHLLE_00648	CDS	1401	clpY		COG1220	ATP-dependent protease ATPase subunit ClpY
+NHECHLLE_00649	CDS	549	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+NHECHLLE_00650	CDS	906	xerC_4		COG4974	Tyrosine recombinase XerC
+NHECHLLE_00651	CDS	1326	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+NHECHLLE_00652	CDS	2079	topA	5.6.2.1		DNA topoisomerase 1
+NHECHLLE_00653	CDS	858	dprA		COG0758	DNA processing protein DprA
+NHECHLLE_00654	CDS	768	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+NHECHLLE_00655	CDS	861	rbgA		COG1161	Ribosome biogenesis GTPase A
+NHECHLLE_00656	CDS	399				hypothetical protein
+NHECHLLE_00657	CDS	543	folT_1			Folate transporter FolT
+NHECHLLE_00658	CDS	552	sipV	3.4.21.89	COG0681	Signal peptidase I V
+NHECHLLE_00659	CDS	228				hypothetical protein
+NHECHLLE_00660	CDS	519	msrA_1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+NHECHLLE_00661	CDS	714				hypothetical protein
+NHECHLLE_00662	CDS	897				hypothetical protein
+NHECHLLE_00663	CDS	843			COG1307	DegV domain-containing protein
+NHECHLLE_00664	CDS	654				hypothetical protein
+NHECHLLE_00665	CDS	528	folA_2	1.5.1.3		Dihydrofolate reductase
+NHECHLLE_00666	CDS	948	thyA	2.1.1.45	COG0207	Thymidylate synthase
+NHECHLLE_00667	CDS	1887	ettA		COG0488	Energy-dependent translational throttle protein EttA
+NHECHLLE_00668	CDS	2079				hypothetical protein
+NHECHLLE_00669	CDS	276				hypothetical protein
+NHECHLLE_00670	CDS	456				hypothetical protein
+NHECHLLE_00671	CDS	1209	cca	2.7.7.72		CCA-adding enzyme
+NHECHLLE_00672	CDS	333	ypjD		COG1694	putative protein YpjD
+NHECHLLE_00673	CDS	876				hypothetical protein
+NHECHLLE_00674	CDS	582				hypothetical protein
+NHECHLLE_00675	CDS	1260	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+NHECHLLE_00676	CDS	1047				hypothetical protein
+NHECHLLE_00677	CDS	276	hupA		COG0776	DNA-binding protein HU 1
+NHECHLLE_00678	CDS	1311	der		COG1160	GTPase Der
+NHECHLLE_00679	CDS	1230	ypfD		COG0539	30S ribosomal protein S1 
+NHECHLLE_00680	CDS	681	cmk	2.7.4.25	COG0283	Cytidylate kinase
+NHECHLLE_00681	CDS	636				hypothetical protein
+NHECHLLE_00682	CDS	1404	recQ_2	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+NHECHLLE_00683	CDS	1032				hypothetical protein
+NHECHLLE_00684	CDS	222				hypothetical protein
+NHECHLLE_00685	CDS	738				hypothetical protein
+NHECHLLE_00686	CDS	1341		3.4.13.-		Putative dipeptidase
+NHECHLLE_00687	CDS	1524				hypothetical protein
+NHECHLLE_00688	CDS	612	fmnP		COG3601	Riboflavin transporter FmnP
+NHECHLLE_00689	CDS	717	rluB_1	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+NHECHLLE_00690	CDS	570	scpB			Segregation and condensation protein B
+NHECHLLE_00691	CDS	798	scpA		COG1354	Segregation and condensation protein A
+NHECHLLE_00692	CDS	372	ribT	2.3.1.-		Protein RibT
+NHECHLLE_00693	CDS	888	xerD			Tyrosine recombinase XerD
+NHECHLLE_00694	CDS	171				hypothetical protein
+NHECHLLE_00695	CDS	468	fur		COG0735	Ferric uptake regulation protein
+NHECHLLE_00696	CDS	864	cvfB			Conserved virulence factor B
+NHECHLLE_00697	CDS	2103	mapZ			Mid-cell-anchored protein Z
+NHECHLLE_00698	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_00699	CDS	1110	sigA		COG0568	RNA polymerase sigma factor SigA
+NHECHLLE_00700	CDS	1842	dnaG	2.7.7.-	COG0358	DNA primase
+NHECHLLE_00701	CDS	2316	ctpE_1	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+NHECHLLE_00702	CDS	861				hypothetical protein
+NHECHLLE_00703	CDS	342				hypothetical protein
+NHECHLLE_00704	CDS	720	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+NHECHLLE_00705	CDS	2592	mprF_1	2.3.2.3		Phosphatidylglycerol lysyltransferase
+NHECHLLE_00706	CDS	1188	tuf_1			Elongation factor Tu
+NHECHLLE_00707	CDS	357				hypothetical protein
+NHECHLLE_00708	CDS	1005				hypothetical protein
+NHECHLLE_00709	CDS	852	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+NHECHLLE_00710	CDS	246				hypothetical protein
+NHECHLLE_00711	CDS	705				hypothetical protein
+NHECHLLE_00712	CDS	1263	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+NHECHLLE_00713	CDS	1221	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+NHECHLLE_00714	CDS	1155	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+NHECHLLE_00715	CDS	753				hypothetical protein
+NHECHLLE_00716	CDS	2667		7.2.2.10	COG0474	Calcium-transporting ATPase
+NHECHLLE_00717	CDS	1452	clsA_1	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+NHECHLLE_00718	CDS	816	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+NHECHLLE_00719	CDS	276				hypothetical protein
+NHECHLLE_00720	CDS	456	spxA_2		COG1393	Regulatory protein Spx
+NHECHLLE_00721	CDS	750				hypothetical protein
+NHECHLLE_00722	CDS	327				hypothetical protein
+NHECHLLE_00723	CDS	441				Putative universal stress protein
+NHECHLLE_00724	CDS	1398	gmuD_1	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+NHECHLLE_00725	CDS	1272	gmuC_1		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+NHECHLLE_00726	CDS	720	gmuR		COG2188	HTH-type transcriptional regulator GmuR
+NHECHLLE_00727	CDS	975	mhqA	1.13.11.-	COG0346	Putative ring-cleaving dioxygenase MhqA
+NHECHLLE_00728	CDS	606	mhqD	3.1.-.-	COG0400	Putative hydrolase MhqD
+NHECHLLE_00729	CDS	753	mtnB	4.2.1.109		Methylthioribulose-1-phosphate dehydratase
+NHECHLLE_00730	CDS	261				hypothetical protein
+NHECHLLE_00731	CDS	1362	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+NHECHLLE_00732	CDS	300				hypothetical protein
+NHECHLLE_00733	CDS	459	gatA_2		COG1762	PTS system galactitol-specific EIIA component
+NHECHLLE_00734	CDS	792	lacR_1			Lactose phosphotransferase system repressor
+NHECHLLE_00735	CDS	954	lacC_2	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+NHECHLLE_00736	CDS	975			COG1073	putative protein
+NHECHLLE_00737	CDS	435			COG0789	putative HTH-type transcriptional regulator
+NHECHLLE_00738	CDS	1023				hypothetical protein
+NHECHLLE_00739	CDS	423	arsC	1.20.4.4	COG0394	Arsenate reductase
+NHECHLLE_00740	CDS	1923	manR_1		COG1762	Transcriptional regulator ManR
+NHECHLLE_00741	CDS	1941	manP		COG1299	PTS system mannose-specific EIIBCA component
+NHECHLLE_00742	CDS	741	dgaF	4.1.2.14		2-dehydro-3-deoxy-phosphogluconate aldolase
+NHECHLLE_00743	CDS	1092	dgaE	4.3.1.29		D-glucosaminate-6-phosphate ammonia lyase
+NHECHLLE_00744	CDS	1107		3.1.1.-	COG3964	Deacetylase
+NHECHLLE_00745	CDS	678				hypothetical protein
+NHECHLLE_00746	CDS	780				hypothetical protein
+NHECHLLE_00747	CDS	351				hypothetical protein
+NHECHLLE_00748	CDS	357				hypothetical protein
+NHECHLLE_00749	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_00750	CDS	333				hypothetical protein
+NHECHLLE_00751	CDS	1863				hypothetical protein
+NHECHLLE_00752	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_00753	CDS	195				hypothetical protein
+NHECHLLE_00754	CDS	300				hypothetical protein
+NHECHLLE_00755	CDS	435				hypothetical protein
+NHECHLLE_00756	CDS	711	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+NHECHLLE_00757	CDS	861	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+NHECHLLE_00758	CDS	639	sgbH	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase SgbH
+NHECHLLE_00759	CDS	300				hypothetical protein
+NHECHLLE_00760	CDS	1485	ulaA_2		COG3037	Ascorbate-specific PTS system EIIC component
+NHECHLLE_00761	CDS	462				hypothetical protein
+NHECHLLE_00762	CDS	1068	ulaG	3.1.1.-	COG2220	putative L-ascorbate-6-phosphate lactonase UlaG
+NHECHLLE_00763	CDS	771	srlR		COG1349	Glucitol operon repressor
+NHECHLLE_00764	CDS	828				hypothetical protein
+NHECHLLE_00765	CDS	1236				hypothetical protein
+NHECHLLE_00766	CDS	261				hypothetical protein
+NHECHLLE_00767	CDS	1302	licC_1		COG1455	Lichenan permease IIC component
+NHECHLLE_00768	CDS	459	ptsG_1	2.7.1.199		PTS system glucose-specific EIICBA component
+NHECHLLE_00769	CDS	1329	malH	3.2.1.122	COG1486	Maltose-6'-phosphate glucosidase MalH
+NHECHLLE_00770	CDS	1413	gamP		COG2190	Putative PTS system glucosamine-specific EIICBA component
+NHECHLLE_00771	CDS	765		3.5.1.-	COG3394	Carbohydrate deacetylase
+NHECHLLE_00772	CDS	876	licT_1		COG3711	Transcription antiterminator LicT
+NHECHLLE_00773	tRNA	87				tRNA-Leu(caa)
+NHECHLLE_00774	tRNA	74				tRNA-Gln(ttg)
+NHECHLLE_00775	tRNA	74				tRNA-His(gtg)
+NHECHLLE_00776	tRNA	87				tRNA-Leu(caa)
+NHECHLLE_00777	tRNA	71				tRNA-Cys(gca)
+NHECHLLE_00778	tRNA	74				tRNA-Gln(ttg)
+NHECHLLE_00779	tRNA	74				tRNA-His(gtg)
+NHECHLLE_00780	tRNA	74				tRNA-Trp(cca)
+NHECHLLE_00781	tRNA	83				tRNA-Tyr(gta)
+NHECHLLE_00782	tRNA	76				tRNA-Phe(gaa)
+NHECHLLE_00783	tRNA	76				tRNA-Asp(gtc)
+NHECHLLE_00784	tRNA	75				tRNA-Val(tac)
+NHECHLLE_00785	tRNA	74				tRNA-Glu(ttc)
+NHECHLLE_00786	tRNA	92				tRNA-Ser(gga)
+NHECHLLE_00787	tRNA	76				tRNA-Asn(gtt)
+NHECHLLE_00788	tRNA	73				tRNA-Ala(tgc)
+NHECHLLE_00789	CDS	1506	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+NHECHLLE_00790	CDS	687	arlR_1		COG0745	Response regulator ArlR
+NHECHLLE_00791	CDS	1422	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+NHECHLLE_00792	CDS	180	rpmF_1			50S ribosomal protein L32
+NHECHLLE_00793	CDS	570				hypothetical protein
+NHECHLLE_00794	CDS	903	gltC_1			HTH-type transcriptional regulator GltC
+NHECHLLE_00795	CDS	1785	pyk	2.7.1.40	COG0469	Pyruvate kinase
+NHECHLLE_00796	CDS	963	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+NHECHLLE_00797	CDS	3315	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+NHECHLLE_00798	CDS	186				hypothetical protein
+NHECHLLE_00799	CDS	1197	sbnD_1			Staphyloferrin B transporter
+NHECHLLE_00800	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_00801	CDS	1545	pbuO		COG2252	Guanine/hypoxanthine permease PbuO
+NHECHLLE_00802	CDS	810	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+NHECHLLE_00803	CDS	1296				ISL3 family transposase IS1251
+NHECHLLE_00804	CDS	2154	penA		COG0768	Penicillin-binding protein 2B
+NHECHLLE_00805	CDS	849	ybbH_2		COG1737	putative HTH-type transcriptional regulator YbbH
+NHECHLLE_00806	CDS	1941	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+NHECHLLE_00807	CDS	180		5.3.2.-		putative tautomerase
+NHECHLLE_00808	CDS	1824	ziaA	7.2.2.12		Zinc-transporting ATPase
+NHECHLLE_00809	CDS	2280	helD_1	3.6.4.12	COG3973	DNA helicase IV
+NHECHLLE_00810	CDS	648				hypothetical protein
+NHECHLLE_00811	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_00812	CDS	720	yeeN		COG0217	putative transcriptional regulatory protein YeeN
+NHECHLLE_00813	CDS	1152	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+NHECHLLE_00814	CDS	741	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NHECHLLE_00815	CDS	261	rsfS		COG0799	Ribosomal silencing factor RsfS
+NHECHLLE_00816	CDS	594				hypothetical protein
+NHECHLLE_00817	CDS	651	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+NHECHLLE_00818	CDS	312			COG1534	RNA-binding protein
+NHECHLLE_00819	CDS	1110	yqeH		COG1161	putative protein YqeH
+NHECHLLE_00820	CDS	528				hypothetical protein
+NHECHLLE_00821	CDS	786	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NHECHLLE_00822	CDS	870	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+NHECHLLE_00823	CDS	1380	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+NHECHLLE_00824	CDS	420	fabZ_2	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NHECHLLE_00825	CDS	477	accB			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NHECHLLE_00826	CDS	1236	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NHECHLLE_00827	CDS	738	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NHECHLLE_00828	CDS	918	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+NHECHLLE_00829	CDS	225	acpA		COG0236	Acyl carrier protein
+NHECHLLE_00830	CDS	963	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NHECHLLE_00831	CDS	441				hypothetical protein
+NHECHLLE_00832	CDS	966	uvrC_1			UvrABC system protein C
+NHECHLLE_00833	CDS	231	ykuJ		COG4703	putative protein YkuJ
+NHECHLLE_00834	CDS	888	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+NHECHLLE_00835	CDS	1224		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+NHECHLLE_00836	CDS	1047	dgs	2.4.1.208	COG0438	Processive diacylglycerol alpha-glucosyltransferase
+NHECHLLE_00837	CDS	1728	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+NHECHLLE_00838	CDS	267	ptsH		COG1925	Phosphocarrier protein HPr
+NHECHLLE_00839	CDS	2235	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+NHECHLLE_00840	CDS	321				hypothetical protein
+NHECHLLE_00841	CDS	225				hypothetical protein
+NHECHLLE_00842	CDS	1581	prfC			Peptide chain release factor 3
+NHECHLLE_00843	CDS	1377				hypothetical protein
+NHECHLLE_00844	CDS	1119	yhhT		COG0628	Putative transport protein YhhT
+NHECHLLE_00845	CDS	435		2.3.1.-		Acetyltransferase
+NHECHLLE_00846	CDS	534				hypothetical protein
+NHECHLLE_00847	CDS	1179	mutY	3.2.2.31		Adenine DNA glycosylase
+NHECHLLE_00848	CDS	798	recX			Regulatory protein RecX
+NHECHLLE_00849	CDS	1383	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NHECHLLE_00850	CDS	579		1.14.99.53	COG3397	Lytic chitin monooxygenase
+NHECHLLE_00851	CDS	471	crtK-2		COG3476	Tryptophan-rich protein TspO
+NHECHLLE_00852	CDS	1227	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+NHECHLLE_00853	CDS	201	cspD		COG1278	Cold shock protein CspD
+NHECHLLE_00854	CDS	609	sodA	1.15.1.1		Superoxide dismutase [Mn]
+NHECHLLE_00855	CDS	471				hypothetical protein
+NHECHLLE_00856	CDS	900	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+NHECHLLE_00857	CDS	804				hypothetical protein
+NHECHLLE_00858	CDS	948	ghrB_1	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+NHECHLLE_00859	CDS	1548				IS66 family transposase ISRob1
+NHECHLLE_00860	CDS	354				hypothetical protein
+NHECHLLE_00861	CDS	195				hypothetical protein
+NHECHLLE_00862	CDS	294				hypothetical protein
+NHECHLLE_00863	CDS	666	ktrA		COG0569	Ktr system potassium uptake protein A
+NHECHLLE_00864	CDS	633	vraR			Response regulator protein VraR
+NHECHLLE_00865	CDS	1068	liaS	2.7.13.3	COG4585	Sensor histidine kinase LiaS
+NHECHLLE_00866	CDS	732				hypothetical protein
+NHECHLLE_00867	CDS	480	greA		COG0782	Transcription elongation factor GreA
+NHECHLLE_00868	CDS	1176	mltG	4.2.2.-		Endolytic murein transglycosylase
+NHECHLLE_00869	CDS	1161	pbpX_1		COG1680	Putative penicillin-binding protein PbpX
+NHECHLLE_00870	CDS	1446				IS1182 family transposase ISEfa7
+NHECHLLE_00871	CDS	948	wbgU_1	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+NHECHLLE_00872	CDS	1416				hypothetical protein
+NHECHLLE_00873	CDS	1149	pglH_1	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+NHECHLLE_00874	CDS	1536				hypothetical protein
+NHECHLLE_00875	CDS	975	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NHECHLLE_00876	CDS	966	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NHECHLLE_00877	CDS	1068	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NHECHLLE_00878	CDS	702	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NHECHLLE_00879	CDS	876				hypothetical protein
+NHECHLLE_00880	CDS	825	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+NHECHLLE_00881	CDS	1392				hypothetical protein
+NHECHLLE_00882	CDS	960			COG2826	IS30 family transposase IS6770
+NHECHLLE_00883	CDS	2139	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NHECHLLE_00884	CDS	1587				hypothetical protein
+NHECHLLE_00885	CDS	1221	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NHECHLLE_00886	CDS	807	tagG		COG1682	Teichoic acid translocation permease protein TagG
+NHECHLLE_00887	CDS	1281				hypothetical protein
+NHECHLLE_00888	CDS	2034				hypothetical protein
+NHECHLLE_00889	CDS	852	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+NHECHLLE_00890	CDS	1029	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NHECHLLE_00891	CDS	573	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+NHECHLLE_00892	CDS	867	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+NHECHLLE_00893	CDS	708				hypothetical protein
+NHECHLLE_00894	CDS	828				hypothetical protein
+NHECHLLE_00895	CDS	801				hypothetical protein
+NHECHLLE_00896	CDS	1140	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+NHECHLLE_00897	CDS	924				hypothetical protein
+NHECHLLE_00898	CDS	765	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+NHECHLLE_00899	CDS	441				Flavodoxin
+NHECHLLE_00900	CDS	570				hypothetical protein
+NHECHLLE_00901	CDS	1233	pepS	3.4.11.-	COG2309	Aminopeptidase PepS
+NHECHLLE_00902	CDS	180				hypothetical protein
+NHECHLLE_00903	CDS	372				hypothetical protein
+NHECHLLE_00904	CDS	402				hypothetical protein
+NHECHLLE_00905	CDS	408				hypothetical protein
+NHECHLLE_00906	CDS	495				IS3 family transposase ISEnfa3
+NHECHLLE_00907	CDS	837				IS3 family transposase ISEfa8
+NHECHLLE_00908	CDS	291				IS3 family transposase ISEfa8
+NHECHLLE_00909	tRNA	74				tRNA-Met(cat)
+NHECHLLE_00910	CDS	1026				hypothetical protein
+NHECHLLE_00911	CDS	225				hypothetical protein
+NHECHLLE_00912	CDS	294				hypothetical protein
+NHECHLLE_00913	CDS	138				hypothetical protein
+NHECHLLE_00914	CDS	447				hypothetical protein
+NHECHLLE_00915	CDS	2067				hypothetical protein
+NHECHLLE_00916	CDS	783				hypothetical protein
+NHECHLLE_00917	CDS	1719				hypothetical protein
+NHECHLLE_00918	CDS	2832				hypothetical protein
+NHECHLLE_00919	CDS	789				hypothetical protein
+NHECHLLE_00920	CDS	3120				hypothetical protein
+NHECHLLE_00921	CDS	288				hypothetical protein
+NHECHLLE_00922	CDS	369				hypothetical protein
+NHECHLLE_00923	CDS	513				hypothetical protein
+NHECHLLE_00924	CDS	393				hypothetical protein
+NHECHLLE_00925	CDS	372				hypothetical protein
+NHECHLLE_00926	CDS	327				hypothetical protein
+NHECHLLE_00927	CDS	339				hypothetical protein
+NHECHLLE_00928	CDS	207				hypothetical protein
+NHECHLLE_00929	CDS	1008				hypothetical protein
+NHECHLLE_00930	CDS	354				hypothetical protein
+NHECHLLE_00931	CDS	642				hypothetical protein
+NHECHLLE_00932	CDS	174				hypothetical protein
+NHECHLLE_00933	CDS	954				hypothetical protein
+NHECHLLE_00934	CDS	264				hypothetical protein
+NHECHLLE_00935	CDS	231				hypothetical protein
+NHECHLLE_00936	CDS	1635				hypothetical protein
+NHECHLLE_00937	CDS	1302				hypothetical protein
+NHECHLLE_00938	CDS	456				hypothetical protein
+NHECHLLE_00939	CDS	225				hypothetical protein
+NHECHLLE_00940	CDS	180				hypothetical protein
+NHECHLLE_00941	CDS	414				hypothetical protein
+NHECHLLE_00942	CDS	276				hypothetical protein
+NHECHLLE_00943	CDS	153				hypothetical protein
+NHECHLLE_00944	CDS	414				hypothetical protein
+NHECHLLE_00945	CDS	297				hypothetical protein
+NHECHLLE_00946	CDS	558				hypothetical protein
+NHECHLLE_00947	CDS	396				hypothetical protein
+NHECHLLE_00948	CDS	174				hypothetical protein
+NHECHLLE_00949	CDS	312				hypothetical protein
+NHECHLLE_00950	CDS	291				hypothetical protein
+NHECHLLE_00951	CDS	312				hypothetical protein
+NHECHLLE_00952	CDS	162				hypothetical protein
+NHECHLLE_00953	CDS	303				hypothetical protein
+NHECHLLE_00954	CDS	165				hypothetical protein
+NHECHLLE_00955	CDS	270				hypothetical protein
+NHECHLLE_00956	CDS	852				hypothetical protein
+NHECHLLE_00957	CDS	516				hypothetical protein
+NHECHLLE_00958	CDS	693				hypothetical protein
+NHECHLLE_00959	CDS	672				hypothetical protein
+NHECHLLE_00960	CDS	342				hypothetical protein
+NHECHLLE_00961	CDS	147				hypothetical protein
+NHECHLLE_00962	CDS	174				hypothetical protein
+NHECHLLE_00963	CDS	189				hypothetical protein
+NHECHLLE_00964	CDS	285				hypothetical protein
+NHECHLLE_00965	CDS	300				hypothetical protein
+NHECHLLE_00966	CDS	204				hypothetical protein
+NHECHLLE_00967	CDS	747				hypothetical protein
+NHECHLLE_00968	CDS	252				hypothetical protein
+NHECHLLE_00969	CDS	156				hypothetical protein
+NHECHLLE_00970	CDS	189				hypothetical protein
+NHECHLLE_00971	CDS	159				hypothetical protein
+NHECHLLE_00972	CDS	321				hypothetical protein
+NHECHLLE_00973	CDS	423				hypothetical protein
+NHECHLLE_00974	CDS	306				hypothetical protein
+NHECHLLE_00975	CDS	1140	xerC_5			Tyrosine recombinase XerC
+NHECHLLE_00976	CDS	1626	groL		COG0459	60 kDa chaperonin
+NHECHLLE_00977	CDS	285	groS		COG0234	10 kDa chaperonin
+NHECHLLE_00978	CDS	663	MroQ	3.4.22.-		Membrane-embedded CAAX protease MroQ
+NHECHLLE_00979	CDS	1293	gmuC_2		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+NHECHLLE_00980	CDS	630				hypothetical protein
+NHECHLLE_00981	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+NHECHLLE_00982	CDS	870				hypothetical protein
+NHECHLLE_00983	CDS	1317				hypothetical protein
+NHECHLLE_00984	CDS	1836	walK_1	2.7.13.3		Sensor histidine kinase WalK
+NHECHLLE_00985	CDS	705	walR_1		COG0745	Transcriptional regulatory protein WalR
+NHECHLLE_00986	CDS	861				DegV domain-containing protein
+NHECHLLE_00987	CDS	570				hypothetical protein
+NHECHLLE_00988	tRNA	73				tRNA-Lys(ctt)
+NHECHLLE_00989	CDS	318			COG2826	IS30 family transposase IS1252
+NHECHLLE_00990	CDS	585			COG2826	IS30 family transposase IS1252
+NHECHLLE_00991	CDS	147				hypothetical protein
+NHECHLLE_00992	CDS	339				hypothetical protein
+NHECHLLE_00993	CDS	198	pisA			Bacteriocin piscicolin-126
+NHECHLLE_00994	CDS	1728				hypothetical protein
+NHECHLLE_00995	CDS	1194	opuAA	7.6.2.9	COG4175	Glycine betaine transport ATP-binding protein OpuAA
+NHECHLLE_00996	CDS	645				hypothetical protein
+NHECHLLE_00997	CDS	135				hypothetical protein
+NHECHLLE_00998	CDS	2133	feoB		COG0370	Fe(2+) transporter FeoB
+NHECHLLE_00999	CDS	474				hypothetical protein
+NHECHLLE_01000	CDS	225	nrdH		COG0695	Glutaredoxin-like protein NrdH
+NHECHLLE_01001	CDS	2160	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+NHECHLLE_01002	CDS	966	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta
+NHECHLLE_01003	CDS	1140				hypothetical protein
+NHECHLLE_01004	CDS	714	sapB		COG1285	Protein SapB
+NHECHLLE_01005	CDS	702	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+NHECHLLE_01006	CDS	1533	ybiT_1		COG0488	putative ABC transporter ATP-binding protein YbiT
+NHECHLLE_01007	CDS	909				IS982 family transposase ISEfm1
+NHECHLLE_01008	CDS	1050				putative transporter
+NHECHLLE_01009	CDS	690				hypothetical protein
+NHECHLLE_01010	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+NHECHLLE_01011	CDS	504	rplJ			50S ribosomal protein L10
+NHECHLLE_01012	CDS	690	rplA			50S ribosomal protein L1
+NHECHLLE_01013	CDS	423	rplK			50S ribosomal protein L11
+NHECHLLE_01014	CDS	669	sdhB	4.3.1.17		L-serine dehydratase, beta chain
+NHECHLLE_01015	CDS	873	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+NHECHLLE_01016	CDS	1020		1.13.12.4	COG1304	Lactate 2-monooxygenase
+NHECHLLE_01017	CDS	888				hypothetical protein
+NHECHLLE_01018	CDS	546	nusG			Transcription termination/antitermination protein NusG
+NHECHLLE_01019	CDS	171	secE			Protein translocase subunit SecE
+NHECHLLE_01020	CDS	153	rpmG3		COG0267	50S ribosomal protein L33 3
+NHECHLLE_01021	CDS	645				hypothetical protein
+NHECHLLE_01022	CDS	504	queT_1		COG4708	Queuosine precursor transporter QueT
+NHECHLLE_01023	CDS	966	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+NHECHLLE_01024	CDS	1173				hypothetical protein
+NHECHLLE_01025	CDS	1146				hypothetical protein
+NHECHLLE_01026	CDS	933	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+NHECHLLE_01027	CDS	1080				hypothetical protein
+NHECHLLE_01028	CDS	630	lnrK		COG2197	Transcriptional regulatory protein LnrK
+NHECHLLE_01029	CDS	228				hypothetical protein
+NHECHLLE_01030	CDS	2589	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+NHECHLLE_01031	CDS	660	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+NHECHLLE_01032	CDS	504	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+NHECHLLE_01033	CDS	867	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+NHECHLLE_01034	CDS	642	cutC		COG3142	Copper homeostasis protein CutC
+NHECHLLE_01035	CDS	1362	mgtE		COG2239	Magnesium transporter MgtE
+NHECHLLE_01036	CDS	900				hypothetical protein
+NHECHLLE_01037	CDS	798	ppnKA	2.7.1.23	COG0061	NAD kinase 1
+NHECHLLE_01038	CDS	705	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+NHECHLLE_01039	CDS	576	yjbK	3.6.1.-	COG4116	Putative triphosphatase YjbK
+NHECHLLE_01040	CDS	678				hypothetical protein
+NHECHLLE_01041	CDS	1296				ISL3 family transposase IS1251
+NHECHLLE_01042	CDS	1809	pepF1_1	3.4.24.-		Oligoendopeptidase F, plasmid
+NHECHLLE_01043	CDS	999				hypothetical protein
+NHECHLLE_01044	CDS	654	mecA		COG4862	Adapter protein MecA 1
+NHECHLLE_01045	CDS	399	spxA_3		COG1393	Regulatory protein Spx
+NHECHLLE_01046	CDS	708	yfnB_1	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+NHECHLLE_01047	CDS	3195	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+NHECHLLE_01048	CDS	3129				hypothetical protein
+NHECHLLE_01049	CDS	1122	sbcD			Nuclease SbcCD subunit D
+NHECHLLE_01050	CDS	624	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+NHECHLLE_01051	CDS	735	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NHECHLLE_01052	CDS	285				hypothetical protein
+NHECHLLE_01053	CDS	1884	oatA	2.3.1.-		O-acetyltransferase OatA
+NHECHLLE_01054	CDS	876				hypothetical protein
+NHECHLLE_01055	CDS	1770	aspS	6.1.1.12		Aspartate--tRNA ligase
+NHECHLLE_01056	CDS	1293	hisS	6.1.1.21		Histidine--tRNA ligase
+NHECHLLE_01057	CDS	948	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+NHECHLLE_01058	CDS	1260	cypC	1.11.2.4		Fatty-acid peroxygenase
+NHECHLLE_01059	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+NHECHLLE_01060	CDS	2214	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+NHECHLLE_01061	CDS	765	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+NHECHLLE_01062	CDS	948	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+NHECHLLE_01063	CDS	489				hypothetical protein
+NHECHLLE_01064	CDS	672		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+NHECHLLE_01065	CDS	1287			COG2256	putative AAA domain-containing protein
+NHECHLLE_01066	CDS	285				hypothetical protein
+NHECHLLE_01067	CDS	480				Putative universal stress protein
+NHECHLLE_01068	CDS	129				hypothetical protein
+NHECHLLE_01069	CDS	1584	ybiT_2		COG0488	putative ABC transporter ATP-binding protein YbiT
+NHECHLLE_01070	CDS	1185	ackA	2.7.2.1	COG0282	Acetate kinase
+NHECHLLE_01071	CDS	1008				hypothetical protein
+NHECHLLE_01072	CDS	360				hypothetical protein
+NHECHLLE_01073	CDS	426				hypothetical protein
+NHECHLLE_01074	CDS	303				hypothetical protein
+NHECHLLE_01075	CDS	495				hypothetical protein
+NHECHLLE_01076	CDS	279				hypothetical protein
+NHECHLLE_01077	CDS	1050				hypothetical protein
+NHECHLLE_01078	CDS	930	comGA		COG2804	ComG operon protein 1
+NHECHLLE_01079	CDS	1755	adeC	3.5.4.2		Adenine deaminase
+NHECHLLE_01080	CDS	663	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+NHECHLLE_01081	CDS	783	thiK	2.7.1.89		Thiamine kinase
+NHECHLLE_01082	CDS	1212				hypothetical protein
+NHECHLLE_01083	CDS	738	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+NHECHLLE_01084	CDS	435	hit		COG0537	Protein hit
+NHECHLLE_01085	CDS	345				hypothetical protein
+NHECHLLE_01086	CDS	1011	prsA_2	5.2.1.8		Foldase protein PrsA
+NHECHLLE_01087	CDS	945	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+NHECHLLE_01088	CDS	2721				hypothetical protein
+NHECHLLE_01089	CDS	1221				hypothetical protein
+NHECHLLE_01090	CDS	837	ywpJ_1	3.1.3.-	COG0561	Phosphatase YwpJ
+NHECHLLE_01091	CDS	1311				hypothetical protein
+NHECHLLE_01092	CDS	1419	yjmB		COG2211	putative symporter YjmB
+NHECHLLE_01093	CDS	1569	xynB	3.2.1.37		Beta-xylosidase
+NHECHLLE_01094	CDS	411				hypothetical protein
+NHECHLLE_01095	CDS	924	pemA	3.1.1.11	COG4677	Pectinesterase A
+NHECHLLE_01096	CDS	900				hypothetical protein
+NHECHLLE_01097	CDS	1338				hypothetical protein
+NHECHLLE_01098	CDS	1104	yteR	3.2.1.172	COG4225	Unsaturated rhamnogalacturonyl hydrolase YteR
+NHECHLLE_01099	CDS	1509	lipO		COG1653	Lipoprotein LipO
+NHECHLLE_01100	CDS	693				hypothetical protein
+NHECHLLE_01101	CDS	975	yteP_1		COG4209	putative multiple-sugar transport system permease YteP
+NHECHLLE_01102	CDS	873	araQ_2		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_01103	CDS	2199	yesS		COG2207	HTH-type transcriptional regulator YesS
+NHECHLLE_01104	CDS	993	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+NHECHLLE_01105	CDS	1422	uxaB	1.1.1.58	COG0246	Altronate oxidoreductase
+NHECHLLE_01106	CDS	1500	uxaA	4.2.1.7	COG2721	Altronate dehydratase
+NHECHLLE_01107	CDS	1395	uxaC	5.3.1.12	COG1904	Uronate isomerase
+NHECHLLE_01108	CDS	684	rhgT	3.1.1.-	COG2755	Rhamnogalacturonan acetylesterase RhgT
+NHECHLLE_01109	CDS	837				hypothetical protein
+NHECHLLE_01110	CDS	1755		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+NHECHLLE_01111	CDS	342				hypothetical protein
+NHECHLLE_01112	CDS	2172	pbpF		COG0744	Penicillin-binding protein 1F
+NHECHLLE_01113	CDS	858	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NHECHLLE_01114	CDS	858	gmuE_1	2.7.1.4	COG1940	Putative fructokinase
+NHECHLLE_01115	CDS	2703	mngB	3.2.1.-	COG0383	Mannosylglycerate hydrolase
+NHECHLLE_01116	CDS	1290				hypothetical protein
+NHECHLLE_01117	CDS	1047	araR_1		COG1609	Arabinose metabolism transcriptional repressor
+NHECHLLE_01118	CDS	2154				hypothetical protein
+NHECHLLE_01119	CDS	1446	rhaR_3			HTH-type transcriptional activator RhaR
+NHECHLLE_01120	CDS	1725				hypothetical protein
+NHECHLLE_01121	CDS	615				hypothetical protein
+NHECHLLE_01122	CDS	1458				hypothetical protein
+NHECHLLE_01123	CDS	921	araQ_3		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_01124	CDS	948	yteP_2		COG4209	putative multiple-sugar transport system permease YteP
+NHECHLLE_01125	CDS	720	rluB_2	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+NHECHLLE_01126	CDS	1647	murJ_2		COG2244	Lipid II flippase MurJ
+NHECHLLE_01127	CDS	591				hypothetical protein
+NHECHLLE_01128	CDS	1506	murE	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+NHECHLLE_01129	CDS	1353	licC_2		COG1455	Lichenan permease IIC component
+NHECHLLE_01130	CDS	519				hypothetical protein
+NHECHLLE_01131	CDS	327	licA_1		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+NHECHLLE_01132	CDS	1980	licR_2		COG1762	putative licABCH operon regulator
+NHECHLLE_01133	CDS	315				hypothetical protein
+NHECHLLE_01134	CDS	294				hypothetical protein
+NHECHLLE_01135	CDS	1071				hypothetical protein
+NHECHLLE_01136	CDS	1020				hypothetical protein
+NHECHLLE_01137	CDS	2793				hypothetical protein
+NHECHLLE_01138	CDS	225				hypothetical protein
+NHECHLLE_01139	CDS	762				hypothetical protein
+NHECHLLE_01140	CDS	1722			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_01141	CDS	1785			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_01142	CDS	1554				hypothetical protein
+NHECHLLE_01143	CDS	2415	leuS	6.1.1.4		Leucine--tRNA ligase
+NHECHLLE_01144	CDS	2019		3.2.1.17		Muramidase-2
+NHECHLLE_01145	CDS	657				hypothetical protein
+NHECHLLE_01146	CDS	957				hypothetical protein
+NHECHLLE_01147	CDS	567				hypothetical protein
+NHECHLLE_01148	CDS	1770			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_01149	CDS	1713			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_01150	CDS	669				hypothetical protein
+NHECHLLE_01151	CDS	789				hypothetical protein
+NHECHLLE_01152	CDS	1473	bmr3			Multidrug resistance protein 3
+NHECHLLE_01153	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_01154	CDS	1194	metK	2.5.1.6		S-adenosylmethionine synthase
+NHECHLLE_01155	tRNA	74				tRNA-Glu(ttc)
+NHECHLLE_01156	tRNA	76				tRNA-Ile(gat)
+NHECHLLE_01157	tRNA	71				tRNA-Gly(tcc)
+NHECHLLE_01158	tRNA	75				tRNA-Phe(gaa)
+NHECHLLE_01159	tRNA	75				tRNA-Asp(gtc)
+NHECHLLE_01160	tRNA	76				tRNA-Met(cat)
+NHECHLLE_01161	tRNA	90				tRNA-Ser(tga)
+NHECHLLE_01162	tRNA	74				tRNA-Glu(ttc)
+NHECHLLE_01163	tRNA	90				tRNA-Ser(gct)
+NHECHLLE_01164	tRNA	76				tRNA-Ile(gat)
+NHECHLLE_01165	tRNA	71				tRNA-Gly(tcc)
+NHECHLLE_01166	tRNA	76				tRNA-Asp(gtc)
+NHECHLLE_01167	tRNA	76				tRNA-Met(cat)
+NHECHLLE_01168	tRNA	90				tRNA-Ser(tga)
+NHECHLLE_01169	tRNA	76				tRNA-Met(cat)
+NHECHLLE_01170	tRNA	76				tRNA-Met(cat)
+NHECHLLE_01171	tRNA	73				tRNA-Ala(tgc)
+NHECHLLE_01172	tRNA	74				tRNA-Pro(tgg)
+NHECHLLE_01173	tRNA	76				tRNA-Arg(acg)
+NHECHLLE_01174	tRNA	86				tRNA-Leu(taa)
+NHECHLLE_01175	tRNA	72				tRNA-Gly(gcc)
+NHECHLLE_01176	tRNA	76				tRNA-Thr(tgt)
+NHECHLLE_01177	tRNA	84				tRNA-Leu(tag)
+NHECHLLE_01178	tRNA	75				tRNA-Lys(ttt)
+NHECHLLE_01179	tRNA	75				tRNA-Val(tac)
+NHECHLLE_01180	tRNA	73				tRNA-Ala(tgc)
+NHECHLLE_01181	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_01182	CDS	1497	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+NHECHLLE_01183	CDS	1005	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+NHECHLLE_01184	CDS	888	hslO		COG1281	33 kDa chaperonin
+NHECHLLE_01185	CDS	2112	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+NHECHLLE_01186	CDS	546	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+NHECHLLE_01187	CDS	1455	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+NHECHLLE_01188	CDS	471	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+NHECHLLE_01189	CDS	426				hypothetical protein
+NHECHLLE_01190	CDS	270				hypothetical protein
+NHECHLLE_01191	CDS	1596	murJ_3		COG2244	Lipid II flippase MurJ
+NHECHLLE_01192	CDS	3522	mfd	3.6.4.-		Transcription-repair-coupling factor
+NHECHLLE_01193	CDS	561	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+NHECHLLE_01194	CDS	975	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+NHECHLLE_01195	CDS	1401				hypothetical protein
+NHECHLLE_01196	CDS	723			COG0217	putative transcriptional regulatory protein
+NHECHLLE_01197	CDS	507				hypothetical protein
+NHECHLLE_01198	CDS	1800	pepF1_2	3.4.24.-		Oligoendopeptidase F, plasmid
+NHECHLLE_01199	CDS	1575				hypothetical protein
+NHECHLLE_01200	CDS	510				hypothetical protein
+NHECHLLE_01201	CDS	855	mreC		COG1792	Cell shape-determining protein MreC
+NHECHLLE_01202	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+NHECHLLE_01203	CDS	651	rpe_1	5.1.3.1		Ribulose-phosphate 3-epimerase
+NHECHLLE_01204	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+NHECHLLE_01205	CDS	2070	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+NHECHLLE_01206	CDS	741	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+NHECHLLE_01207	CDS	1359	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+NHECHLLE_01208	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+NHECHLLE_01209	CDS	492	def_1	3.5.1.88		Peptide deformylase
+NHECHLLE_01210	CDS	2409	priA	3.6.4.-		primosomal protein N'
+NHECHLLE_01211	CDS	306	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+NHECHLLE_01212	CDS	615	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+NHECHLLE_01213	CDS	285				hypothetical protein
+NHECHLLE_01214	CDS	891				hypothetical protein
+NHECHLLE_01215	CDS	219				hypothetical protein
+NHECHLLE_01216	CDS	1701				hypothetical protein
+NHECHLLE_01217	CDS	774				hypothetical protein
+NHECHLLE_01218	CDS	570	thiT			Thiamine transporter ThiT
+NHECHLLE_01219	CDS	972	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+NHECHLLE_01220	CDS	1374	glmU		COG1207	Bifunctional protein GlmU
+NHECHLLE_01221	CDS	819	purR_1		COG0503	Pur operon repressor
+NHECHLLE_01222	CDS	825	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+NHECHLLE_01223	CDS	681	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+NHECHLLE_01224	CDS	939	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+NHECHLLE_01225	CDS	846	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NHECHLLE_01226	CDS	2574	mprF_2	2.3.2.3		Phosphatidylglycerol lysyltransferase
+NHECHLLE_01227	CDS	807	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+NHECHLLE_01228	CDS	1557	rny	3.1.-.-	COG1418	Ribonuclease Y
+NHECHLLE_01229	CDS	1050	recA		COG0468	Protein RecA
+NHECHLLE_01230	CDS	1242	cinA		COG1058	Putative competence-damage inducible protein
+NHECHLLE_01231	CDS	579	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NHECHLLE_01232	CDS	885				hypothetical protein
+NHECHLLE_01233	CDS	1287				hypothetical protein
+NHECHLLE_01234	CDS	1269				hypothetical protein
+NHECHLLE_01235	CDS	462	mscL		COG1970	Large-conductance mechanosensitive channel
+NHECHLLE_01236	CDS	447	elaA		COG2153	Protein ElaA
+NHECHLLE_01237	CDS	246	veg		COG4466	Protein Veg
+NHECHLLE_01238	CDS	579	sigH		COG1595	RNA polymerase sigma-H factor
+NHECHLLE_01239	CDS	531				hypothetical protein
+NHECHLLE_01240	CDS	861		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+NHECHLLE_01241	CDS	396	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+NHECHLLE_01242	CDS	1413	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+NHECHLLE_01243	CDS	537	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+NHECHLLE_01244	CDS	1461	gltX	6.1.1.17		Glutamate--tRNA ligase
+NHECHLLE_01245	CDS	1158	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+NHECHLLE_01246	CDS	1371	radA	3.6.4.-	COG1066	DNA repair protein RadA
+NHECHLLE_01247	CDS	528	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NHECHLLE_01248	CDS	807	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+NHECHLLE_01249	CDS	1248	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+NHECHLLE_01250	CDS	345				hypothetical protein
+NHECHLLE_01251	CDS	327				hypothetical protein
+NHECHLLE_01252	CDS	933	yfmO_1			Multidrug efflux protein YfmO
+NHECHLLE_01253	CDS	270	yfmO_2			Multidrug efflux protein YfmO
+NHECHLLE_01254	CDS	516				hypothetical protein
+NHECHLLE_01255	CDS	447				hypothetical protein
+NHECHLLE_01256	CDS	1479	msr(C)			ABC-F type ribosomal protection protein Msr(C)
+NHECHLLE_01257	CDS	240	yodC_1	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+NHECHLLE_01258	CDS	393	yodC_2	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YodC
+NHECHLLE_01259	CDS	465				hypothetical protein
+NHECHLLE_01260	CDS	1269				hypothetical protein
+NHECHLLE_01261	CDS	738		1.-.-.-		putative oxidoreductase
+NHECHLLE_01262	CDS	570		2.3.1.-		Putative acetyltransferase
+NHECHLLE_01263	CDS	873	hdfR_2			HTH-type transcriptional regulator HdfR
+NHECHLLE_01264	CDS	873	sacY		COG3711	Levansucrase and sucrase synthesis operon antiterminator
+NHECHLLE_01265	CDS	1959	ptsG_2	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+NHECHLLE_01266	CDS	99				hypothetical protein
+NHECHLLE_01267	CDS	852	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+NHECHLLE_01268	CDS	468	ywnA		COG1959	Putative HTH-type transcriptional regulator YwnA
+NHECHLLE_01269	CDS	483				hypothetical protein
+NHECHLLE_01270	CDS	864				hypothetical protein
+NHECHLLE_01271	CDS	849				hypothetical protein
+NHECHLLE_01272	CDS	342	xylB_1	2.7.1.17	COG1070	Xylulose kinase
+NHECHLLE_01273	CDS	708	ygaZ_2		COG1296	Inner membrane protein YgaZ
+NHECHLLE_01274	CDS	324				hypothetical protein
+NHECHLLE_01275	CDS	1038				Zinc-type alcohol dehydrogenase-like protein
+NHECHLLE_01276	CDS	984	dus	1.3.1.-		putative tRNA-dihydrouridine synthase
+NHECHLLE_01277	CDS	771	yadH		COG0842	Inner membrane transport permease YadH
+NHECHLLE_01278	CDS	936	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+NHECHLLE_01279	CDS	108				hypothetical protein
+NHECHLLE_01280	CDS	1650	mutS_1			DNA mismatch repair protein MutS
+NHECHLLE_01281	CDS	897	phoR_1	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+NHECHLLE_01282	CDS	660	arlR_2		COG0745	Response regulator ArlR
+NHECHLLE_01283	CDS	783				hypothetical protein
+NHECHLLE_01284	CDS	918	bcrA_1			Bacitracin transport ATP-binding protein BcrA
+NHECHLLE_01285	CDS	216				hypothetical protein
+NHECHLLE_01286	CDS	3228				hypothetical protein
+NHECHLLE_01287	CDS	315				hypothetical protein
+NHECHLLE_01288	CDS	375				hypothetical protein
+NHECHLLE_01289	CDS	336				hypothetical protein
+NHECHLLE_01290	CDS	1146				hypothetical protein
+NHECHLLE_01291	CDS	1860				hypothetical protein
+NHECHLLE_01292	CDS	240				hypothetical protein
+NHECHLLE_01293	CDS	675				hypothetical protein
+NHECHLLE_01294	CDS	165				hypothetical protein
+NHECHLLE_01295	CDS	435	hhaIM	2.1.1.37		Modification methylase HhaI
+NHECHLLE_01296	CDS	708				hypothetical protein
+NHECHLLE_01297	CDS	291				hypothetical protein
+NHECHLLE_01298	CDS	1185				hypothetical protein
+NHECHLLE_01299	CDS	138				hypothetical protein
+NHECHLLE_01300	CDS	1911				hypothetical protein
+NHECHLLE_01301	CDS	504				hypothetical protein
+NHECHLLE_01302	CDS	390				hypothetical protein
+NHECHLLE_01303	CDS	2448				hypothetical protein
+NHECHLLE_01304	CDS	2124				hypothetical protein
+NHECHLLE_01305	CDS	1005				hypothetical protein
+NHECHLLE_01306	CDS	912				hypothetical protein
+NHECHLLE_01307	CDS	216				hypothetical protein
+NHECHLLE_01308	CDS	1440	ribZ_1			Riboflavin transporter RibZ
+NHECHLLE_01309	CDS	633				hypothetical protein
+NHECHLLE_01310	CDS	1452				hypothetical protein
+NHECHLLE_01311	CDS	1344	noxE	1.6.99.3	COG0446	NADH oxidase
+NHECHLLE_01312	CDS	5928				hypothetical protein
+NHECHLLE_01313	CDS	435				hypothetical protein
+NHECHLLE_01314	CDS	1206	rhaR_4			HTH-type transcriptional activator RhaR
+NHECHLLE_01315	CDS	387				hypothetical protein
+NHECHLLE_01316	CDS	192				hypothetical protein
+NHECHLLE_01317	CDS	195				hypothetical protein
+NHECHLLE_01318	CDS	189				hypothetical protein
+NHECHLLE_01319	CDS	1128				ISL3 family transposase IS1251
+NHECHLLE_01320	CDS	1617				hypothetical protein
+NHECHLLE_01321	CDS	219				hypothetical protein
+NHECHLLE_01322	CDS	240				hypothetical protein
+NHECHLLE_01323	CDS	1524				hypothetical protein
+NHECHLLE_01324	CDS	123				hypothetical protein
+NHECHLLE_01325	CDS	984	yjiA	3.6.-.-	COG0523	P-loop guanosine triphosphatase YjiA
+NHECHLLE_01326	CDS	150	rpmGA_2			50S ribosomal protein L33 1
+NHECHLLE_01327	CDS	378				hypothetical protein
+NHECHLLE_01328	CDS	180	rpmF_2		COG0333	50S ribosomal protein L32
+NHECHLLE_01329	CDS	270	rpsN2_1		COG0199	Alternate 30S ribosomal protein S14
+NHECHLLE_01330	CDS	1743	ndvA	7.5.2.3	COG1132	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA
+NHECHLLE_01331	CDS	1755	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NHECHLLE_01332	CDS	570				hypothetical protein
+NHECHLLE_01333	CDS	1416	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+NHECHLLE_01334	CDS	669				hypothetical protein
+NHECHLLE_01335	CDS	519				hypothetical protein
+NHECHLLE_01336	CDS	93				hypothetical protein
+NHECHLLE_01337	CDS	234				hypothetical protein
+NHECHLLE_01338	CDS	951	ssaB_1		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+NHECHLLE_01339	CDS	843	mntB_1			Manganese transport system membrane protein MntB
+NHECHLLE_01340	CDS	1188				IS110 family transposase ISBth13
+NHECHLLE_01341	CDS	741	scaC_1	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+NHECHLLE_01342	CDS	1227	xerC_6			Tyrosine recombinase XerC
+NHECHLLE_01343	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+NHECHLLE_01344	CDS	444	rplM			50S ribosomal protein L13
+NHECHLLE_01345	CDS	468	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+NHECHLLE_01346	CDS	1539	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+NHECHLLE_01347	CDS	687	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+NHECHLLE_01348	CDS	528	msrA_2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+NHECHLLE_01349	CDS	678	yvdM_1	5.4.2.6	COG0637	Beta-phosphoglucomutase
+NHECHLLE_01350	CDS	1131	glxK	2.7.1.31		Glycerate kinase
+NHECHLLE_01351	CDS	2184	ycjT	2.4.1.230	COG1554	Kojibiose phosphorylase
+NHECHLLE_01352	CDS	1026	rifL	1.1.1.-		Putative UDP-kanosamine synthase oxidoreductase subunit
+NHECHLLE_01353	CDS	828				hypothetical protein
+NHECHLLE_01354	CDS	1068	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+NHECHLLE_01355	CDS	837	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+NHECHLLE_01356	CDS	870	ycjO		COG1175	Inner membrane ABC transporter permease protein YcjO
+NHECHLLE_01357	CDS	1284				hypothetical protein
+NHECHLLE_01358	CDS	1686	ycjM	2.4.1.352	COG0366	Glucosylglycerate phosphorylase
+NHECHLLE_01359	CDS	1026	purR_2		COG1609	HTH-type transcriptional repressor PurR
+NHECHLLE_01360	CDS	3654	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+NHECHLLE_01361	CDS	3618	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+NHECHLLE_01362	CDS	969				hypothetical protein
+NHECHLLE_01363	CDS	906				hypothetical protein
+NHECHLLE_01364	CDS	807	yxdL_1		COG1136	ABC transporter ATP-binding protein YxdL
+NHECHLLE_01365	CDS	969	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+NHECHLLE_01366	CDS	525				hypothetical protein
+NHECHLLE_01367	CDS	1983				hypothetical protein
+NHECHLLE_01368	CDS	987	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+NHECHLLE_01369	CDS	567				hypothetical protein
+NHECHLLE_01370	CDS	417				hypothetical protein
+NHECHLLE_01371	CDS	1935	norW	1.18.1.-		Nitric oxide reductase FlRd-NAD(+) reductase
+NHECHLLE_01372	CDS	957				hypothetical protein
+NHECHLLE_01373	CDS	1104	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+NHECHLLE_01374	CDS	954	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+NHECHLLE_01375	CDS	1347	gor	1.8.1.7	COG1249	Glutathione reductase
+NHECHLLE_01376	CDS	1251				hypothetical protein
+NHECHLLE_01377	CDS	924	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+NHECHLLE_01378	CDS	2493	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+NHECHLLE_01379	CDS	468	ctsR		COG4463	Transcriptional regulator CtsR
+NHECHLLE_01380	tRNA	77				tRNA-Arg(acg)
+NHECHLLE_01381	tRNA	74				tRNA-Pro(tgg)
+NHECHLLE_01382	tRNA	76				tRNA-Arg(acg)
+NHECHLLE_01383	tRNA	86				tRNA-Leu(taa)
+NHECHLLE_01384	tRNA	72				tRNA-Gly(gcc)
+NHECHLLE_01385	tRNA	76				tRNA-Thr(tgt)
+NHECHLLE_01386	tRNA	84				tRNA-Leu(tag)
+NHECHLLE_01387	tRNA	75				tRNA-Lys(ttt)
+NHECHLLE_01388	tRNA	75				tRNA-Val(tac)
+NHECHLLE_01389	CDS	690	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+NHECHLLE_01390	CDS	1209	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+NHECHLLE_01391	CDS	1272	serS	6.1.1.11		Serine--tRNA ligase
+NHECHLLE_01392	CDS	1485	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+NHECHLLE_01393	CDS	696				hypothetical protein
+NHECHLLE_01394	CDS	1101	ychF		COG0012	Ribosome-binding ATPase YchF
+NHECHLLE_01395	CDS	192				hypothetical protein
+NHECHLLE_01396	CDS	891	spo0J		COG1475	Stage 0 sporulation protein J
+NHECHLLE_01397	CDS	768	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NHECHLLE_01398	CDS	714	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+NHECHLLE_01399	CDS	1902	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NHECHLLE_01400	CDS	1398	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+NHECHLLE_01401	CDS	339				hypothetical protein
+NHECHLLE_01402	CDS	759				hypothetical protein
+NHECHLLE_01403	CDS	819	misCA		COG0706	Membrane protein insertase MisCA
+NHECHLLE_01404	CDS	357	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+NHECHLLE_01405	CDS	135	rpmH			50S ribosomal protein L34
+NHECHLLE_01406	CDS	1335	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+NHECHLLE_01407	CDS	1131	dnaN		COG0592	Beta sliding clamp
+NHECHLLE_01408	CDS	309				hypothetical protein
+NHECHLLE_01409	CDS	1125	recF		COG1195	DNA replication and repair protein RecF
+NHECHLLE_01410	CDS	1947	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+NHECHLLE_01411	CDS	2472	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+NHECHLLE_01412	CDS	300	rpsF		COG0360	30S ribosomal protein S6
+NHECHLLE_01413	CDS	513	ssb_1		COG0629	Single-stranded DNA-binding protein
+NHECHLLE_01414	CDS	237	rpsR		COG0238	30S ribosomal protein S18
+NHECHLLE_01415	CDS	1974	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+NHECHLLE_01416	CDS	453	rplI			50S ribosomal protein L9
+NHECHLLE_01417	CDS	1368	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+NHECHLLE_01418	CDS	1293	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+NHECHLLE_01419	CDS	864				DegV domain-containing protein
+NHECHLLE_01420	CDS	1623	ybiT_3		COG0488	putative ABC transporter ATP-binding protein YbiT
+NHECHLLE_01421	CDS	522				hypothetical protein
+NHECHLLE_01422	CDS	1731	pox5	1.2.3.3	COG0028	Pyruvate oxidase
+NHECHLLE_01423	CDS	819	zupT		COG0428	Zinc transporter ZupT
+NHECHLLE_01424	CDS	198				hypothetical protein
+NHECHLLE_01425	CDS	579				Potassium channel
+NHECHLLE_01426	CDS	138				hypothetical protein
+NHECHLLE_01427	CDS	504				hypothetical protein
+NHECHLLE_01428	CDS	1026				hypothetical protein
+NHECHLLE_01429	CDS	864				hypothetical protein
+NHECHLLE_01430	CDS	378				hypothetical protein
+NHECHLLE_01431	CDS	231				hypothetical protein
+NHECHLLE_01432	CDS	207				hypothetical protein
+NHECHLLE_01433	CDS	372				hypothetical protein
+NHECHLLE_01434	CDS	693	yvdM_2	5.4.2.6	COG0637	Beta-phosphoglucomutase
+NHECHLLE_01435	CDS	786	lacR_2			Lactose phosphotransferase system repressor
+NHECHLLE_01436	CDS	1401	lacG_2	3.2.1.85	COG2723	6-phospho-beta-galactosidase
+NHECHLLE_01437	CDS	318	lacF_3			PTS system lactose-specific EIIA component
+NHECHLLE_01438	CDS	1674	lacE_2		COG1455	PTS system lactose-specific EIICB component
+NHECHLLE_01439	CDS	1632				hypothetical protein
+NHECHLLE_01440	CDS	1566	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NHECHLLE_01441	CDS	924	coaA	2.7.1.33		Pantothenate kinase
+NHECHLLE_01442	CDS	606	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+NHECHLLE_01443	CDS	1017	degA_1		COG1609	HTH-type transcriptional regulator DegA
+NHECHLLE_01444	CDS	1302	pdp	2.4.2.2	COG0213	Pyrimidine-nucleoside phosphorylase
+NHECHLLE_01445	CDS	663	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+NHECHLLE_01446	CDS	399	cdd	3.5.4.5	COG0295	Cytidine deaminase
+NHECHLLE_01447	CDS	1083	tmpC		COG1744	Membrane lipoprotein TmpC
+NHECHLLE_01448	CDS	1563	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+NHECHLLE_01449	CDS	1134				hypothetical protein
+NHECHLLE_01450	CDS	957				hypothetical protein
+NHECHLLE_01451	CDS	1167	deoB	5.4.2.7		Phosphopentomutase
+NHECHLLE_01452	CDS	819	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+NHECHLLE_01453	CDS	708	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+NHECHLLE_01454	CDS	687	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+NHECHLLE_01455	CDS	582	hin		COG1961	DNA-invertase hin
+NHECHLLE_01456	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+NHECHLLE_01457	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+NHECHLLE_01458	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+NHECHLLE_01459	CDS	2088	fus			Elongation factor G
+NHECHLLE_01460	CDS	1188	tuf_2		COG0050	Elongation factor Tu
+NHECHLLE_01461	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+NHECHLLE_01462	CDS	630	rplC		COG0087	50S ribosomal protein L3
+NHECHLLE_01463	CDS	624	rplD		COG0088	50S ribosomal protein L4
+NHECHLLE_01464	CDS	291	rplW			50S ribosomal protein L23
+NHECHLLE_01465	CDS	834	rplB		COG0090	50S ribosomal protein L2
+NHECHLLE_01466	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+NHECHLLE_01467	CDS	348	rplV		COG0091	50S ribosomal protein L22
+NHECHLLE_01468	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+NHECHLLE_01469	CDS	435	rplP		COG0197	50S ribosomal protein L16
+NHECHLLE_01470	CDS	189	rpmC		COG0255	50S ribosomal protein L29
+NHECHLLE_01471	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+NHECHLLE_01472	CDS	369	rplN		COG0093	50S ribosomal protein L14
+NHECHLLE_01473	CDS	309	rplX			50S ribosomal protein L24
+NHECHLLE_01474	CDS	540	rplE		COG0094	50S ribosomal protein L5
+NHECHLLE_01475	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+NHECHLLE_01476	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+NHECHLLE_01477	CDS	537	rplF			50S ribosomal protein L6
+NHECHLLE_01478	CDS	357	rplR		COG0256	50S ribosomal protein L18
+NHECHLLE_01479	CDS	501	rpsE		COG0098	30S ribosomal protein S5
+NHECHLLE_01480	CDS	180	rpmD		COG1841	50S ribosomal protein L30
+NHECHLLE_01481	CDS	441	rplO			50S ribosomal protein L15
+NHECHLLE_01482	CDS	1296	secY			Protein translocase subunit SecY
+NHECHLLE_01483	CDS	648	adk	2.7.4.3		Adenylate kinase
+NHECHLLE_01484	CDS	219	infA		COG0361	Translation initiation factor IF-1
+NHECHLLE_01485	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+NHECHLLE_01486	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+NHECHLLE_01487	CDS	390	rpsK			30S ribosomal protein S11
+NHECHLLE_01488	CDS	939	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+NHECHLLE_01489	CDS	381	rplQ		COG0203	50S ribosomal protein L17
+NHECHLLE_01490	CDS	840	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+NHECHLLE_01491	CDS	870	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+NHECHLLE_01492	CDS	798	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+NHECHLLE_01493	CDS	747	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+NHECHLLE_01494	CDS	807				hypothetical protein
+NHECHLLE_01495	CDS	369	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+NHECHLLE_01496	CDS	1173				IS256 family transposase IS256
+NHECHLLE_01497	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_01498	CDS	339				hypothetical protein
+NHECHLLE_01499	CDS	549				hypothetical protein
+NHECHLLE_01500	CDS	660				hypothetical protein
+NHECHLLE_01501	CDS	909				IS982 family transposase ISEfm1
+NHECHLLE_01502	CDS	2670				hypothetical protein
+NHECHLLE_01503	CDS	189	rpmB			50S ribosomal protein L28
+NHECHLLE_01504	CDS	363				putative protein
+NHECHLLE_01505	CDS	1683				putative protein
+NHECHLLE_01506	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+NHECHLLE_01507	CDS	1002	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+NHECHLLE_01508	CDS	243	acpP		COG0236	Acyl carrier protein
+NHECHLLE_01509	CDS	1188				IS110 family transposase ISBth13
+NHECHLLE_01510	CDS	1005	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+NHECHLLE_01511	CDS	945	oppF_1		COG4608	Oligopeptide transport ATP-binding protein OppF
+NHECHLLE_01512	CDS	963	gsiC		COG0601	Glutathione transport system permease protein GsiC
+NHECHLLE_01513	CDS	915				hypothetical protein
+NHECHLLE_01514	CDS	1782				hypothetical protein
+NHECHLLE_01515	CDS	687	rnc	3.1.26.3	COG0571	Ribonuclease 3
+NHECHLLE_01516	CDS	3582	smc_2		COG1196	Chromosome partition protein Smc
+NHECHLLE_01517	CDS	810	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+NHECHLLE_01518	CDS	999	ftsY		COG0552	Signal recognition particle receptor FtsY
+NHECHLLE_01519	CDS	2268	gshAB		COG1181	Glutathione biosynthesis bifunctional protein GshAB
+NHECHLLE_01520	CDS	453	yueI		COG5506	putative protein YueI
+NHECHLLE_01521	CDS	951	yclN		COG4606	Petrobactin import system permease protein YclN
+NHECHLLE_01522	CDS	960	yclO		COG4605	Petrobactin import system permease protein YclO
+NHECHLLE_01523	CDS	756	yclP	7.2.2.-	COG4604	Petrobactin import ATP-binding protein YclP
+NHECHLLE_01524	CDS	954	yclQ		COG4607	Petrobactin-binding protein YclQ
+NHECHLLE_01525	CDS	108				hypothetical protein
+NHECHLLE_01526	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01527	CDS	189				hypothetical protein
+NHECHLLE_01528	CDS	1173				IS256 family transposase IS256
+NHECHLLE_01529	CDS	357				hypothetical protein
+NHECHLLE_01530	CDS	900				hypothetical protein
+NHECHLLE_01531	CDS	897				IS982 family transposase ISEfm1
+NHECHLLE_01532	CDS	729				hypothetical protein
+NHECHLLE_01533	CDS	1680				hypothetical protein
+NHECHLLE_01534	CDS	960			COG2826	IS30 family transposase IS6770
+NHECHLLE_01535	CDS	735	gla		COG0580	Glycerol facilitator-aquaporin gla
+NHECHLLE_01536	CDS	411	cidA			Holin-like protein CidA
+NHECHLLE_01537	CDS	702	yohK		COG1346	Inner membrane protein YohK
+NHECHLLE_01538	CDS	1584				hypothetical protein
+NHECHLLE_01539	CDS	222				hypothetical protein
+NHECHLLE_01540	CDS	762		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+NHECHLLE_01541	CDS	510	queT_2		COG4708	Queuosine precursor transporter QueT
+NHECHLLE_01542	CDS	540	bioY2		COG1268	Biotin transporter BioY2
+NHECHLLE_01543	CDS	612	rpsD		COG0522	30S ribosomal protein S4
+NHECHLLE_01544	CDS	834	nirC		COG2116	Nitrite transporter NirC
+NHECHLLE_01545	CDS	636				hypothetical protein
+NHECHLLE_01546	CDS	774				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+NHECHLLE_01547	CDS	798	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+NHECHLLE_01548	CDS	375				hypothetical protein
+NHECHLLE_01549	CDS	2646	mutS_2		COG0249	DNA mismatch repair protein MutS
+NHECHLLE_01550	CDS	2109	mutL		COG0323	DNA mismatch repair protein MutL
+NHECHLLE_01551	CDS	561	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+NHECHLLE_01552	CDS	1989				hypothetical protein
+NHECHLLE_01553	CDS	714	treR		COG2188	HTH-type transcriptional regulator TreR
+NHECHLLE_01554	CDS	447	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+NHECHLLE_01555	CDS	603	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+NHECHLLE_01556	CDS	1002	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+NHECHLLE_01557	CDS	579				hypothetical protein
+NHECHLLE_01558	CDS	483	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+NHECHLLE_01559	CDS	375				hypothetical protein
+NHECHLLE_01560	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01561	CDS	1353	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+NHECHLLE_01562	CDS	591				Potassium channel
+NHECHLLE_01563	CDS	1350	cycA		COG1113	D-serine/D-alanine/glycine transporter
+NHECHLLE_01564	CDS	741	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+NHECHLLE_01565	CDS	1593	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+NHECHLLE_01566	CDS	192				hypothetical protein
+NHECHLLE_01567	CDS	297				hypothetical protein
+NHECHLLE_01568	CDS	726	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+NHECHLLE_01569	CDS	843	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NHECHLLE_01570	CDS	522	nadR		COG1827	Transcription repressor NadR
+NHECHLLE_01571	CDS	564	def_2	3.5.1.88	COG0242	Peptide deformylase
+NHECHLLE_01572	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+NHECHLLE_01573	CDS	2127	pnp_2	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+NHECHLLE_01574	CDS	267				hypothetical protein
+NHECHLLE_01575	CDS	1992	kup			Low affinity potassium transport system protein kup
+NHECHLLE_01576	CDS	1302				hypothetical protein
+NHECHLLE_01577	CDS	1371	dinF		COG0534	DNA damage-inducible protein F
+NHECHLLE_01578	CDS	324				hypothetical protein
+NHECHLLE_01579	CDS	609	ctc		COG1825	General stress protein CTC
+NHECHLLE_01580	CDS	717	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+NHECHLLE_01581	CDS	696	yfnB_2	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+NHECHLLE_01582	CDS	630	udk	2.7.1.48	COG0572	Uridine kinase
+NHECHLLE_01583	CDS	537				hypothetical protein
+NHECHLLE_01584	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_01585	CDS	603				hypothetical protein
+NHECHLLE_01586	CDS	489				hypothetical protein
+NHECHLLE_01587	CDS	1374				hypothetical protein
+NHECHLLE_01588	CDS	468				hypothetical protein
+NHECHLLE_01589	CDS	1746	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+NHECHLLE_01590	CDS	1077	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+NHECHLLE_01591	CDS	1413	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NHECHLLE_01592	CDS	1512	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+NHECHLLE_01593	CDS	351	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+NHECHLLE_01594	CDS	1122	alr	5.1.1.1	COG0787	Alanine racemase
+NHECHLLE_01595	CDS	363	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+NHECHLLE_01596	CDS	270	rpsN2_2		COG0199	Alternate 30S ribosomal protein S14
+NHECHLLE_01597	CDS	948				Zinc-type alcohol dehydrogenase-like protein
+NHECHLLE_01598	CDS	2706				hypothetical protein
+NHECHLLE_01599	CDS	1824	kimA		COG0531	Potassium transporter KimA
+NHECHLLE_01600	CDS	264				hypothetical protein
+NHECHLLE_01601	CDS	267				hypothetical protein
+NHECHLLE_01602	CDS	489				hypothetical protein
+NHECHLLE_01603	CDS	99				hypothetical protein
+NHECHLLE_01604	CDS	672	opuCD		COG1174	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+NHECHLLE_01605	CDS	918	opuCC		COG1732	Glycine betaine/carnitine/choline-binding protein OpuCC
+NHECHLLE_01606	CDS	642	opuCB		COG1174	Carnitine transport permease protein OpuCB
+NHECHLLE_01607	CDS	1176	opuCA_2	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+NHECHLLE_01608	CDS	1032	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NHECHLLE_01609	CDS	309	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+NHECHLLE_01610	CDS	2292		7.2.2.10		Calcium-transporting ATPase 1
+NHECHLLE_01611	CDS	699				hypothetical protein
+NHECHLLE_01612	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+NHECHLLE_01613	CDS	381				hypothetical protein
+NHECHLLE_01614	CDS	1320				IS1380 family transposase IS1678
+NHECHLLE_01615	CDS	2598	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+NHECHLLE_01616	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01617	CDS	189				hypothetical protein
+NHECHLLE_01618	CDS	1461	rhaB	2.7.1.5		Rhamnulokinase
+NHECHLLE_01619	CDS	1257	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+NHECHLLE_01620	CDS	846	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+NHECHLLE_01621	CDS	312	rhaM	5.1.3.32	COG3254	L-rhamnose mutarotase
+NHECHLLE_01622	CDS	1152	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+NHECHLLE_01623	CDS	759	iclR		COG1414	Transcriptional repressor IclR
+NHECHLLE_01624	CDS	645	kdgA		COG0800	KHG/KDPG aldolase
+NHECHLLE_01625	CDS	1008	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+NHECHLLE_01626	CDS	843	kduI1	5.3.1.17	COG3717	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+NHECHLLE_01627	CDS	135				hypothetical protein
+NHECHLLE_01628	CDS	675	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+NHECHLLE_01629	CDS	1065	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+NHECHLLE_01630	CDS	1086		2.7.4.2		Phosphomevalonate kinase
+NHECHLLE_01631	CDS	978				hypothetical protein
+NHECHLLE_01632	CDS	945	galK_1	2.7.1.6		Galactokinase
+NHECHLLE_01633	CDS	654		2.7.1.113	COG1428	Deoxyguanosine kinase
+NHECHLLE_01634	CDS	906				hypothetical protein
+NHECHLLE_01635	CDS	633				hypothetical protein
+NHECHLLE_01636	CDS	525	infC			Translation initiation factor IF-3
+NHECHLLE_01637	CDS	201	rpmI		COG0291	50S ribosomal protein L35
+NHECHLLE_01638	CDS	360	rplT		COG0292	50S ribosomal protein L20
+NHECHLLE_01639	CDS	1338				hypothetical protein
+NHECHLLE_01640	CDS	2130				hypothetical protein
+NHECHLLE_01641	CDS	690				hypothetical protein
+NHECHLLE_01642	CDS	687	rspR_2		COG1802	HTH-type transcriptional repressor RspR
+NHECHLLE_01643	CDS	168				hypothetical protein
+NHECHLLE_01644	CDS	441		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+NHECHLLE_01645	CDS	846	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+NHECHLLE_01646	CDS	1419	pepV	3.4.13.-		Beta-Ala-Xaa dipeptidase
+NHECHLLE_01647	CDS	291				hypothetical protein
+NHECHLLE_01648	CDS	318		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+NHECHLLE_01649	CDS	957				hypothetical protein
+NHECHLLE_01650	CDS	354				hypothetical protein
+NHECHLLE_01651	CDS	1080	pepA	3.4.11.7	COG1363	Glutamyl aminopeptidase
+NHECHLLE_01652	CDS	321	ytpP			Thioredoxin-like protein YtpP
+NHECHLLE_01653	CDS	468				Putative universal stress protein
+NHECHLLE_01654	CDS	606				hypothetical protein
+NHECHLLE_01655	CDS	1284	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+NHECHLLE_01656	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+NHECHLLE_01657	CDS	837				IS3 family transposase IS1485
+NHECHLLE_01658	CDS	291				IS3 family transposase IS1485
+NHECHLLE_01659	CDS	1131				hypothetical protein
+NHECHLLE_01660	CDS	909				IS982 family transposase ISEfm1
+NHECHLLE_01661	CDS	855	rhaR_5			HTH-type transcriptional activator RhaR
+NHECHLLE_01662	CDS	2250	agaA_2	3.2.1.22		Alpha-galactosidase AgaA
+NHECHLLE_01663	CDS	1173				hypothetical protein
+NHECHLLE_01664	CDS	1320				IS1380 family transposase IS1678
+NHECHLLE_01665	CDS	360				IS256 family transposase ISEf1
+NHECHLLE_01666	CDS	840				IS256 family transposase ISEf1
+NHECHLLE_01667	CDS	309				hypothetical protein
+NHECHLLE_01668	CDS	300				hypothetical protein
+NHECHLLE_01669	CDS	552				hypothetical protein
+NHECHLLE_01670	CDS	1320				IS1380 family transposase IS1678
+NHECHLLE_01671	CDS	294				hypothetical protein
+NHECHLLE_01672	CDS	297				hypothetical protein
+NHECHLLE_01673	CDS	891				hypothetical protein
+NHECHLLE_01674	CDS	1050				hypothetical protein
+NHECHLLE_01675	CDS	1647				hypothetical protein
+NHECHLLE_01676	CDS	240				hypothetical protein
+NHECHLLE_01677	CDS	1374				hypothetical protein
+NHECHLLE_01678	CDS	1638				hypothetical protein
+NHECHLLE_01679	CDS	1089				hypothetical protein
+NHECHLLE_01680	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01681	CDS	258				hypothetical protein
+NHECHLLE_01682	CDS	405				hypothetical protein
+NHECHLLE_01683	CDS	2658	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+NHECHLLE_01684	CDS	477	sorB_2	2.7.1.206	COG3444	PTS system sorbose-specific EIIB component
+NHECHLLE_01685	CDS	789	agaC		COG3715	N-acetylgalactosamine permease IIC component 1
+NHECHLLE_01686	CDS	798	manZ_2		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_01687	CDS	396				hypothetical protein
+NHECHLLE_01688	CDS	1122				hypothetical protein
+NHECHLLE_01689	CDS	870	gmuE_2	2.7.1.4	COG1940	Putative fructokinase
+NHECHLLE_01690	CDS	162				hypothetical protein
+NHECHLLE_01691	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01692	CDS	513				IS630 family transposase ISBs2
+NHECHLLE_01693	CDS	1002				hypothetical protein
+NHECHLLE_01694	CDS	1242	sstT		COG3633	Serine/threonine transporter SstT
+NHECHLLE_01695	CDS	636				hypothetical protein
+NHECHLLE_01696	CDS	1635	manR_2		COG1762	Transcriptional regulator ManR
+NHECHLLE_01697	CDS	432				hypothetical protein
+NHECHLLE_01698	CDS	249				hypothetical protein
+NHECHLLE_01699	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01700	CDS	453				hypothetical protein
+NHECHLLE_01701	CDS	522	paiA	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+NHECHLLE_01702	CDS	711				hypothetical protein
+NHECHLLE_01703	CDS	369				hypothetical protein
+NHECHLLE_01704	CDS	225				hypothetical protein
+NHECHLLE_01705	CDS	1554				hypothetical protein
+NHECHLLE_01706	CDS	1314	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+NHECHLLE_01707	CDS	1638	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+NHECHLLE_01708	CDS	495				hypothetical protein
+NHECHLLE_01709	CDS	1092		1.-.-.-		putative oxidoreductase
+NHECHLLE_01710	CDS	678	hchA	3.1.2.-	COG0693	Protein/nucleic acid deglycase 1
+NHECHLLE_01711	CDS	1296	npr_1	1.11.1.1	COG0446	NADH peroxidase
+NHECHLLE_01712	CDS	1461				hypothetical protein
+NHECHLLE_01713	CDS	1497	glpK	2.7.1.30	COG0554	Glycerol kinase
+NHECHLLE_01714	CDS	1824	glpO	1.1.3.21	COG0578	Alpha-glycerophosphate oxidase
+NHECHLLE_01715	CDS	717	glpF		COG0580	Glycerol uptake facilitator protein
+NHECHLLE_01716	CDS	1929	mutS2_1	3.1.-.-		Endonuclease MutS2
+NHECHLLE_01717	CDS	555	pgsA2	2.7.8.41	COG0558	Putative cardiolipin synthase
+NHECHLLE_01718	CDS	315				hypothetical protein
+NHECHLLE_01719	CDS	261				hypothetical protein
+NHECHLLE_01720	CDS	315	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+NHECHLLE_01721	CDS	1656	cdr_1	1.8.1.14		Coenzyme A disulfide reductase
+NHECHLLE_01722	CDS	1851	helD_2	3.6.4.12	COG3973	DNA helicase IV
+NHECHLLE_01723	CDS	288				hypothetical protein
+NHECHLLE_01724	CDS	348				hypothetical protein
+NHECHLLE_01725	CDS	1305	pgaC	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+NHECHLLE_01726	CDS	858				hypothetical protein
+NHECHLLE_01727	CDS	321				hypothetical protein
+NHECHLLE_01728	CDS	396	dhaM-2	2.7.1.121	COG3412	PEP-dependent dihydroxyacetone kinase 2, phosphoryl donor subunit DhaM
+NHECHLLE_01729	CDS	1011	dhaK	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+NHECHLLE_01730	CDS	606	dhaL	2.7.1.121	COG2376	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+NHECHLLE_01731	CDS	666				hypothetical protein
+NHECHLLE_01732	CDS	660	anr			Transcriptional activator protein Anr
+NHECHLLE_01733	CDS	1611			COG3559	Multidrug efflux system permease protein
+NHECHLLE_01734	CDS	621		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+NHECHLLE_01735	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_01736	CDS	249	artM_3		COG1126	Arginine transport ATP-binding protein ArtM
+NHECHLLE_01737	CDS	600				hypothetical protein
+NHECHLLE_01738	CDS	1302				hypothetical protein
+NHECHLLE_01739	CDS	1257	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+NHECHLLE_01740	CDS	1878				hypothetical protein
+NHECHLLE_01741	CDS	1422	gadC_2		COG0531	putative glutamate/gamma-aminobutyrate antiporter
+NHECHLLE_01742	CDS	816	nhaC_1		COG1757	Na(+)/H(+) antiporter NhaC
+NHECHLLE_01743	CDS	516	nhaC_2		COG1757	Na(+)/H(+) antiporter NhaC
+NHECHLLE_01744	CDS	1020	ccpA_1		COG1609	Catabolite control protein A
+NHECHLLE_01745	CDS	1008	mro_1	5.1.3.3	COG2017	Aldose 1-epimerase
+NHECHLLE_01746	CDS	666	pgmB	5.4.2.6	COG0637	Beta-phosphoglucomutase
+NHECHLLE_01747	CDS	2295	malP	2.4.1.8		Maltose phosphorylase
+NHECHLLE_01748	CDS	2166	ptsG_3	2.7.1.199	COG1263	PTS system glucose-specific EIICBA component
+NHECHLLE_01749	CDS	834	mapP	3.1.3.90		Maltose 6'-phosphate phosphatase
+NHECHLLE_01750	CDS	1662				hypothetical protein
+NHECHLLE_01751	CDS	1320				IS1380 family transposase IS1678
+NHECHLLE_01752	CDS	969				hypothetical protein
+NHECHLLE_01753	CDS	444	yiaC	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YiaC
+NHECHLLE_01754	CDS	531	padC	4.1.1.102	COG3479	Phenolic acid decarboxylase PadC
+NHECHLLE_01755	CDS	552				hypothetical protein
+NHECHLLE_01756	CDS	474				hypothetical protein
+NHECHLLE_01757	CDS	1473	emrB			Multidrug export protein EmrB
+NHECHLLE_01758	CDS	666				hypothetical protein
+NHECHLLE_01759	CDS	285				hypothetical protein
+NHECHLLE_01760	CDS	420				hypothetical protein
+NHECHLLE_01761	CDS	585	vdcB	2.5.1.129		putative UbiX-like flavin prenyltransferase
+NHECHLLE_01762	CDS	1476	lpdC	4.1.1.59	COG0043	Gallate decarboxylase
+NHECHLLE_01763	CDS	312				hypothetical protein
+NHECHLLE_01764	CDS	2337	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NHECHLLE_01765	CDS	669	hssR			Heme response regulator HssR
+NHECHLLE_01766	CDS	1044	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+NHECHLLE_01767	CDS	882	gltC_2			HTH-type transcriptional regulator GltC
+NHECHLLE_01768	CDS	729	ydfK		COG1811	putative membrane protein YdfK
+NHECHLLE_01769	CDS	318				hypothetical protein
+NHECHLLE_01770	CDS	609				hypothetical protein
+NHECHLLE_01771	CDS	831				hypothetical protein
+NHECHLLE_01772	CDS	489				hypothetical protein
+NHECHLLE_01773	CDS	873				hypothetical protein
+NHECHLLE_01774	CDS	363				hypothetical protein
+NHECHLLE_01775	CDS	753	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+NHECHLLE_01776	CDS	1803	bceB_1		COG0577	Bacitracin export permease protein BceB
+NHECHLLE_01777	CDS	1041	mro_2	5.1.3.3	COG2017	Aldose 1-epimerase
+NHECHLLE_01778	CDS	2145				hypothetical protein
+NHECHLLE_01779	CDS	1374	bglF_1		COG1263	PTS system beta-glucoside-specific EIIBCA component
+NHECHLLE_01780	CDS	396	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+NHECHLLE_01781	CDS	918	rbsK	2.7.1.15		Ribokinase
+NHECHLLE_01782	CDS	1014	degA_2		COG1609	HTH-type transcriptional regulator DegA
+NHECHLLE_01783	CDS	600	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+NHECHLLE_01784	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+NHECHLLE_01785	CDS	2712				hypothetical protein
+NHECHLLE_01786	CDS	1629	treA	3.2.1.93	COG0366	Trehalose-6-phosphate hydrolase
+NHECHLLE_01787	CDS	1182				hypothetical protein
+NHECHLLE_01788	CDS	1530				hypothetical protein
+NHECHLLE_01789	CDS	729	agrA		COG3279	Accessory gene regulator protein A
+NHECHLLE_01790	CDS	1281				hypothetical protein
+NHECHLLE_01791	CDS	111				hypothetical protein
+NHECHLLE_01792	CDS	603	agrB	3.4.-.-	COG4512	Accessory gene regulator protein B
+NHECHLLE_01793	CDS	207				hypothetical protein
+NHECHLLE_01794	CDS	708		2.7.1.113	COG1428	Deoxyguanosine kinase
+NHECHLLE_01795	CDS	684				hypothetical protein
+NHECHLLE_01796	CDS	2187	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+NHECHLLE_01797	CDS	411	spxA_4		COG1393	Regulatory protein Spx
+NHECHLLE_01798	CDS	357	spxA_5		COG1393	Regulatory protein Spx
+NHECHLLE_01799	CDS	471	bsaA			Glutathione peroxidase BsaA
+NHECHLLE_01800	CDS	459	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+NHECHLLE_01801	CDS	1146	metB	2.5.1.48	COG0626	Cystathionine gamma-synthase
+NHECHLLE_01802	CDS	918	cysM	2.5.1.47	COG0031	Cysteine synthase
+NHECHLLE_01803	CDS	564	efp			Elongation factor P
+NHECHLLE_01804	CDS	1260	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+NHECHLLE_01805	CDS	801	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+NHECHLLE_01806	CDS	882	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+NHECHLLE_01807	CDS	717	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+NHECHLLE_01808	CDS	696	dapH_2	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NHECHLLE_01809	CDS	1002	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+NHECHLLE_01810	CDS	1362	yclM	2.7.2.4	COG0527	Aspartokinase 3
+NHECHLLE_01811	CDS	1152	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+NHECHLLE_01812	CDS	1170	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+NHECHLLE_01813	CDS	1380	npr_2	1.11.1.1	COG0446	NADH peroxidase
+NHECHLLE_01814	CDS	153				hypothetical protein
+NHECHLLE_01815	CDS	702				IS3 family transposase ISEfa10
+NHECHLLE_01816	CDS	669				hypothetical protein
+NHECHLLE_01817	CDS	321				hypothetical protein
+NHECHLLE_01818	CDS	1383	umuC_1		COG0389	Protein UmuC
+NHECHLLE_01819	CDS	1188	galK_2	2.7.1.6	COG0153	Galactokinase
+NHECHLLE_01820	CDS	1032	galM	5.1.3.3	COG2017	Aldose 1-epimerase
+NHECHLLE_01821	CDS	1467	lacS		COG2190	Lactose permease
+NHECHLLE_01822	CDS	906	rhaS_2			HTH-type transcriptional activator RhaS
+NHECHLLE_01823	CDS	678	kefG	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefG
+NHECHLLE_01824	CDS	171				hypothetical protein
+NHECHLLE_01825	CDS	897				hypothetical protein
+NHECHLLE_01826	CDS	1371	yifK		COG1113	putative transport protein YifK
+NHECHLLE_01827	CDS	747	scaC_2	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+NHECHLLE_01828	CDS	840	mntB_2			Manganese transport system membrane protein MntB
+NHECHLLE_01829	CDS	951	ssaB_2		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+NHECHLLE_01830	CDS	753				hypothetical protein
+NHECHLLE_01831	CDS	1152	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+NHECHLLE_01832	CDS	609				hypothetical protein
+NHECHLLE_01833	CDS	1638	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+NHECHLLE_01834	CDS	1113	thiO	1.4.3.19	COG0665	Glycine oxidase
+NHECHLLE_01835	CDS	1374	ribZ_2			Riboflavin transporter RibZ
+NHECHLLE_01836	CDS	618				hypothetical protein
+NHECHLLE_01837	CDS	456	argR_2			Arginine repressor
+NHECHLLE_01838	CDS	1503	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NHECHLLE_01839	CDS	207				hypothetical protein
+NHECHLLE_01840	CDS	402	ohrB_1		COG1764	Organic hydroperoxide resistance protein OhrB
+NHECHLLE_01841	CDS	1332	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+NHECHLLE_01842	CDS	627				hypothetical protein
+NHECHLLE_01843	CDS	582	acuR			Transcriptional regulator AcuR
+NHECHLLE_01844	CDS	348				hypothetical protein
+NHECHLLE_01845	CDS	216				hypothetical protein
+NHECHLLE_01846	CDS	339				hypothetical protein
+NHECHLLE_01847	CDS	231				hypothetical protein
+NHECHLLE_01848	CDS	342	mazF	3.1.27.-	COG2337	Endoribonuclease toxin MazF
+NHECHLLE_01849	CDS	186				hypothetical protein
+NHECHLLE_01850	CDS	195				hypothetical protein
+NHECHLLE_01851	CDS	831	ydbD	1.11.1.6	COG3546	putative manganese catalase
+NHECHLLE_01852	CDS	1335	araN_1		COG1653	putative arabinose-binding protein
+NHECHLLE_01853	CDS	912	lacF_4			Lactose transport system permease protein LacF
+NHECHLLE_01854	CDS	855	araQ_4		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_01855	CDS	618				hypothetical protein
+NHECHLLE_01856	CDS	519				hypothetical protein
+NHECHLLE_01857	CDS	459				hypothetical protein
+NHECHLLE_01858	CDS	4038				hypothetical protein
+NHECHLLE_01859	CDS	1314				hypothetical protein
+NHECHLLE_01860	CDS	1698				hypothetical protein
+NHECHLLE_01861	CDS	894				hypothetical protein
+NHECHLLE_01862	CDS	675	graR		COG0745	Response regulator protein GraR
+NHECHLLE_01863	CDS	1026	graS	2.7.13.3	COG0642	Sensor histidine kinase GraS
+NHECHLLE_01864	CDS	867	glcU_2		COG4975	putative glucose uptake protein GlcU
+NHECHLLE_01865	CDS	1377	yhdG		COG0531	putative amino acid permease YhdG
+NHECHLLE_01866	CDS	1197				TelA-like protein
+NHECHLLE_01867	CDS	663				hypothetical protein
+NHECHLLE_01868	CDS	564	act	3.-.-.-		Methanol dehydrogenase activator
+NHECHLLE_01869	CDS	285				hypothetical protein
+NHECHLLE_01870	CDS	693	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NHECHLLE_01871	CDS	546				hypothetical protein
+NHECHLLE_01872	CDS	3279				hypothetical protein
+NHECHLLE_01873	CDS	1908	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+NHECHLLE_01874	CDS	876				hypothetical protein
+NHECHLLE_01875	CDS	975	prs2	2.7.6.1		Putative ribose-phosphate pyrophosphokinase 2
+NHECHLLE_01876	CDS	1137	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+NHECHLLE_01877	CDS	345				hypothetical protein
+NHECHLLE_01878	CDS	1287				hypothetical protein
+NHECHLLE_01879	CDS	600				hypothetical protein
+NHECHLLE_01880	CDS	1122	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+NHECHLLE_01881	CDS	1422	arcD1_1		COG0531	Arginine/ornithine antiporter ArcD1
+NHECHLLE_01882	CDS	1119	vioD	4.2.1.145		Capreomycidine synthase
+NHECHLLE_01883	CDS	1293	sbnD_2			Staphyloferrin B transporter
+NHECHLLE_01884	CDS	561				hypothetical protein
+NHECHLLE_01885	CDS	378				hypothetical protein
+NHECHLLE_01886	CDS	1971	topB_2	5.6.2.1	COG0550	DNA topoisomerase 3
+NHECHLLE_01887	CDS	948	yfdH	2.4.1.-	COG0463	Prophage bactoprenol glucosyl transferase 
+NHECHLLE_01888	CDS	465	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+NHECHLLE_01889	CDS	1044				hypothetical protein
+NHECHLLE_01890	CDS	966				hypothetical protein
+NHECHLLE_01891	CDS	846	cysL		COG0583	HTH-type transcriptional regulator CysL
+NHECHLLE_01892	CDS	1188	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+NHECHLLE_01893	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+NHECHLLE_01894	CDS	339	gcvH		COG0509	Glycine cleavage system H protein
+NHECHLLE_01895	CDS	1044	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+NHECHLLE_01896	CDS	687	metP_1		COG2011	Methionine import system permease protein MetP
+NHECHLLE_01897	CDS	849	metQ_1		COG1464	Methionine-binding lipoprotein MetQ
+NHECHLLE_01898	CDS	774				putative ABC transporter ATP-binding protein
+NHECHLLE_01899	CDS	1287				hypothetical protein
+NHECHLLE_01900	CDS	1236	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+NHECHLLE_01901	CDS	471	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+NHECHLLE_01902	CDS	1392				hypothetical protein
+NHECHLLE_01903	CDS	1143	xerC_7			Tyrosine recombinase XerC
+NHECHLLE_01904	CDS	735				hypothetical protein
+NHECHLLE_01905	CDS	276				hypothetical protein
+NHECHLLE_01906	CDS	1998				hypothetical protein
+NHECHLLE_01907	CDS	336				hypothetical protein
+NHECHLLE_01908	CDS	216				hypothetical protein
+NHECHLLE_01909	CDS	366				hypothetical protein
+NHECHLLE_01910	CDS	327				hypothetical protein
+NHECHLLE_01911	CDS	726				hypothetical protein
+NHECHLLE_01912	CDS	1593				hypothetical protein
+NHECHLLE_01913	CDS	1245				hypothetical protein
+NHECHLLE_01914	CDS	3150				hypothetical protein
+NHECHLLE_01915	CDS	1446				IS1182 family transposase ISEfa7
+NHECHLLE_01916	CDS	666				hypothetical protein
+NHECHLLE_01917	CDS	2037				hypothetical protein
+NHECHLLE_01918	CDS	639	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NHECHLLE_01919	CDS	429				hypothetical protein
+NHECHLLE_01920	CDS	912	prsA_3	5.2.1.8		Foldase protein PrsA
+NHECHLLE_01921	CDS	438				hypothetical protein
+NHECHLLE_01922	CDS	885		2.7.1.-	COG1597	Putative lipid kinase
+NHECHLLE_01923	CDS	3168				hypothetical protein
+NHECHLLE_01924	CDS	546				hypothetical protein
+NHECHLLE_01925	CDS	456				hypothetical protein
+NHECHLLE_01926	CDS	759				hypothetical protein
+NHECHLLE_01927	CDS	741				hypothetical protein
+NHECHLLE_01928	CDS	1254				hypothetical protein
+NHECHLLE_01929	CDS	228				hypothetical protein
+NHECHLLE_01930	CDS	327				hypothetical protein
+NHECHLLE_01931	CDS	714	strA	3.4.22.-	COG3764	Sortase A
+NHECHLLE_01932	CDS	852	licT_2		COG3711	Transcription antiterminator LicT
+NHECHLLE_01933	CDS	150				hypothetical protein
+NHECHLLE_01934	CDS	1866	bglF_2		COG1263	PTS system beta-glucoside-specific EIIBCA component
+NHECHLLE_01935	CDS	1371	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+NHECHLLE_01936	CDS	702				hypothetical protein
+NHECHLLE_01937	CDS	489	fruA_2		COG1299	PTS system fructose-specific EIIB'BC component
+NHECHLLE_01938	CDS	111				hypothetical protein
+NHECHLLE_01939	CDS	576	yvdD		COG1611	LOG family protein YvdD
+NHECHLLE_01940	CDS	441				hypothetical protein
+NHECHLLE_01941	CDS	702		2.7.1.113	COG1428	Deoxyguanosine kinase
+NHECHLLE_01942	CDS	174				hypothetical protein
+NHECHLLE_01943	CDS	426				hypothetical protein
+NHECHLLE_01944	CDS	972	rbsR		COG1609	Ribose operon repressor
+NHECHLLE_01945	CDS	1398	gmuD_2	3.2.1.86	COG2723	6-phospho-beta-glucosidase GmuD
+NHECHLLE_01946	CDS	624				hypothetical protein
+NHECHLLE_01947	CDS	2094	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+NHECHLLE_01948	CDS	867				hypothetical protein
+NHECHLLE_01949	CDS	438	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+NHECHLLE_01950	CDS	2649	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+NHECHLLE_01951	CDS	672		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+NHECHLLE_01952	CDS	600				hypothetical protein
+NHECHLLE_01953	CDS	1074	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+NHECHLLE_01954	CDS	681	metP_2		COG2011	Methionine import system permease protein MetP
+NHECHLLE_01955	CDS	840	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+NHECHLLE_01956	CDS	1224	abgB	3.5.1.-	COG1473	p-aminobenzoyl-glutamate hydrolase subunit B
+NHECHLLE_01957	CDS	1419	nhaC_3		COG1757	Na(+)/H(+) antiporter NhaC
+NHECHLLE_01958	CDS	444				hypothetical protein
+NHECHLLE_01959	CDS	1341	yvbW		COG1113	putative amino acid permease YvbW
+NHECHLLE_01960	CDS	897				hypothetical protein
+NHECHLLE_01961	CDS	942	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+NHECHLLE_01962	CDS	1122	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+NHECHLLE_01963	CDS	1503	eat(A)			ABC-F type ribosomal protection protein Eat(A)
+NHECHLLE_01964	CDS	528	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+NHECHLLE_01965	CDS	1062				hypothetical protein
+NHECHLLE_01966	CDS	897	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+NHECHLLE_01967	CDS	1983				hypothetical protein
+NHECHLLE_01968	CDS	447			COG1780	Putative NrdI-like protein
+NHECHLLE_01969	CDS	1425	arcD1_2		COG0531	Arginine/ornithine antiporter ArcD1
+NHECHLLE_01970	CDS	774				hypothetical protein
+NHECHLLE_01971	CDS	906	bcrA_2			Bacitracin transport ATP-binding protein BcrA
+NHECHLLE_01972	CDS	321	gdx		COG2076	Guanidinium exporter
+NHECHLLE_01973	CDS	687				hypothetical protein
+NHECHLLE_01974	CDS	945				hypothetical protein
+NHECHLLE_01975	CDS	645	pcp	3.4.19.3		Pyrrolidone-carboxylate peptidase
+NHECHLLE_01976	CDS	1278				hypothetical protein
+NHECHLLE_01977	CDS	750	pnuC		COG3201	Nicotinamide riboside transporter PnuC
+NHECHLLE_01978	CDS	381				hypothetical protein
+NHECHLLE_01979	CDS	510				hypothetical protein
+NHECHLLE_01980	CDS	180				hypothetical protein
+NHECHLLE_01981	CDS	564				hypothetical protein
+NHECHLLE_01982	CDS	516				hypothetical protein
+NHECHLLE_01983	CDS	870	ywpJ_2	3.1.3.-	COG0561	Phosphatase YwpJ
+NHECHLLE_01984	CDS	681	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+NHECHLLE_01985	CDS	981	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+NHECHLLE_01986	CDS	474	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NHECHLLE_01987	CDS	525				hypothetical protein
+NHECHLLE_01988	CDS	534	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+NHECHLLE_01989	CDS	753	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+NHECHLLE_01990	CDS	921	yceM	1.-.-.-	COG0673	Putative oxidoreductase YceM
+NHECHLLE_01991	CDS	936	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+NHECHLLE_01992	CDS	1479				hypothetical protein
+NHECHLLE_01993	CDS	2061				hypothetical protein
+NHECHLLE_01994	CDS	570				hypothetical protein
+NHECHLLE_01995	CDS	807				hypothetical protein
+NHECHLLE_01996	CDS	1515		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+NHECHLLE_01997	CDS	984		1.3.1.103		2-haloacrylate reductase
+NHECHLLE_01998	CDS	648	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+NHECHLLE_01999	CDS	633	panT_2		COG4684	Pantothenic acid transporter PanT
+NHECHLLE_02000	CDS	552	coaBC_1		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+NHECHLLE_02001	CDS	738	coaBC_2	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+NHECHLLE_02002	CDS	990	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI
+NHECHLLE_02003	CDS	543				hypothetical protein
+NHECHLLE_02004	CDS	1086	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+NHECHLLE_02005	CDS	807	potB		COG1176	Spermidine/putrescine transport system permease protein PotB
+NHECHLLE_02006	CDS	828	ydcV			Inner membrane ABC transporter permease protein YdcV
+NHECHLLE_02007	CDS	1074	potD		COG0687	Spermidine/putrescine-binding periplasmic protein
+NHECHLLE_02008	CDS	2619	dgaR_1			Transcriptional regulatory protein DagR
+NHECHLLE_02009	CDS	423				hypothetical protein
+NHECHLLE_02010	CDS	495		2.7.1.-		putative phosphotransferase enzyme IIB component
+NHECHLLE_02011	CDS	810				hypothetical protein
+NHECHLLE_02012	CDS	822	manZ_3		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_02013	CDS	2100				hypothetical protein
+NHECHLLE_02014	CDS	1119				hypothetical protein
+NHECHLLE_02015	CDS	879	gmuE_3	2.7.1.4	COG1940	Putative fructokinase
+NHECHLLE_02016	CDS	813				hypothetical protein
+NHECHLLE_02017	CDS	108				hypothetical protein
+NHECHLLE_02018	CDS	1068				hypothetical protein
+NHECHLLE_02019	CDS	204				hypothetical protein
+NHECHLLE_02020	CDS	1203	xerC_8			Tyrosine recombinase XerC
+NHECHLLE_02021	CDS	1131	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NHECHLLE_02022	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02023	CDS	393	glnR		COG0789	HTH-type transcriptional regulator GlnR
+NHECHLLE_02024	CDS	1341	glnA	6.3.1.2		Glutamine synthetase
+NHECHLLE_02025	CDS	246				hypothetical protein
+NHECHLLE_02026	CDS	1611	pyrG	6.3.4.2	COG0504	CTP synthase
+NHECHLLE_02027	CDS	870	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+NHECHLLE_02028	CDS	1272	murA1_1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NHECHLLE_02029	CDS	1296	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+NHECHLLE_02030	CDS	264	rpmE2		COG0254	50S ribosomal protein L31 type B
+NHECHLLE_02031	CDS	450	fruA_3		COG1299	PTS system fructose-specific EIIABC component
+NHECHLLE_02032	CDS	1419	fruA_4		COG1299	PTS system fructose-specific EIIABC component
+NHECHLLE_02033	CDS	861	kbaY	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+NHECHLLE_02034	CDS	738	ydjF		COG1349	putative HTH-type transcriptional regulator YdjF
+NHECHLLE_02035	CDS	366				hypothetical protein
+NHECHLLE_02036	CDS	1209	yfcJ			putative MFS-type transporter YfcJ
+NHECHLLE_02037	CDS	279				hypothetical protein
+NHECHLLE_02038	CDS	696	larR		COG0664	Lactate racemization regulatory protein
+NHECHLLE_02039	CDS	798				hypothetical protein
+NHECHLLE_02040	CDS	1185				hypothetical protein
+NHECHLLE_02041	CDS	1248				hypothetical protein
+NHECHLLE_02042	CDS	1746				hypothetical protein
+NHECHLLE_02043	CDS	315			COG0718	Nucleoid-associated protein
+NHECHLLE_02044	CDS	597	recR		COG0353	Recombination protein RecR
+NHECHLLE_02045	CDS	645	tmk	2.7.4.9	COG0125	Thymidylate kinase
+NHECHLLE_02046	CDS	330	darA		COG3870	Cyclic di-AMP receptor A
+NHECHLLE_02047	CDS	939				hypothetical protein
+NHECHLLE_02048	CDS	825				hypothetical protein
+NHECHLLE_02049	CDS	348	yabA		COG4467	Initiation-control protein YabA
+NHECHLLE_02050	CDS	873	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+NHECHLLE_02051	CDS	1122	dinB	2.7.7.7	COG0389	DNA polymerase IV
+NHECHLLE_02052	CDS	603				hypothetical protein
+NHECHLLE_02053	CDS	2190	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+NHECHLLE_02054	CDS	768	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+NHECHLLE_02055	CDS	2043	bceB_2		COG0577	Bacitracin export permease protein BceB
+NHECHLLE_02056	CDS	150				hypothetical protein
+NHECHLLE_02057	CDS	1515	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+NHECHLLE_02058	CDS	1206				hypothetical protein
+NHECHLLE_02059	CDS	234	dltC		COG0236	D-alanyl carrier protein
+NHECHLLE_02060	CDS	1269	dltD		COG3966	Protein DltD
+NHECHLLE_02061	CDS	1083	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+NHECHLLE_02062	CDS	804				hypothetical protein
+NHECHLLE_02063	CDS	741			COG1234	putative protein
+NHECHLLE_02064	CDS	1005	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+NHECHLLE_02065	CDS	1845				hypothetical protein
+NHECHLLE_02066	CDS	390				hypothetical protein
+NHECHLLE_02067	CDS	684	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+NHECHLLE_02068	tRNA	75				tRNA-Arg(tct)
+NHECHLLE_02069	CDS	360				hypothetical protein
+NHECHLLE_02070	CDS	1632	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+NHECHLLE_02071	CDS	642	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+NHECHLLE_02072	CDS	309	rplU		COG0261	50S ribosomal protein L21
+NHECHLLE_02073	CDS	345				hypothetical protein
+NHECHLLE_02074	CDS	294	rpmA			50S ribosomal protein L27
+NHECHLLE_02075	CDS	2835	dgaR_2			Transcriptional regulatory protein DagR
+NHECHLLE_02076	CDS	492	manX_2	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+NHECHLLE_02077	CDS	990	manX_3	2.7.1.191		PTS system mannose-specific EIIAB component
+NHECHLLE_02078	CDS	804	sorA_1		COG3715	PTS system sorbose-specific EIIC component
+NHECHLLE_02079	CDS	915	manZ_4		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_02080	CDS	375				hypothetical protein
+NHECHLLE_02081	CDS	246				hypothetical protein
+NHECHLLE_02082	CDS	1065	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+NHECHLLE_02083	CDS	426				putative protein
+NHECHLLE_02084	CDS	450	nusB		COG0781	Transcription antitermination protein NusB
+NHECHLLE_02085	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+NHECHLLE_02086	CDS	1338	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+NHECHLLE_02087	CDS	225	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+NHECHLLE_02088	CDS	891		2.5.1.10		Farnesyl diphosphate synthase
+NHECHLLE_02089	CDS	819	tlyA		COG1189	Hemolysin A
+NHECHLLE_02090	CDS	450	argR_3		COG1438	Arginine repressor
+NHECHLLE_02091	CDS	1683	recN		COG0497	DNA repair protein RecN
+NHECHLLE_02092	CDS	117				hypothetical protein
+NHECHLLE_02093	CDS	957				hypothetical protein
+NHECHLLE_02094	CDS	369				hypothetical protein
+NHECHLLE_02095	CDS	432	mraZ			Transcriptional regulator MraZ
+NHECHLLE_02096	CDS	960	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+NHECHLLE_02097	CDS	402	ftsL			Cell division protein FtsL
+NHECHLLE_02098	CDS	2193	pbpX_2		COG0768	Penicillin-binding protein 2X
+NHECHLLE_02099	CDS	963	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NHECHLLE_02100	CDS	1362	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NHECHLLE_02101	CDS	1089	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NHECHLLE_02102	CDS	1221	divIB			Cell division protein DivIB
+NHECHLLE_02103	CDS	1326	ftsA		COG0849	Cell division protein FtsA
+NHECHLLE_02104	CDS	1242	ftsZ		COG0206	Cell division protein FtsZ
+NHECHLLE_02105	CDS	678	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+NHECHLLE_02106	CDS	600	sepF			Cell division protein SepF
+NHECHLLE_02107	CDS	783				hypothetical protein
+NHECHLLE_02108	CDS	708	divIVA		COG3599	Cell division protein DivIVA
+NHECHLLE_02109	CDS	2799	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+NHECHLLE_02110	CDS	1527	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+NHECHLLE_02111	CDS	648	dtxR			Diphtheria toxin repressor
+NHECHLLE_02112	CDS	342				hypothetical protein
+NHECHLLE_02113	CDS	729	sfsA		COG1489	Sugar fermentation stimulation protein A
+NHECHLLE_02114	CDS	1014	iolU_2	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+NHECHLLE_02115	CDS	1278	yfmL	3.6.4.13	COG0513	putative ATP-dependent RNA helicase YfmL
+NHECHLLE_02116	CDS	2703	dgaR_3			Transcriptional regulatory protein DagR
+NHECHLLE_02117	CDS	318	ptcB_1	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+NHECHLLE_02118	CDS	321	licA_2		COG1447	Lichenan-specific phosphotransferase enzyme IIA component
+NHECHLLE_02119	CDS	1461	celB		COG1455	PTS system cellobiose-specific EIIC component
+NHECHLLE_02120	CDS	222				hypothetical protein
+NHECHLLE_02121	CDS	183				hypothetical protein
+NHECHLLE_02122	CDS	414				hypothetical protein
+NHECHLLE_02123	CDS	1182	eis_2	2.3.1.-		N-acetyltransferase Eis
+NHECHLLE_02124	CDS	165				hypothetical protein
+NHECHLLE_02125	tRNA	76				tRNA-Arg(cct)
+NHECHLLE_02126	CDS	1140	xerC_9			Tyrosine recombinase XerC
+NHECHLLE_02127	CDS	135				hypothetical protein
+NHECHLLE_02128	CDS	636				hypothetical protein
+NHECHLLE_02129	CDS	636				hypothetical protein
+NHECHLLE_02130	CDS	462				hypothetical protein
+NHECHLLE_02131	CDS	432				hypothetical protein
+NHECHLLE_02132	CDS	321				hypothetical protein
+NHECHLLE_02133	CDS	777				hypothetical protein
+NHECHLLE_02134	CDS	204				hypothetical protein
+NHECHLLE_02135	CDS	339				hypothetical protein
+NHECHLLE_02136	CDS	180				hypothetical protein
+NHECHLLE_02137	CDS	504				hypothetical protein
+NHECHLLE_02138	CDS	699				hypothetical protein
+NHECHLLE_02139	CDS	342				hypothetical protein
+NHECHLLE_02140	CDS	672				hypothetical protein
+NHECHLLE_02141	CDS	687				hypothetical protein
+NHECHLLE_02142	CDS	750				hypothetical protein
+NHECHLLE_02143	CDS	270				hypothetical protein
+NHECHLLE_02144	CDS	165				hypothetical protein
+NHECHLLE_02145	CDS	303				hypothetical protein
+NHECHLLE_02146	CDS	162				hypothetical protein
+NHECHLLE_02147	CDS	300				hypothetical protein
+NHECHLLE_02148	CDS	357				hypothetical protein
+NHECHLLE_02149	CDS	246				hypothetical protein
+NHECHLLE_02150	CDS	420				hypothetical protein
+NHECHLLE_02151	CDS	558				hypothetical protein
+NHECHLLE_02152	CDS	297				hypothetical protein
+NHECHLLE_02153	CDS	414				hypothetical protein
+NHECHLLE_02154	CDS	153				hypothetical protein
+NHECHLLE_02155	CDS	276				hypothetical protein
+NHECHLLE_02156	CDS	168				hypothetical protein
+NHECHLLE_02157	CDS	345				hypothetical protein
+NHECHLLE_02158	CDS	282				hypothetical protein
+NHECHLLE_02159	CDS	315				hypothetical protein
+NHECHLLE_02160	CDS	1695				hypothetical protein
+NHECHLLE_02161	CDS	1179				hypothetical protein
+NHECHLLE_02162	CDS	687	clpP_1	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+NHECHLLE_02163	CDS	1161				hypothetical protein
+NHECHLLE_02164	CDS	876				hypothetical protein
+NHECHLLE_02165	CDS	312				hypothetical protein
+NHECHLLE_02166	CDS	354				hypothetical protein
+NHECHLLE_02167	CDS	402				hypothetical protein
+NHECHLLE_02168	CDS	414				hypothetical protein
+NHECHLLE_02169	CDS	609				hypothetical protein
+NHECHLLE_02170	CDS	363				hypothetical protein
+NHECHLLE_02171	CDS	3432	smc_3			Chromosome partition protein Smc
+NHECHLLE_02172	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_02173	CDS	738				hypothetical protein
+NHECHLLE_02174	CDS	2292				hypothetical protein
+NHECHLLE_02175	CDS	2127				hypothetical protein
+NHECHLLE_02176	CDS	447				hypothetical protein
+NHECHLLE_02177	CDS	138				hypothetical protein
+NHECHLLE_02178	CDS	294				hypothetical protein
+NHECHLLE_02179	CDS	225				hypothetical protein
+NHECHLLE_02180	CDS	579				hypothetical protein
+NHECHLLE_02181	CDS	483				hypothetical protein
+NHECHLLE_02182	tRNA	74				tRNA-Met(cat)
+NHECHLLE_02183	CDS	291				IS3 family transposase ISEfa8
+NHECHLLE_02184	CDS	837				IS3 family transposase ISEfa8
+NHECHLLE_02185	CDS	495				IS3 family transposase ISEnfa3
+NHECHLLE_02186	CDS	408				hypothetical protein
+NHECHLLE_02187	CDS	402				hypothetical protein
+NHECHLLE_02188	CDS	372				hypothetical protein
+NHECHLLE_02189	CDS	300				hypothetical protein
+NHECHLLE_02190	CDS	222				hypothetical protein
+NHECHLLE_02191	CDS	1188				IS256 family transposase IS16
+NHECHLLE_02192	CDS	273				hypothetical protein
+NHECHLLE_02193	CDS	924	ccpB			Catabolite control protein B
+NHECHLLE_02194	CDS	753	mta		COG0789	HTH-type transcriptional activator mta
+NHECHLLE_02195	CDS	363				hypothetical protein
+NHECHLLE_02196	CDS	1473	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+NHECHLLE_02197	CDS	825	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+NHECHLLE_02198	CDS	891				hypothetical protein
+NHECHLLE_02199	CDS	1518	abfA_1	3.2.1.55		Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+NHECHLLE_02200	CDS	1272	ugpB		COG1653	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+NHECHLLE_02201	CDS	897	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+NHECHLLE_02202	CDS	864	araQ_5		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_02203	CDS	564				hypothetical protein
+NHECHLLE_02204	CDS	1512	abfA_2	3.2.1.55	COG3534	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1
+NHECHLLE_02205	CDS	960		3.2.1.55	COG3940	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+NHECHLLE_02206	CDS	1080	araR_2		COG1609	Arabinose metabolism transcriptional repressor
+NHECHLLE_02207	CDS	1401	xylT			D-xylose transporter
+NHECHLLE_02208	CDS	1662	xylB_3	2.7.1.17		Xylulose kinase
+NHECHLLE_02209	CDS	699	sgbE	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase SgbE
+NHECHLLE_02210	CDS	1425	araA	5.3.1.4		L-arabinose isomerase
+NHECHLLE_02211	CDS	1161	ghrB_2	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+NHECHLLE_02212	CDS	1860				hypothetical protein
+NHECHLLE_02213	CDS	435				hypothetical protein
+NHECHLLE_02214	CDS	162				hypothetical protein
+NHECHLLE_02215	CDS	1023	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+NHECHLLE_02216	CDS	354				hypothetical protein
+NHECHLLE_02217	CDS	1167				hypothetical protein
+NHECHLLE_02218	CDS	621	azoR	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase
+NHECHLLE_02219	CDS	297				hypothetical protein
+NHECHLLE_02220	CDS	651				hypothetical protein
+NHECHLLE_02221	CDS	1728			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_02222	CDS	255				hypothetical protein
+NHECHLLE_02223	CDS	1638		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+NHECHLLE_02224	CDS	870	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+NHECHLLE_02225	CDS	1026	amiE	3.5.1.28		N-acetylmuramyl-L-alanine amidase
+NHECHLLE_02226	CDS	951	gmuF	5.3.1.8	COG1482	putative mannose-6-phosphate isomerase GmuF
+NHECHLLE_02227	CDS	351	mtlA			PTS system mannitol-specific EIICB component
+NHECHLLE_02228	CDS	1320				hypothetical protein
+NHECHLLE_02229	CDS	2034	mtlR			Transcriptional regulator MtlR
+NHECHLLE_02230	CDS	441	mtlF_1		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+NHECHLLE_02231	CDS	1128				hypothetical protein
+NHECHLLE_02232	CDS	678	natA_1	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+NHECHLLE_02233	CDS	1767				hypothetical protein
+NHECHLLE_02234	CDS	438	mtlF_2		COG2213	Mannitol-specific phosphotransferase enzyme IIA component
+NHECHLLE_02235	CDS	1152	mtlD	1.1.1.17	COG0246	Mannitol-1-phosphate 5-dehydrogenase
+NHECHLLE_02236	CDS	699	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+NHECHLLE_02237	CDS	1353	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+NHECHLLE_02238	CDS	1401	ntpJ_1			Potassium/sodium uptake protein NtpJ
+NHECHLLE_02239	CDS	738	queH	1.17.99.6		Epoxyqueuosine reductase QueH
+NHECHLLE_02240	CDS	480				hypothetical protein
+NHECHLLE_02241	CDS	768				hypothetical protein
+NHECHLLE_02242	CDS	570	spsB	3.4.21.89		Signal peptidase IB
+NHECHLLE_02243	CDS	603	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NHECHLLE_02244	CDS	231				hypothetical protein
+NHECHLLE_02245	CDS	249				hypothetical protein
+NHECHLLE_02246	CDS	597	tdk	2.7.1.21		Thymidine kinase
+NHECHLLE_02247	CDS	1074	prfA		COG0216	Peptide chain release factor 1
+NHECHLLE_02248	CDS	840	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+NHECHLLE_02249	CDS	1026	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+NHECHLLE_02250	CDS	162				hypothetical protein
+NHECHLLE_02251	CDS	1245	glyA	2.1.2.1		Serine hydroxymethyltransferase
+NHECHLLE_02252	CDS	948	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+NHECHLLE_02253	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+NHECHLLE_02254	CDS	243				hypothetical protein
+NHECHLLE_02255	tRNA	73				tRNA-Thr(cgt)
+NHECHLLE_02256	CDS	639				hypothetical protein
+NHECHLLE_02257	CDS	633				hypothetical protein
+NHECHLLE_02258	CDS	300				hypothetical protein
+NHECHLLE_02259	CDS	2166	cna			Collagen adhesin
+NHECHLLE_02260	CDS	486	proX		COG3760	Prolyl-tRNA editing protein ProX
+NHECHLLE_02261	CDS	642	yecS_2		COG0765	L-cystine transport system permease protein YecS
+NHECHLLE_02262	CDS	636	glnQ_2		COG1126	Glutamine transport ATP-binding protein GlnQ
+NHECHLLE_02263	CDS	816	fliY		COG0834	L-cystine-binding protein FliY
+NHECHLLE_02264	CDS	1437	bglC	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglC
+NHECHLLE_02265	CDS	2448	spoIIIE		COG1674	DNA translocase SpoIIIE
+NHECHLLE_02266	CDS	1068	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+NHECHLLE_02267	CDS	1104				hypothetical protein
+NHECHLLE_02268	CDS	549				hypothetical protein
+NHECHLLE_02269	CDS	1662	dppE		COG4166	Dipeptide-binding protein DppE
+NHECHLLE_02270	CDS	348				hypothetical protein
+NHECHLLE_02271	CDS	942	oppB		COG0601	Oligopeptide transport system permease protein OppB
+NHECHLLE_02272	CDS	1044	dppC		COG1173	Dipeptide transport system permease protein DppC
+NHECHLLE_02273	CDS	1071	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+NHECHLLE_02274	CDS	954	oppF_2		COG4608	Oligopeptide transport ATP-binding protein OppF
+NHECHLLE_02275	CDS	1011				IS200/IS605 family transposase ISEfa4
+NHECHLLE_02276	CDS	822				hypothetical protein
+NHECHLLE_02277	CDS	279				hypothetical protein
+NHECHLLE_02278	CDS	2010	metG	6.1.1.10		Methionine--tRNA ligase
+NHECHLLE_02279	CDS	588				hypothetical protein
+NHECHLLE_02280	CDS	1323	steT_2		COG0531	Serine/threonine exchanger SteT
+NHECHLLE_02281	CDS	777	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+NHECHLLE_02282	CDS	570	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+NHECHLLE_02283	CDS	885	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+NHECHLLE_02284	CDS	630	niaX			Niacin transporter NiaX
+NHECHLLE_02285	CDS	1110	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+NHECHLLE_02286	CDS	423	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+NHECHLLE_02287	CDS	537	folT_2			Folate transporter FolT
+NHECHLLE_02288	CDS	1764			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_02289	CDS	1716			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_02290	CDS	225				hypothetical protein
+NHECHLLE_02291	CDS	2769	dgaR_4			Transcriptional regulatory protein DagR
+NHECHLLE_02292	CDS	420	manX_4	2.7.1.191		PTS system mannose-specific EIIAB component
+NHECHLLE_02293	CDS	471		2.7.1.-		putative phosphotransferase enzyme IIB component
+NHECHLLE_02294	CDS	780	sorA_2		COG3715	PTS system sorbose-specific EIIC component
+NHECHLLE_02295	CDS	822	manZ_5		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_02296	CDS	1050	nodM	2.6.1.16		Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NHECHLLE_02297	CDS	1005	frlB_1	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+NHECHLLE_02298	CDS	1020	gpsA_1	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NHECHLLE_02299	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_02300	CDS	882	gtaB_1	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+NHECHLLE_02301	CDS	378				hypothetical protein
+NHECHLLE_02302	CDS	615				hypothetical protein
+NHECHLLE_02303	CDS	1740				hypothetical protein
+NHECHLLE_02304	CDS	1185	iadA	3.4.19.-		Isoaspartyl dipeptidase
+NHECHLLE_02305	CDS	204				hypothetical protein
+NHECHLLE_02306	CDS	663	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NHECHLLE_02307	CDS	1503				hypothetical protein
+NHECHLLE_02308	CDS	1680	rnj2	3.1.-.-		Ribonuclease J 2
+NHECHLLE_02309	CDS	477	ybaK_2	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+NHECHLLE_02310	CDS	681				hypothetical protein
+NHECHLLE_02311	CDS	1332	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+NHECHLLE_02312	CDS	963	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+NHECHLLE_02313	CDS	339				hypothetical protein
+NHECHLLE_02314	CDS	708				hypothetical protein
+NHECHLLE_02315	CDS	1482				hypothetical protein
+NHECHLLE_02316	CDS	534				hypothetical protein
+NHECHLLE_02317	CDS	1371	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+NHECHLLE_02318	CDS	336				hypothetical protein
+NHECHLLE_02319	CDS	858	lrp			Leucine-rich protein
+NHECHLLE_02320	CDS	516	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+NHECHLLE_02321	CDS	255				hypothetical protein
+NHECHLLE_02322	CDS	1386				hypothetical protein
+NHECHLLE_02323	CDS	678				hypothetical protein
+NHECHLLE_02324	CDS	765	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+NHECHLLE_02325	CDS	660				hypothetical protein
+NHECHLLE_02326	CDS	510	ypjQ		COG1267	putative protein YpjQ
+NHECHLLE_02327	CDS	999	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+NHECHLLE_02328	CDS	585		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+NHECHLLE_02329	CDS	1176	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+NHECHLLE_02330	CDS	381	yugI		COG1098	General stress protein 13
+NHECHLLE_02331	CDS	363				hypothetical protein
+NHECHLLE_02332	tRNA	76				tRNA-Asn(gtt)
+NHECHLLE_02333	CDS	837				IS3 family transposase IS1485
+NHECHLLE_02334	CDS	291				IS3 family transposase IS1485
+NHECHLLE_02335	CDS	375				hypothetical protein
+NHECHLLE_02336	CDS	630	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NHECHLLE_02337	tRNA	73				tRNA-Thr(ggt)
+NHECHLLE_02338	tRNA	76				tRNA-Asn(gtt)
+NHECHLLE_02339	CDS	165				hypothetical protein
+NHECHLLE_02340	CDS	1329	pepC	3.4.22.40	COG3579	Aminopeptidase C
+NHECHLLE_02341	CDS	834		2.7.1.-		putative ketoamine kinase
+NHECHLLE_02342	CDS	738				hypothetical protein
+NHECHLLE_02343	CDS	969	ansA	3.5.1.1	COG0252	L-asparaginase
+NHECHLLE_02344	CDS	834				hypothetical protein
+NHECHLLE_02345	CDS	840	yhaX		COG0561	Stress response protein YhaX
+NHECHLLE_02346	CDS	561				hypothetical protein
+NHECHLLE_02347	CDS	1722	ezrA		COG4477	Septation ring formation regulator EzrA
+NHECHLLE_02348	CDS	1143	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+NHECHLLE_02349	CDS	1212	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+NHECHLLE_02350	CDS	648	rex_1		COG2344	Redox-sensing transcriptional repressor Rex
+NHECHLLE_02351	CDS	2646	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+NHECHLLE_02352	CDS	1314	fpgS	6.3.2.17		Folylpolyglutamate synthase
+NHECHLLE_02353	CDS	654		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+NHECHLLE_02354	CDS	693				hypothetical protein
+NHECHLLE_02355	CDS	201	cspLA_1		COG1278	Cold shock-like protein CspLA
+NHECHLLE_02356	CDS	1680	rnj1	3.1.-.-		Ribonuclease J 1
+NHECHLLE_02357	CDS	213				hypothetical protein
+NHECHLLE_02358	CDS	1731			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_02359	CDS	1761			COG1132	putative ABC transporter ATP-binding protein
+NHECHLLE_02360	CDS	198				hypothetical protein
+NHECHLLE_02361	CDS	486	yrdA		COG0663	Protein YrdA
+NHECHLLE_02362	CDS	594	clpP_2	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+NHECHLLE_02363	CDS	528				hypothetical protein
+NHECHLLE_02364	CDS	738	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+NHECHLLE_02365	CDS	918	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NHECHLLE_02366	CDS	1230	hflX		COG2262	GTPase HflX
+NHECHLLE_02367	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02368	CDS	1614	cdr_2	1.8.1.14		Coenzyme A disulfide reductase
+NHECHLLE_02369	CDS	900	rhaR_6			HTH-type transcriptional activator RhaR
+NHECHLLE_02370	CDS	1125	araN_2		COG1653	putative arabinose-binding protein
+NHECHLLE_02371	CDS	918	lacF_5			Lactose transport system permease protein LacF
+NHECHLLE_02372	CDS	834	lacG_3			Lactose transport system permease protein LacG
+NHECHLLE_02373	CDS	1119	ugl_1	3.2.1.179		Unsaturated glucuronyl hydrolase
+NHECHLLE_02374	CDS	1872				hypothetical protein
+NHECHLLE_02375	CDS	1203	ugl_2	3.2.1.180		Unsaturated chondroitin disaccharide hydrolase
+NHECHLLE_02376	CDS	1935	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+NHECHLLE_02377	CDS	657	rex_2		COG2344	Redox-sensing transcriptional repressor Rex
+NHECHLLE_02378	CDS	354				hypothetical protein
+NHECHLLE_02379	CDS	930			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+NHECHLLE_02380	CDS	837			COG3689	Putative two-component membrane permease complex subunit SMU_746c
+NHECHLLE_02381	CDS	777				hypothetical protein
+NHECHLLE_02382	CDS	744	natA_2	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+NHECHLLE_02383	CDS	1581				hypothetical protein
+NHECHLLE_02384	CDS	480				hypothetical protein
+NHECHLLE_02385	CDS	753				hypothetical protein
+NHECHLLE_02386	tRNA	71				tRNA-Gly(ccc)
+NHECHLLE_02387	CDS	726	endA	3.1.30.-		DNA-entry nuclease
+NHECHLLE_02388	CDS	267				hypothetical protein
+NHECHLLE_02389	CDS	432	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+NHECHLLE_02390	CDS	306				hypothetical protein
+NHECHLLE_02391	CDS	1146	xerC_10			Tyrosine recombinase XerC
+NHECHLLE_02392	CDS	648				hypothetical protein
+NHECHLLE_02393	CDS	294				hypothetical protein
+NHECHLLE_02394	CDS	312				hypothetical protein
+NHECHLLE_02395	CDS	240				hypothetical protein
+NHECHLLE_02396	CDS	405				hypothetical protein
+NHECHLLE_02397	CDS	159				hypothetical protein
+NHECHLLE_02398	CDS	363				hypothetical protein
+NHECHLLE_02399	CDS	849				hypothetical protein
+NHECHLLE_02400	CDS	1476				hypothetical protein
+NHECHLLE_02401	CDS	408				hypothetical protein
+NHECHLLE_02402	CDS	216				hypothetical protein
+NHECHLLE_02403	CDS	474				hypothetical protein
+NHECHLLE_02404	CDS	1695				hypothetical protein
+NHECHLLE_02405	CDS	186				hypothetical protein
+NHECHLLE_02406	CDS	1176				hypothetical protein
+NHECHLLE_02407	CDS	1524				hypothetical protein
+NHECHLLE_02408	CDS	285				hypothetical protein
+NHECHLLE_02409	CDS	336				hypothetical protein
+NHECHLLE_02410	CDS	627				hypothetical protein
+NHECHLLE_02411	CDS	837				hypothetical protein
+NHECHLLE_02412	CDS	423				hypothetical protein
+NHECHLLE_02413	CDS	1323	citS		COG3493	Citrate-sodium symporter
+NHECHLLE_02414	CDS	1641	mleS	4.1.1.101	COG0281	Malolactic enzyme
+NHECHLLE_02415	CDS	471				hypothetical protein
+NHECHLLE_02416	CDS	1104	hmo	1.1.3.46		4-hydroxymandelate oxidase
+NHECHLLE_02417	CDS	681				hypothetical protein
+NHECHLLE_02418	CDS	1035				hypothetical protein
+NHECHLLE_02419	CDS	336				hypothetical protein
+NHECHLLE_02420	CDS	2481				hypothetical protein
+NHECHLLE_02421	CDS	1509				hypothetical protein
+NHECHLLE_02422	CDS	1365	nox_2	1.6.99.3	COG0446	NADH oxidase
+NHECHLLE_02423	CDS	1071			COG0577	putative ABC transporter permease
+NHECHLLE_02424	CDS	669	hrtA_2	3.6.3.-	COG1136	Putative hemin import ATP-binding protein HrtA
+NHECHLLE_02425	CDS	579				hypothetical protein
+NHECHLLE_02426	CDS	912				hypothetical protein
+NHECHLLE_02427	CDS	918	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+NHECHLLE_02428	CDS	438	zapA			Cell division protein ZapA
+NHECHLLE_02429	CDS	549				hypothetical protein
+NHECHLLE_02430	CDS	2361	mutS2_2	3.1.-.-		Endonuclease MutS2
+NHECHLLE_02431	CDS	315	trxA		COG0526	Thioredoxin
+NHECHLLE_02432	CDS	1779	uvrC_2		COG0322	UvrABC system protein C
+NHECHLLE_02433	CDS	900	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NHECHLLE_02434	CDS	1263	yhaP		COG1668	putative protein YhaP
+NHECHLLE_02435	CDS	1899	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+NHECHLLE_02436	CDS	720	puuD	3.5.1.94	COG2071	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+NHECHLLE_02437	CDS	324				hypothetical protein
+NHECHLLE_02438	CDS	2004				hypothetical protein
+NHECHLLE_02439	CDS	471	ntpK			V-type sodium ATPase subunit K
+NHECHLLE_02440	CDS	585	atpE_1			V-type proton ATPase subunit E
+NHECHLLE_02441	CDS	987	ntpC			V-type sodium ATPase subunit C
+NHECHLLE_02442	CDS	312	ntpG			V-type sodium ATPase subunit G
+NHECHLLE_02443	CDS	1782	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+NHECHLLE_02444	CDS	1377	ntpB			V-type sodium ATPase subunit B
+NHECHLLE_02445	CDS	636	ntpD			V-type sodium ATPase subunit D
+NHECHLLE_02446	CDS	1356	ntpJ_2			Potassium/sodium uptake protein NtpJ
+NHECHLLE_02447	CDS	1395	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+NHECHLLE_02448	CDS	972	lhpI	1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+NHECHLLE_02449	CDS	783	yddE	5.1.-.-	COG0384	putative isomerase YddE
+NHECHLLE_02450	CDS	372	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+NHECHLLE_02451	CDS	444				hypothetical protein
+NHECHLLE_02452	CDS	810	yidA_3	3.1.3.23	COG0561	Sugar phosphatase YidA
+NHECHLLE_02453	CDS	1368				hypothetical protein
+NHECHLLE_02454	CDS	831	lipL	2.3.1.204	COG0095	Octanoyl-[GcvH]:protein N-octanoyltransferase
+NHECHLLE_02455	CDS	438				hypothetical protein
+NHECHLLE_02456	CDS	621	rpoE			putative DNA-directed RNA polymerase subunit delta
+NHECHLLE_02457	CDS	507	sigV		COG1595	RNA polymerase sigma factor SigV
+NHECHLLE_02458	CDS	900	rsiV			Anti-sigma-V factor RsiV
+NHECHLLE_02459	CDS	885				hypothetical protein
+NHECHLLE_02460	tRNA	74				tRNA-Arg(ccg)
+NHECHLLE_02461	CDS	1335	rpoN1		COG1508	RNA polymerase sigma-54 factor 1
+NHECHLLE_02462	CDS	1038	cggR		COG2390	Central glycolytic genes regulator
+NHECHLLE_02463	CDS	1002	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+NHECHLLE_02464	CDS	1191	pgk	2.7.2.3		Phosphoglycerate kinase
+NHECHLLE_02465	CDS	756	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+NHECHLLE_02466	CDS	1299	eno	4.2.1.11		Enolase
+NHECHLLE_02467	CDS	537				hypothetical protein
+NHECHLLE_02468	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_02469	CDS	1014				ISL3 family transposase ISEfa11
+NHECHLLE_02470	CDS	1140	dapE	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+NHECHLLE_02471	CDS	576				hypothetical protein
+NHECHLLE_02472	CDS	975	rihB	3.2.2.8	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihB
+NHECHLLE_02473	CDS	969	menH_3	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NHECHLLE_02474	CDS	279	yjdJ		COG2388	putative protein YjdJ
+NHECHLLE_02475	CDS	237	secG		COG1314	putative protein-export membrane protein SecG
+NHECHLLE_02476	CDS	756	est	3.1.1.1		Carboxylesterase
+NHECHLLE_02477	CDS	2358	rnr	3.1.13.1	COG0557	Ribonuclease R
+NHECHLLE_02478	CDS	465	smpB		COG0691	SsrA-binding protein
+NHECHLLE_02479	CDS	720	atpB			ATP synthase subunit a
+NHECHLLE_02480	CDS	216	atpE_2			ATP synthase subunit c
+NHECHLLE_02481	CDS	525	atpF		COG0711	ATP synthase subunit b
+NHECHLLE_02482	CDS	543	atpH		COG0712	ATP synthase subunit delta
+NHECHLLE_02483	CDS	1557	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+NHECHLLE_02484	CDS	903	atpG		COG0224	ATP synthase gamma chain
+NHECHLLE_02485	CDS	1407	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+NHECHLLE_02486	CDS	423	atpC		COG0355	ATP synthase epsilon chain
+NHECHLLE_02487	CDS	231				hypothetical protein
+NHECHLLE_02488	CDS	1302	murA1_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+NHECHLLE_02489	CDS	177				hypothetical protein
+NHECHLLE_02490	CDS	297			COG0759	Putative membrane protein insertion efficiency factor
+NHECHLLE_02491	CDS	468	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+NHECHLLE_02492	CDS	885	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+NHECHLLE_02493	CDS	237				hypothetical protein
+NHECHLLE_02494	tRNA	81				tRNA-Tyr(gta)
+NHECHLLE_02495	tRNA	74				tRNA-Gln(ttg)
+NHECHLLE_02496	CDS	171				hypothetical protein
+NHECHLLE_02497	CDS	708	nagR_1		COG2188	HTH-type transcriptional repressor NagR
+NHECHLLE_02498	CDS	645	yigZ		COG1739	IMPACT family member YigZ
+NHECHLLE_02499	CDS	288				hypothetical protein
+NHECHLLE_02500	CDS	321	ptcB_2	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+NHECHLLE_02501	CDS	1314	comFA	3.6.4.12	COG4098	ComF operon protein 1
+NHECHLLE_02502	CDS	720				hypothetical protein
+NHECHLLE_02503	CDS	552	hpf			Ribosome hibernation promotion factor
+NHECHLLE_02504	CDS	2535	secA		COG0653	Protein translocase subunit SecA
+NHECHLLE_02505	CDS	984	prfB			Peptide chain release factor 2
+NHECHLLE_02506	CDS	687	ftsE		COG2884	Cell division ATP-binding protein FtsE
+NHECHLLE_02507	CDS	894	ftsX		COG2177	Cell division protein FtsX
+NHECHLLE_02508	CDS	1449	clsA_2	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+NHECHLLE_02509	CDS	858	pstS1_1		COG0226	Phosphate-binding protein PstS 1
+NHECHLLE_02510	CDS	921				hypothetical protein
+NHECHLLE_02511	CDS	885				hypothetical protein
+NHECHLLE_02512	CDS	807	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+NHECHLLE_02513	CDS	759	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+NHECHLLE_02514	CDS	678	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+NHECHLLE_02515	CDS	1032				hypothetical protein
+NHECHLLE_02516	CDS	768				hypothetical protein
+NHECHLLE_02517	CDS	1569				hypothetical protein
+NHECHLLE_02518	CDS	321				hypothetical protein
+NHECHLLE_02519	CDS	351				hypothetical protein
+NHECHLLE_02520	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02521	CDS	939	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+NHECHLLE_02522	CDS	831	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+NHECHLLE_02523	CDS	1026	gpsA_2	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NHECHLLE_02524	CDS	939	gtaB_2	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+NHECHLLE_02525	CDS	441				hypothetical protein
+NHECHLLE_02526	CDS	603				hypothetical protein
+NHECHLLE_02527	CDS	1107	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+NHECHLLE_02528	CDS	1002	ccpA_2		COG1609	Catabolite control protein A
+NHECHLLE_02529	CDS	2346	ponA_2		COG0744	Penicillin-binding protein 1A/1B
+NHECHLLE_02530	CDS	903	nfo	3.1.21.2	COG0648	putative endonuclease 4
+NHECHLLE_02531	CDS	1188				IS110 family transposase ISBth13
+NHECHLLE_02532	CDS	1776				hypothetical protein
+NHECHLLE_02533	CDS	1587	mntH			Divalent metal cation transporter MntH
+NHECHLLE_02534	CDS	225				hypothetical protein
+NHECHLLE_02535	CDS	1752	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+NHECHLLE_02536	CDS	1785	yheH	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+NHECHLLE_02537	CDS	852	licT_3		COG3711	Transcription antiterminator LicT
+NHECHLLE_02538	CDS	1887	bglF_3		COG1263	PTS system beta-glucoside-specific EIIBCA component
+NHECHLLE_02539	CDS	903	murR_2			HTH-type transcriptional regulator MurR
+NHECHLLE_02540	CDS	1404	licH	3.2.1.86	COG1486	putative 6-phospho-beta-glucosidase
+NHECHLLE_02541	CDS	1434	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+NHECHLLE_02542	CDS	927	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NHECHLLE_02543	CDS	1728	pgcA	5.4.2.2		Phosphoglucomutase
+NHECHLLE_02544	CDS	294	czrA		COG0640	HTH-type transcriptional repressor CzrA
+NHECHLLE_02545	CDS	861	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+NHECHLLE_02546	CDS	429	zur		COG0735	Zinc-specific metallo-regulatory protein
+NHECHLLE_02547	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+NHECHLLE_02548	CDS	447	yqeY		COG1610	putative protein YqeY
+NHECHLLE_02549	CDS	1380	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+NHECHLLE_02550	CDS	972			COG1702	PhoH-like protein
+NHECHLLE_02551	CDS	2193	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+NHECHLLE_02552	CDS	462	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+NHECHLLE_02553	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+NHECHLLE_02554	CDS	900	era		COG1159	GTPase Era
+NHECHLLE_02555	CDS	813	recO		COG1381	DNA repair protein RecO
+NHECHLLE_02556	CDS	918	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+NHECHLLE_02557	CDS	2076	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+NHECHLLE_02558	CDS	780				hypothetical protein
+NHECHLLE_02559	CDS	945	tagU_3	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+NHECHLLE_02560	CDS	780	ywqC		COG3944	putative capsular polysaccharide biosynthesis protein YwqC
+NHECHLLE_02561	CDS	699	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+NHECHLLE_02562	CDS	765	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+NHECHLLE_02563	CDS	1818	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+NHECHLLE_02564	CDS	966				hypothetical protein
+NHECHLLE_02565	CDS	696	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+NHECHLLE_02566	CDS	1119	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+NHECHLLE_02567	CDS	621	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+NHECHLLE_02568	CDS	1101	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+NHECHLLE_02569	CDS	273	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NHECHLLE_02570	CDS	1002				hypothetical protein
+NHECHLLE_02571	CDS	1047				hypothetical protein
+NHECHLLE_02572	CDS	1080	pglH_2	2.4.1.292	COG0438	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+NHECHLLE_02573	CDS	1425				hypothetical protein
+NHECHLLE_02574	CDS	1506				hypothetical protein
+NHECHLLE_02575	CDS	1173				IS256 family transposase IS256
+NHECHLLE_02576	CDS	1092	wbgU_2	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+NHECHLLE_02577	CDS	1479	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+NHECHLLE_02578	CDS	750	glvR		COG1737	HTH-type transcriptional regulator GlvR
+NHECHLLE_02579	CDS	951	pfkB	2.7.1.11	COG1105	ATP-dependent 6-phosphofructokinase isozyme 2
+NHECHLLE_02580	CDS	1464	fruA_5		COG1299	PTS system fructose-specific EIIABC component
+NHECHLLE_02581	CDS	459	mngA		COG1299	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+NHECHLLE_02582	CDS	975	lacD2	4.1.2.40	COG3684	Tagatose 1,6-diphosphate aldolase 2
+NHECHLLE_02583	CDS	951	yidC			Membrane protein insertase YidC
+NHECHLLE_02584	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+NHECHLLE_02585	CDS	765		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+NHECHLLE_02586	CDS	504				hypothetical protein
+NHECHLLE_02587	CDS	642				hypothetical protein
+NHECHLLE_02588	CDS	1269	eriC		COG0038	Chloride/fluoride channel protein
+NHECHLLE_02589	CDS	1200				hypothetical protein
+NHECHLLE_02590	CDS	1308	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+NHECHLLE_02591	CDS	123				hypothetical protein
+NHECHLLE_02592	CDS	1119				hypothetical protein
+NHECHLLE_02593	CDS	321				hypothetical protein
+NHECHLLE_02594	CDS	165				hypothetical protein
+NHECHLLE_02595	CDS	201	cspLA_2		COG1278	Cold shock-like protein CspLA
+NHECHLLE_02596	CDS	2790	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+NHECHLLE_02597	CDS	504				hypothetical protein
+NHECHLLE_02598	CDS	1191	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+NHECHLLE_02599	CDS	1299	asnS	6.1.1.22		Asparagine--tRNA ligase
+NHECHLLE_02600	CDS	675	axe2	3.1.1.72		Acetylxylan esterase
+NHECHLLE_02601	CDS	342				hypothetical protein
+NHECHLLE_02602	CDS	360	yccF		COG3304	Inner membrane protein YccF
+NHECHLLE_02603	CDS	2085	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+NHECHLLE_02604	CDS	1467	ycaM		COG0531	Inner membrane transporter YcaM
+NHECHLLE_02605	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02606	CDS	540				hypothetical protein
+NHECHLLE_02607	CDS	441	copY			Transcriptional repressor CopY
+NHECHLLE_02608	CDS	210	copZ			Copper chaperone CopZ
+NHECHLLE_02609	CDS	2187	copA	7.2.2.8		putative copper-importing P-type ATPase A
+NHECHLLE_02610	CDS	2172	copB	7.2.2.8		Copper-exporting P-type ATPase B
+NHECHLLE_02611	CDS	741				hypothetical protein
+NHECHLLE_02612	CDS	1299				hypothetical protein
+NHECHLLE_02613	CDS	753				hypothetical protein
+NHECHLLE_02614	CDS	324				hypothetical protein
+NHECHLLE_02615	CDS	849				hypothetical protein
+NHECHLLE_02616	CDS	813				hypothetical protein
+NHECHLLE_02617	CDS	324				hypothetical protein
+NHECHLLE_02618	CDS	570				hypothetical protein
+NHECHLLE_02619	CDS	693				hypothetical protein
+NHECHLLE_02620	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_02621	CDS	537				hypothetical protein
+NHECHLLE_02622	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02623	CDS	537				hypothetical protein
+NHECHLLE_02624	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_02625	CDS	417				hypothetical protein
+NHECHLLE_02626	CDS	258				hypothetical protein
+NHECHLLE_02627	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_02628	CDS	975	cbh_3	3.5.1.24		Choloylglycine hydrolase
+NHECHLLE_02629	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02630	CDS	1188				IS256 family transposase IS16
+NHECHLLE_02631	CDS	318				hypothetical protein
+NHECHLLE_02632	CDS	366				hypothetical protein
+NHECHLLE_02633	CDS	483				hypothetical protein
+NHECHLLE_02634	CDS	891	pstS1_2		COG0226	Phosphate-binding protein PstS 1
+NHECHLLE_02635	CDS	1296				ISL3 family transposase IS1251
+NHECHLLE_02636	CDS	1269				ISL3 family transposase IS1476
+NHECHLLE_02637	CDS	2472	ctpE_2	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+NHECHLLE_02638	CDS	1737	phoR_2	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+NHECHLLE_02639	CDS	705	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+NHECHLLE_02640	CDS	417				hypothetical protein
+NHECHLLE_02641	CDS	339				hypothetical protein
+NHECHLLE_02642	CDS	1419	ffh		COG0541	Signal recognition particle protein
+NHECHLLE_02643	CDS	579	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+NHECHLLE_02644	CDS	522				IS1595 family transposase ISCac2
+NHECHLLE_02645	CDS	555	chrR	1.6.5.2	COG0431	Quinone reductase
+NHECHLLE_02646	CDS	276	rpsP		COG0228	30S ribosomal protein S16
+NHECHLLE_02647	CDS	252				hypothetical protein
+NHECHLLE_02648	CDS	792				hypothetical protein
+NHECHLLE_02649	CDS	522	rimM			Ribosome maturation factor RimM
+NHECHLLE_02650	CDS	762	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+NHECHLLE_02651	CDS	348	rplS		COG0335	50S ribosomal protein L19
+NHECHLLE_02652	CDS	663				hypothetical protein
+NHECHLLE_02653	CDS	3228				hypothetical protein
+NHECHLLE_02654	CDS	315				hypothetical protein
+NHECHLLE_02655	CDS	375				hypothetical protein
+NHECHLLE_02656	CDS	345				hypothetical protein
+NHECHLLE_02657	CDS	1146				hypothetical protein
+NHECHLLE_02658	CDS	1860				hypothetical protein
+NHECHLLE_02659	CDS	252				hypothetical protein
+NHECHLLE_02660	CDS	1143				IS1595 family transposase ISCco3
+NHECHLLE_02661	CDS	255				hypothetical protein
+NHECHLLE_02662	CDS	1185				hypothetical protein
+NHECHLLE_02663	CDS	138				hypothetical protein
+NHECHLLE_02664	CDS	1911				hypothetical protein
+NHECHLLE_02665	CDS	501				hypothetical protein
+NHECHLLE_02666	CDS	1848				hypothetical protein
+NHECHLLE_02667	CDS	897				hypothetical protein
+NHECHLLE_02668	CDS	390				hypothetical protein
+NHECHLLE_02669	CDS	2346				hypothetical protein
+NHECHLLE_02670	CDS	1188				IS256 family transposase IS16
+NHECHLLE_02671	CDS	2130				hypothetical protein
+NHECHLLE_02672	CDS	1008				hypothetical protein
+NHECHLLE_02673	CDS	912				hypothetical protein
+NHECHLLE_02674	CDS	729				IS21 family transposase ISCth15
+NHECHLLE_02675	CDS	1419				hypothetical protein
+NHECHLLE_02676	CDS	1122			COG3385	IS4 family transposase IS4Bsu1
+NHECHLLE_02677	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02678	CDS	480				hypothetical protein
+NHECHLLE_02679	CDS	291				IS3 family transposase ISEfa8
+NHECHLLE_02680	CDS	837				IS3 family transposase ISEfa8
+NHECHLLE_02681	CDS	981	degA_3		COG1609	HTH-type transcriptional regulator DegA
+NHECHLLE_02682	CDS	1419	bfrA	3.2.1.26	COG1621	Beta-fructosidase
+NHECHLLE_02683	CDS	1470	treP_1		COG1263	PTS system trehalose-specific EIIBC component
+NHECHLLE_02684	CDS	468				hypothetical protein
+NHECHLLE_02685	CDS	873	gmuE_4	2.7.1.4	COG1940	Putative fructokinase
+NHECHLLE_02686	CDS	2535	dgaR_5			Transcriptional regulatory protein DagR
+NHECHLLE_02687	CDS	774	sorC		COG3715	PTS system sorbose-specific EIIC component
+NHECHLLE_02688	CDS	792	manZ_6		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_02689	CDS	492	manX_5	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+NHECHLLE_02690	CDS	411				hypothetical protein
+NHECHLLE_02691	CDS	1401				hypothetical protein
+NHECHLLE_02692	CDS	375				hypothetical protein
+NHECHLLE_02693	CDS	195				hypothetical protein
+NHECHLLE_02694	CDS	354				hypothetical protein
+NHECHLLE_02695	CDS	1548				IS66 family transposase ISRob1
+NHECHLLE_02696	CDS	429				hypothetical protein
+NHECHLLE_02697	CDS	252				hypothetical protein
+NHECHLLE_02698	CDS	216				hypothetical protein
+NHECHLLE_02699	CDS	309				hypothetical protein
+NHECHLLE_02700	CDS	1179	xerC_11			Tyrosine recombinase XerC
+NHECHLLE_02701	CDS	294				hypothetical protein
+NHECHLLE_02702	CDS	2322				hypothetical protein
+NHECHLLE_02703	CDS	459				hypothetical protein
+NHECHLLE_02704	CDS	1014				hypothetical protein
+NHECHLLE_02705	CDS	447				hypothetical protein
+NHECHLLE_02706	CDS	816				hypothetical protein
+NHECHLLE_02707	CDS	1173				hypothetical protein
+NHECHLLE_02708	CDS	198				hypothetical protein
+NHECHLLE_02709	CDS	495				hypothetical protein
+NHECHLLE_02710	CDS	423				hypothetical protein
+NHECHLLE_02711	CDS	1194	yjhB			Putative metabolite transport protein YjhB
+NHECHLLE_02712	CDS	378	adhR		COG0789	HTH-type transcriptional regulator AdhR
+NHECHLLE_02713	CDS	306	hdfR_3			HTH-type transcriptional regulator HdfR
+NHECHLLE_02714	CDS	444				hypothetical protein
+NHECHLLE_02715	CDS	1296				ISL3 family transposase ISEfa11
+NHECHLLE_02716	CDS	816	araQ_6		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_02717	CDS	216				hypothetical protein
+NHECHLLE_02718	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02719	CDS	1665	alsS	2.2.1.6	COG0028	Acetolactate synthase
+NHECHLLE_02720	CDS	465				IS6 family transposase IS1216V
+NHECHLLE_02721	CDS	156				IS6 family transposase IS1216V
+NHECHLLE_02722	CDS	699	fadR			Fatty acid metabolism regulator protein
+NHECHLLE_02723	CDS	735	yurK		COG2188	putative HTH-type transcriptional regulator YurK
+NHECHLLE_02724	CDS	1014	frlB_2	3.5.-.-	COG2222	Fructosamine deglycase FrlB
+NHECHLLE_02725	CDS	411	manX_6	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component
+NHECHLLE_02726	CDS	468		2.7.1.-		putative phosphotransferase enzyme IIB component
+NHECHLLE_02727	CDS	747	sorA_3		COG3715	PTS system sorbose-specific EIIC component
+NHECHLLE_02728	CDS	810	manZ_7		COG3716	PTS system mannose-specific EIID component
+NHECHLLE_02729	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_02730	CDS	1845	bglF_4		COG1263	PTS system beta-glucoside-specific EIIBCA component
+NHECHLLE_02731	CDS	1467	bglH_3	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH
+NHECHLLE_02732	CDS	843	licT_4		COG3711	Transcription antiterminator LicT
+NHECHLLE_02733	CDS	1296				ISL3 family transposase IS1251
+NHECHLLE_02734	CDS	1431	bglF_5		COG1263	PTS system beta-glucoside-specific EIIBCA component
+NHECHLLE_02735	CDS	672			COG2826	IS30 family transposase IS1062
+NHECHLLE_02736	CDS	960			COG2826	IS30 family transposase IS6770
+NHECHLLE_02737	CDS	879				hypothetical protein
+NHECHLLE_02738	CDS	297				hypothetical protein
+NHECHLLE_02739	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02740	CDS	612			COG2826	IS30 family transposase IS6770
+NHECHLLE_02741	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02742	CDS	249				hypothetical protein
+NHECHLLE_02743	CDS	405	ohrB_2		COG1764	Organic hydroperoxide resistance protein OhrB
+NHECHLLE_02744	CDS	1044				hypothetical protein
+NHECHLLE_02745	CDS	564	hsdS		COG0732	Type-1 restriction enzyme EcoKI specificity protein
+NHECHLLE_02746	CDS	510				hypothetical protein
+NHECHLLE_02747	CDS	651				hypothetical protein
+NHECHLLE_02748	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02749	CDS	300				hypothetical protein
+NHECHLLE_02750	CDS	606		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+NHECHLLE_02751	CDS	909				IS982 family transposase ISEfm1
+NHECHLLE_02752	CDS	555	xerC_12			Tyrosine recombinase XerC
+NHECHLLE_02753	CDS	405				hypothetical protein
+NHECHLLE_02754	CDS	1149				IS200/IS605 family transposase ISEfa4
+NHECHLLE_02755	CDS	606				hypothetical protein
+NHECHLLE_02756	CDS	960			COG2826	IS30 family transposase IS1062
+NHECHLLE_02757	CDS	321				hypothetical protein
+NHECHLLE_02758	CDS	837				IS3 family transposase ISEfa8
+NHECHLLE_02759	CDS	291				IS3 family transposase ISEfa8
+NHECHLLE_02760	CDS	543				hypothetical protein
+NHECHLLE_02761	CDS	375	resA			Thiol-disulfide oxidoreductase ResA
+NHECHLLE_02762	CDS	837				IS3 family transposase ISEfa8
+NHECHLLE_02763	CDS	291				IS3 family transposase ISEfa8
+NHECHLLE_02764	CDS	1278				hypothetical protein
+NHECHLLE_02765	CDS	657			COG1136	putative ABC transporter ATP-binding protein
+NHECHLLE_02766	CDS	1377				hypothetical protein
+NHECHLLE_02767	CDS	102				hypothetical protein
+NHECHLLE_02768	CDS	195				hypothetical protein
+NHECHLLE_02769	CDS	1548				IS66 family transposase ISRob1
+NHECHLLE_02770	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02771	CDS	492				hypothetical protein
+NHECHLLE_02772	CDS	696				IS1182 family transposase ISEfa7
+NHECHLLE_02773	CDS	816	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+NHECHLLE_02774	CDS	237				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+NHECHLLE_02775	CDS	288				hypothetical protein
+NHECHLLE_02776	CDS	786	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+NHECHLLE_02777	CDS	1101				hypothetical protein
+NHECHLLE_02778	CDS	825				hypothetical protein
+NHECHLLE_02779	CDS	816				hypothetical protein
+NHECHLLE_02780	CDS	831				hypothetical protein
+NHECHLLE_02781	CDS	1032	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NHECHLLE_02782	CDS	1275				ISL3 family transposase IS1476
+NHECHLLE_02783	CDS	729			COG4753	putative response regulatory protein
+NHECHLLE_02784	CDS	1575				hypothetical protein
+NHECHLLE_02785	CDS	939	yteP_3		COG4209	putative multiple-sugar transport system permease YteP
+NHECHLLE_02786	CDS	912	araQ_7		COG0395	L-arabinose transport system permease protein AraQ
+NHECHLLE_02787	CDS	1473				hypothetical protein
+NHECHLLE_02788	CDS	612				hypothetical protein
+NHECHLLE_02789	CDS	1914				hypothetical protein
+NHECHLLE_02790	CDS	2982	ebgA	3.2.1.23	COG3250	Evolved beta-galactosidase subunit alpha
+NHECHLLE_02791	CDS	1662				hypothetical protein
+NHECHLLE_02792	CDS	933				hypothetical protein
+NHECHLLE_02793	CDS	1614	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NHECHLLE_02794	CDS	1275				ISL3 family transposase IS1476
+NHECHLLE_02795	CDS	654	qseB			Transcriptional regulatory protein QseB
+NHECHLLE_02796	CDS	1320				hypothetical protein
+NHECHLLE_02797	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02798	CDS	261				hypothetical protein
+NHECHLLE_02799	CDS	1149				IS200/IS605 family transposase ISEfa4
+NHECHLLE_02800	CDS	405				hypothetical protein
+NHECHLLE_02801	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02802	CDS	378				IS256 family transposase ISBsu2
+NHECHLLE_02803	CDS	864				IS256 family transposase ISBsu2
+NHECHLLE_02804	CDS	807				IS3 family transposase ISEnfa3
+NHECHLLE_02805	CDS	537				hypothetical protein
+NHECHLLE_02806	CDS	291				IS3 family transposase IS1485
+NHECHLLE_02807	CDS	837				IS3 family transposase IS1485
+NHECHLLE_02808	CDS	456	crr			PTS system glucose-specific EIIA component
+NHECHLLE_02809	CDS	2193	agaA_3	3.2.1.22		Alpha-galactosidase AgaA
+NHECHLLE_02810	CDS	855	rhaS_3			HTH-type transcriptional activator RhaS
+NHECHLLE_02811	CDS	1341	scrB_1	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+NHECHLLE_02812	CDS	1386	treP_2		COG1263	PTS system trehalose-specific EIIBC component
+NHECHLLE_02813	CDS	1149				IS200/IS605 family transposase ISEfa4
+NHECHLLE_02814	CDS	405				hypothetical protein
+NHECHLLE_02815	CDS	1428				IS1182 family transposase ISEfa12
+NHECHLLE_02816	CDS	837				IS3 family transposase IS1485
+NHECHLLE_02817	CDS	735	nagR_2		COG2188	HTH-type transcriptional repressor NagR
+NHECHLLE_02818	CDS	1170	agaS	3.5.99.-	COG2222	D-galactosamine-6-phosphate deaminase AgaS
+NHECHLLE_02819	CDS	996	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+NHECHLLE_02820	CDS	927				hypothetical protein
+NHECHLLE_02821	CDS	1251	licC_3		COG1455	Lichenan permease IIC component
+NHECHLLE_02822	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02823	CDS	1086	xerS		COG0582	Tyrosine recombinase XerS
+NHECHLLE_02824	CDS	519				hypothetical protein
+NHECHLLE_02825	CDS	837				IS3 family transposase IS1485
+NHECHLLE_02826	CDS	477				hypothetical protein
+NHECHLLE_02827	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_02828	CDS	1503	glcB		COG2190	PTS system glucoside-specific EIICBA component
+NHECHLLE_02829	CDS	690	nanE_2	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+NHECHLLE_02830	CDS	819	rpiR		COG1737	HTH-type transcriptional regulator RpiR
+NHECHLLE_02831	CDS	219				hypothetical protein
+NHECHLLE_02832	CDS	1320				IS1380 family transposase IS1678
+NHECHLLE_02833	CDS	234				hypothetical protein
+NHECHLLE_02834	CDS	456				IS200/IS605 family transposase ISAac3
+NHECHLLE_02835	CDS	582				IS3 family transposase ISEfa10
+NHECHLLE_02836	CDS	804				IS3 family transposase ISEfa10
+NHECHLLE_02837	CDS	963	degA_4		COG1609	HTH-type transcriptional regulator DegA
+NHECHLLE_02838	CDS	1440	scrB_2	3.2.1.26		Sucrose-6-phosphate hydrolase
+NHECHLLE_02839	CDS	1947				hypothetical protein
+NHECHLLE_02840	CDS	1173				IS256 family transposase IS256
+NHECHLLE_02841	CDS	873	gmuE_5	2.7.1.4	COG1940	Putative fructokinase
+NHECHLLE_02842	CDS	285				hypothetical protein
+NHECHLLE_02843	CDS	420				IS6 family transposase IS1216V
+NHECHLLE_02844	CDS	600				hypothetical protein
+NHECHLLE_02845	CDS	600	xerC_13			Tyrosine recombinase XerC
+NHECHLLE_02846	CDS	183				hypothetical protein
+NHECHLLE_02847	CDS	180				hypothetical protein
+NHECHLLE_02848	CDS	1521				IS66 family transposase ISCth11
+NHECHLLE_02849	CDS	573	hxlB	5.3.1.27	COG0794	3-hexulose-6-phosphate isomerase
+NHECHLLE_02850	CDS	663	rpe_2	5.1.3.1		Ribulose-phosphate 3-epimerase
+NHECHLLE_02851	CDS	516				hypothetical protein
+NHECHLLE_02852	CDS	285				hypothetical protein
+NHECHLLE_02853	CDS	1329	gatC_3		COG3775	PTS system galactitol-specific EIIC component
+NHECHLLE_02854	CDS	456				hypothetical protein
+NHECHLLE_02855	CDS	1947	manR_3		COG1762	Transcriptional regulator ManR
+NHECHLLE_02856	CDS	1179				IS256 family transposase ISEf1
+NHECHLLE_02857	CDS	291				hypothetical protein
+NHECHLLE_02858	CDS	264				hypothetical protein
+NHECHLLE_02859	CDS	954			COG2826	IS30 family transposase IS1252
+NHECHLLE_02860	CDS	282				hypothetical protein
+NHECHLLE_02861	CDS	357				hypothetical protein
+NHECHLLE_02862	CDS	180				hypothetical protein
+NHECHLLE_02863	CDS	273				hypothetical protein
+NHECHLLE_02864	CDS	156				hypothetical protein
+NHECHLLE_02865	CDS	252				hypothetical protein
+NHECHLLE_02866	CDS	207				hypothetical protein
+NHECHLLE_02867	CDS	258				hypothetical protein
+NHECHLLE_02868	CDS	306	ssb_2		COG0629	Single-stranded DNA-binding protein
+NHECHLLE_02869	CDS	132	ssbA		COG0629	Single-stranded DNA-binding protein A
+NHECHLLE_02870	CDS	900				hypothetical protein
+NHECHLLE_02871	CDS	597				hypothetical protein
+NHECHLLE_02872	CDS	150				hypothetical protein
+NHECHLLE_02873	CDS	2010	topB_3	5.6.2.1	COG0550	DNA topoisomerase 3
+NHECHLLE_02874	CDS	1470				hypothetical protein
+NHECHLLE_02875	CDS	2373				hypothetical protein
+NHECHLLE_02876	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_02877	CDS	195				hypothetical protein
+NHECHLLE_02878	CDS	336				hypothetical protein
+NHECHLLE_02879	CDS	1593				hypothetical protein
+NHECHLLE_02880	CDS	423				hypothetical protein
+NHECHLLE_02881	CDS	297				hypothetical protein
+NHECHLLE_02882	CDS	270				hypothetical protein
+NHECHLLE_02883	CDS	1074				hypothetical protein
+NHECHLLE_02884	CDS	135				hypothetical protein
+NHECHLLE_02885	CDS	807				hypothetical protein
+NHECHLLE_02886	CDS	645				hypothetical protein
+NHECHLLE_02887	CDS	1206				hypothetical protein
+NHECHLLE_02888	CDS	2025				hypothetical protein
+NHECHLLE_02889	CDS	153				hypothetical protein
+NHECHLLE_02890	CDS	594				hypothetical protein
+NHECHLLE_02891	CDS	333				hypothetical protein
+NHECHLLE_02892	CDS	2373				hypothetical protein
+NHECHLLE_02893	CDS	792				hypothetical protein
+NHECHLLE_02894	CDS	1899				hypothetical protein
+NHECHLLE_02895	CDS	1830				hypothetical protein
+NHECHLLE_02896	CDS	2064				hypothetical protein
+NHECHLLE_02897	CDS	303				hypothetical protein
+NHECHLLE_02898	CDS	243				hypothetical protein
+NHECHLLE_02899	CDS	435				hypothetical protein
+NHECHLLE_02900	CDS	2091				hypothetical protein
+NHECHLLE_02901	CDS	261				hypothetical protein
+NHECHLLE_02902	CDS	756				hypothetical protein
+NHECHLLE_02903	CDS	753	srtA	3.4.22.-		Sortase A
+NHECHLLE_02904	CDS	816				hypothetical protein
+NHECHLLE_02905	CDS	1173				hypothetical protein
+NHECHLLE_02906	CDS	675				hypothetical protein
+NHECHLLE_02907	CDS	1074				hypothetical protein
+NHECHLLE_02908	CDS	690				hypothetical protein
+NHECHLLE_02909	CDS	240				hypothetical protein
+NHECHLLE_02910	CDS	123				hypothetical protein
+NHECHLLE_02911	CDS	156				hypothetical protein
+NHECHLLE_02912	CDS	333				hypothetical protein
+NHECHLLE_02913	CDS	1041				hypothetical protein
+NHECHLLE_02914	CDS	1296				ISL3 family transposase ISEfa5
+NHECHLLE_02915	CDS	705				ISL3 family transposase ISEfa5
+NHECHLLE_02916	CDS	456				hypothetical protein
+NHECHLLE_02917	CDS	138				hypothetical protein
+NHECHLLE_02918	CDS	2178				hypothetical protein
+NHECHLLE_02919	CDS	1461				hypothetical protein
+NHECHLLE_02920	CDS	2205	topB_4	5.6.2.1	COG0550	DNA topoisomerase 3
+NHECHLLE_02921	CDS	150				hypothetical protein
+NHECHLLE_02922	CDS	594				hypothetical protein
+NHECHLLE_02923	CDS	900				hypothetical protein
+NHECHLLE_02924	CDS	486	ssb_3		COG0629	Single-stranded DNA-binding protein
+NHECHLLE_02925	CDS	261				hypothetical protein
+NHECHLLE_02926	CDS	207				hypothetical protein
+NHECHLLE_02927	CDS	252				hypothetical protein
+NHECHLLE_02928	CDS	438				hypothetical protein
+NHECHLLE_02929	CDS	708				hypothetical protein
+NHECHLLE_02930	CDS	201				hypothetical protein
+NHECHLLE_02931	CDS	180				hypothetical protein
+NHECHLLE_02932	CDS	150				hypothetical protein
+NHECHLLE_02933	CDS	264				hypothetical protein
+NHECHLLE_02934	CDS	351	pemK	3.1.-.-		Endoribonuclease PemK
+NHECHLLE_02935	CDS	615	bin3_1			Putative transposon Tn552 DNA-invertase bin3
+NHECHLLE_02936	CDS	1326	umuC_2		COG0389	Protein UmuC
+NHECHLLE_02937	CDS	351				hypothetical protein
+NHECHLLE_02938	CDS	105				hypothetical protein
+NHECHLLE_02939	CDS	294				hypothetical protein
+NHECHLLE_02940	CDS	843	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NHECHLLE_02941	CDS	555				hypothetical protein
+NHECHLLE_02942	CDS	1086				hypothetical protein
+NHECHLLE_02943	CDS	333				hypothetical protein
+NHECHLLE_02944	CDS	330				hypothetical protein
+NHECHLLE_02945	CDS	342				hypothetical protein
+NHECHLLE_02946	CDS	402				hypothetical protein
+NHECHLLE_02947	CDS	723				hypothetical protein
+NHECHLLE_02948	CDS	1251				IS110 family transposase ISSpn10
+NHECHLLE_02949	CDS	195				hypothetical protein
+NHECHLLE_02950	CDS	222				hypothetical protein
+NHECHLLE_02951	CDS	1590				hypothetical protein
+NHECHLLE_02952	CDS	423				hypothetical protein
+NHECHLLE_02953	CDS	309				hypothetical protein
+NHECHLLE_02954	CDS	231				hypothetical protein
+NHECHLLE_02955	CDS	807				hypothetical protein
+NHECHLLE_02956	CDS	645				hypothetical protein
+NHECHLLE_02957	CDS	627				hypothetical protein
+NHECHLLE_02958	CDS	549				hypothetical protein
+NHECHLLE_02959	CDS	321				hypothetical protein
+NHECHLLE_02960	CDS	207				hypothetical protein
+NHECHLLE_02961	CDS	351				hypothetical protein
+NHECHLLE_02962	CDS	120				hypothetical protein
+NHECHLLE_02963	CDS	492				hypothetical protein
+NHECHLLE_02964	CDS	141				hypothetical protein
+NHECHLLE_02965	CDS	189				hypothetical protein
+NHECHLLE_02966	CDS	324				hypothetical protein
+NHECHLLE_02967	CDS	225				hypothetical protein
+NHECHLLE_02968	CDS	267				hypothetical protein
+NHECHLLE_02969	CDS	213				hypothetical protein
+NHECHLLE_02970	CDS	225				hypothetical protein
+NHECHLLE_02971	CDS	288				hypothetical protein
+NHECHLLE_02972	CDS	843				hypothetical protein
+NHECHLLE_02973	CDS	297				hypothetical protein
+NHECHLLE_02974	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_02975	CDS	696	walR_2		COG0745	Transcriptional regulatory protein WalR
+NHECHLLE_02976	CDS	1143	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+NHECHLLE_02977	CDS	969	vanH_1	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+NHECHLLE_02978	CDS	1032	vanA_1	6.1.2.1		Vancomycin/teicoplanin A-type resistance protein VanA
+NHECHLLE_02979	CDS	609	vanX	3.4.13.22		D-alanyl-D-alanine dipeptidase
+NHECHLLE_02980	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_02981	CDS	399				hypothetical protein
+NHECHLLE_02982	CDS	285				hypothetical protein
+NHECHLLE_02983	CDS	300				hypothetical protein
+NHECHLLE_02984	CDS	1491				hypothetical protein
+NHECHLLE_02985	CDS	171				hypothetical protein
+NHECHLLE_02986	CDS	618	bin3_2			Putative transposon Tn552 DNA-invertase bin3
+NHECHLLE_02987	CDS	93				hypothetical protein
+NHECHLLE_02988	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_02989	CDS	453				hypothetical protein
+NHECHLLE_02990	CDS	690				hypothetical protein
+NHECHLLE_02991	CDS	2352				hypothetical protein
+NHECHLLE_02992	CDS	387				hypothetical protein
+NHECHLLE_02993	CDS	618	bin3_3			Putative transposon Tn552 DNA-invertase bin3
+NHECHLLE_02994	CDS	300	ligA_2	6.5.1.2		DNA ligase
+NHECHLLE_02995	CDS	168				hypothetical protein
+NHECHLLE_02996	CDS	606	bin3_4			Putative transposon Tn552 DNA-invertase bin3
+NHECHLLE_02997	CDS	1371				Tn3 family transposase TnBth1
+NHECHLLE_02998	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_02999	CDS	318				hypothetical protein
+NHECHLLE_03000	CDS	594	repD			Replication initiation protein
+NHECHLLE_03001	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_03002	CDS	525				hypothetical protein
+NHECHLLE_03003	CDS	1416				hypothetical protein
+NHECHLLE_03004	CDS	363				hypothetical protein
+NHECHLLE_03005	CDS	318				hypothetical protein
+NHECHLLE_03006	CDS	420				hypothetical protein
+NHECHLLE_03007	CDS	492	repN			Replication initiation protein
+NHECHLLE_03008	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_03009	CDS	237				hypothetical protein
+NHECHLLE_03010	CDS	276				hypothetical protein
+NHECHLLE_03011	CDS	954	soj_3	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NHECHLLE_03012	CDS	1494				hypothetical protein
+NHECHLLE_03013	CDS	297				hypothetical protein
+NHECHLLE_03014	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_03015	CDS	1458	rssB			Regulator of RpoS
+NHECHLLE_03016	CDS	366	walK_2	2.7.13.3		Sensor protein kinase WalK
+NHECHLLE_03017	CDS	969	vanH_2	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+NHECHLLE_03018	CDS	1032	vanA_2	6.1.2.1		Vancomycin/teicoplanin A-type resistance protein VanA
+NHECHLLE_03019	CDS	114				hypothetical protein
+NHECHLLE_03020	CDS	399				hypothetical protein
+NHECHLLE_03021	CDS	537				hypothetical protein
+NHECHLLE_03022	CDS	261				hypothetical protein
+NHECHLLE_03023	CDS	2025				hypothetical protein
+NHECHLLE_03024	CDS	153				hypothetical protein
+NHECHLLE_03025	CDS	594				hypothetical protein
+NHECHLLE_03026	CDS	333				hypothetical protein
+NHECHLLE_03027	CDS	2373				hypothetical protein
+NHECHLLE_03028	CDS	792				hypothetical protein
+NHECHLLE_03029	CDS	684				hypothetical protein
+NHECHLLE_03030	CDS	1203	ltrA		COG3344	Group II intron-encoded protein LtrA
+NHECHLLE_03031	CDS	1833				hypothetical protein
+NHECHLLE_03032	CDS	1872				hypothetical protein
+NHECHLLE_03033	CDS	186				hypothetical protein
+NHECHLLE_03034	CDS	303				hypothetical protein
+NHECHLLE_03035	CDS	201				hypothetical protein
+NHECHLLE_03036	CDS	369				hypothetical protein
+NHECHLLE_03037	CDS	183				hypothetical protein
+NHECHLLE_03038	CDS	681				IS6 family transposase IS1216E
+NHECHLLE_03039	CDS	696				hypothetical protein
+NHECHLLE_03040	CDS	201				hypothetical protein
+NHECHLLE_03041	CDS	180				hypothetical protein
+NHECHLLE_03042	CDS	270				hypothetical protein
+NHECHLLE_03043	CDS	258	yoeB_1	3.1.-.-	COG4115	Toxin YoeB
+NHECHLLE_03044	CDS	105				hypothetical protein
+NHECHLLE_03045	CDS	825				hypothetical protein
+NHECHLLE_03046	CDS	615	bin3_5			Putative transposon Tn552 DNA-invertase bin3
+NHECHLLE_03047	CDS	1326	umuC_3		COG0389	Protein UmuC
+NHECHLLE_03048	CDS	351				hypothetical protein
+NHECHLLE_03049	CDS	180				hypothetical protein
+NHECHLLE_03050	CDS	291				hypothetical protein
+NHECHLLE_03051	CDS	789	soj_4	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NHECHLLE_03052	CDS	327				hypothetical protein
+NHECHLLE_03053	CDS	1041				hypothetical protein
+NHECHLLE_03054	CDS	321				IS6 family transposase IS1216V
+NHECHLLE_03055	CDS	228				hypothetical protein
+NHECHLLE_03056	CDS	696				hypothetical protein
+NHECHLLE_03057	CDS	201				hypothetical protein
+NHECHLLE_03058	CDS	180				hypothetical protein
+NHECHLLE_03059	CDS	138				hypothetical protein
+NHECHLLE_03060	CDS	258	yoeB_2	3.1.-.-	COG4115	Toxin YoeB
+NHECHLLE_03061	CDS	801				hypothetical protein
+NHECHLLE_03062	CDS	384				hypothetical protein
+NHECHLLE_03063	CDS	219				hypothetical protein
+NHECHLLE_03064	CDS	447				hypothetical protein
+NHECHLLE_03065	CDS	690				hypothetical protein
+NHECHLLE_03066	CDS	738				hypothetical protein
+NHECHLLE_03067	CDS	540				hypothetical protein
+NHECHLLE_03068	CDS	171				hypothetical protein
+NHECHLLE_03069	CDS	462				hypothetical protein
+NHECHLLE_03070	CDS	375				hypothetical protein
+NHECHLLE_03071	CDS	2127				hypothetical protein
+NHECHLLE_03072	CDS	621	yxdL_2		COG1136	ABC transporter ATP-binding protein YxdL
+NHECHLLE_03073	CDS	138				hypothetical protein
+NHECHLLE_03074	CDS	381				hypothetical protein
+NHECHLLE_03075	CDS	915				hypothetical protein
+NHECHLLE_03076	CDS	690				hypothetical protein
+NHECHLLE_03077	CDS	738				hypothetical protein
+NHECHLLE_03078	CDS	540				hypothetical protein
+NHECHLLE_03079	CDS	171				hypothetical protein
+NHECHLLE_03080	CDS	357				hypothetical protein
+NHECHLLE_03081	CDS	135				hypothetical protein
+NHECHLLE_03082	CDS	1566				hypothetical protein
+NHECHLLE_03083	CDS	363				hypothetical protein
+NHECHLLE_03084	CDS	153				hypothetical protein
+NHECHLLE_03085	CDS	423				hypothetical protein
+NHECHLLE_03086	CDS	1416				hypothetical protein
+NHECHLLE_03087	CDS	831				hypothetical protein
+NHECHLLE_03088	CDS	798				hypothetical protein
+NHECHLLE_03089	CDS	363				hypothetical protein
+NHECHLLE_03090	CDS	147				hypothetical protein
+NHECHLLE_03091	CDS	222				hypothetical protein
+NHECHLLE_03092	CDS	276				hypothetical protein
+NHECHLLE_03093	CDS	1827				hypothetical protein
+NHECHLLE_03094	CDS	717				hypothetical protein
+NHECHLLE_03095	CDS	1818				hypothetical protein
+NHECHLLE_03096	CDS	1899				hypothetical protein
+NHECHLLE_03097	CDS	1008				hypothetical protein
+NHECHLLE_03098	CDS	2670				hypothetical protein
+NHECHLLE_03099	CDS	336				hypothetical protein
+NHECHLLE_03100	CDS	618				hypothetical protein
+NHECHLLE_03101	CDS	468				hypothetical protein
+NHECHLLE_03102	CDS	1956				hypothetical protein
+NHECHLLE_03103	CDS	1137				hypothetical protein
+NHECHLLE_03104	CDS	651				hypothetical protein
+NHECHLLE_03105	CDS	897				hypothetical protein
+NHECHLLE_03106	CDS	231				hypothetical protein
+NHECHLLE_03107	CDS	297				hypothetical protein
+NHECHLLE_03108	CDS	210				hypothetical protein
+NHECHLLE_03109	CDS	867				hypothetical protein
+NHECHLLE_03110	CDS	1827				hypothetical protein
