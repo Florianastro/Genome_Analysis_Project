@@ -1,0 +1,24 @@
+# Raw data files (too large for GitHub)
+00_raw_data/
+*.fastq.gz
+*.fasta.gz
+*.fq.gz
+*.fa.gz
+
+# Large intermediate files
+*.bam
+*.bam.bai
+02_assembly/canu_assembly/*.fasta
+02_assembly/canu_assembly/*.fastq.gz
+02_assembly/canu_assembly/correction/
+02_assembly/canu_assembly/trimming/
+02_assembly/canu_assembly/unitigging/
+02_assembly/flye_assembly/
+
+# SLURM output files
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.swp
