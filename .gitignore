@@ -22,3 +22,15 @@
 # Temporary files
 *.tmp
 *.swp
+# FastQC zip files
+*.zip
+
+# Large directories
+02_assembly/canu_assembly/
+02_assembly/polishing/
+02_assembly/evaluation/busco/
+02_assembly/evaluation/quast/icarus_viewers/
+02_assembly/evaluation/quast/basic_stats/
+02_assembly/evaluation/quast/predicted_genes/
+*.gbk
+*.sqn
