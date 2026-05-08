@@ -34,3 +34,78 @@
 02_assembly/evaluation/quast/predicted_genes/
 *.gbk
 *.sqn
+
+# Large assembly files
+02_assembly/canu_assembly/
+02_assembly/flye_assembly/
+02_assembly/spades_hybrid/
+02_assembly/nanopore_flye/
+02_assembly/polishing/*.bam
+02_assembly/polishing/*.bam.bai
+02_assembly/polishing/*.fasta.*
+02_assembly/snp_calling/*.bam
+02_assembly/snp_calling/*.bam.bai
+02_assembly/snp_calling/*.bcf
+02_assembly/snp_calling/tmp/
+
+# Merqury large files
+02_assembly/evaluation/merqury/illumina.meryl/
+
+# RNA-seq large files
+06_rna_seq/alignment/*.bam
+06_rna_seq/alignment/*.bam.bai
+06_rna_seq/alignment/tmp_*/
+06_rna_seq/trimmed_reads/
+
+# Tn-seq large files
+07_tn_seq/mapped_reads/
+07_tn_seq/counts/*.bed
+
+# Root-level temp files
+efaecium_E745_polished.fasta
+efaecium_E745_polished.meryl/
+efaecium_E745_polished_only.bed
+efaecium_E745_polished_only.wig
+illumina.filt
+illumina.hist
+illumina.hist.ploidy
+illumina.meryl
+logs/
+
+# EggNOG database files
+03_annotation/eggnog/*.hits
+03_annotation/eggnog/*.seed_orthologs
+
+# Clean GFF (generated from original)
+03_annotation/prokka/efaecium_E745_clean.gff
+
+# SLURM logs (keep only latest - already cleaned)
+*.err
+*.out
+
+# Merqury histograms and intermediate files
+02_assembly/evaluation/merqury/*.hist
+02_assembly/evaluation/merqury/efaecium_E745.qv
+02_assembly/evaluation/merqury/efaecium_E745.dist_only.hist
+
+# Raw VCF (keep only filtered)
+02_assembly/snp_calling/raw_variants.vcf
+
+# Individual contig fasta files from plasmid analysis
+03_annotation/plasmid_identification/tig*.fasta
+
+# MUMmer intermediate files
+04_synteny/*.delta
+04_synteny/*.filter
+04_synteny/*.filtered.delta
+04_synteny/*.fplot
+04_synteny/*.gp
+04_synteny/*.rplot
+04_synteny/reference_aus0004.fasta
+
+# HTSeq log files
+06_rna_seq/counts/*.log
+
+	02_assembly/evaluation/merqury/efaecium_E745.efaecium_E745_polished.qv
+
+

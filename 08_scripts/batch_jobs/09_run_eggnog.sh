@@ -14,10 +14,17 @@ module load eggnog-mapper/2.1.13-gfbf-2024a
 PROJECT_ROOT="/home/qich5654/Genome_Analysis_Project"
 cd $PROJECT_ROOT
 
+# Set database path (use the same path as download)
+DB_DIR="/proj/uppmax2026-1-61/nobackup/work/qich5654/eggnog_db"
+
 # Create output directory
 mkdir -p 03_annotation/eggnog
 
 # Run eggNOG-mapper for functional annotation
 emapper.py -i 03_annotation/prokka/efaecium_E745.faa \
-           --output 03_annotation/eggnog/efaecium_E745 \
-           --cpu 4
+           --data_dir $DB_DIR \
+           --output efaecium_E745 \
+           --output_dir 03_annotation/eggnog \
+           --cpu 4 \
+           --usemem \
+           --override

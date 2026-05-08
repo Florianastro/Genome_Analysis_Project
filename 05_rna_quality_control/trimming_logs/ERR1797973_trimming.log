@@ -1,0 +1,6 @@
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 00_raw_data/rna_illumina/RNA-Seq_BH/raw/ERR1797973_1.fastq.gz 00_raw_data/rna_illumina/RNA-Seq_BH/raw/ERR1797973_2.fastq.gz 06_rna_seq/trimmed_reads/BHI/ERR1797973_trimmed_R1.fastq.gz 06_rna_seq/trimmed_reads/BHI/ERR1797973_trimmed_unpaired_R1.fastq.gz 06_rna_seq/trimmed_reads/BHI/ERR1797973_trimmed_R2.fastq.gz 06_rna_seq/trimmed_reads/BHI/ERR1797973_trimmed_unpaired_R2.fastq.gz ILLUMINACLIP:/sw/arch/eb/software/Trimmomatic/0.39-Java-17/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 23953340 Both Surviving: 13831750 (57.74%) Forward Only Surviving: 9150880 (38.20%) Reverse Only Surviving: 47394 (0.20%) Dropped: 923316 (3.85%)
+TrimmomaticPE: Completed successfully

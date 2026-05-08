@@ -1,0 +1,22 @@
+============================================
+  Plasmid Identification Report
+  E. faecium E745
+============================================
+
+Expected plasmids (from Zhang et al. 2017):
+  - pE745-1: 223.7 kbp (largest plasmid)
+  - pE745-2: 32.4 kbp (contains vanA vancomycin resistance)
+  - pE745-3: estimated from assembly
+  - pE745-4: estimated from assembly
+  - pE745-5: estimated from assembly
+  - pE745-6: 9.3 kbp (contains dfrG trimethoprim resistance)
+
+Total plasmids expected: 6
+Size range: 9.3 kbp - 223.7 kbp
+
+Contigs smaller than the chromosome (~2.8 Mb) may be plasmids.
+Look for:
+  - Circular contigs (marked as 'circular=true' in Canu output)
+  - Contigs with plasmid replication genes
+  - Contigs with antibiotic resistance genes
+  - Contigs with conjugation/mobilization genes
